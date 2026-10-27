@@ -2,13 +2,14 @@ import React from 'react';
 import {ArrowRight,ArrowUpRight,BookOpen,Bookmark,Check,Clock,ChevronRight,Languages,Moon} from 'lucide-react';
 import {chapters,volumes,type Chapter,type Progress} from '../lib/book';
 import {learningPaths,pathState} from '../lib/pathways';
+import {practices} from '../lib/practice';
 import {NoctisMark} from './Ornaments';
 type Props={progress:Record<string,Progress>;homeChapter:Chapter;daily:Chapter;dailyDate:string;dailyTopics:string[];completed:number;readingPercent:number;activePathId:string|null;onRead:(id:string)=>void;onPath:(id:string|null)=>void;onBrowse:(category?:string,filter?:string)=>void;onProgress:()=>void;onTranslations:()=>void;footer:React.ReactNode};
 const minutes=(c:Chapter)=>Math.max(1,Math.ceil(c.sourceWords/180));
 export default function HomeLibrary({progress,homeChapter,daily,dailyDate,dailyTopics,completed,readingPercent,activePathId,onRead,onPath,onBrowse,onProgress,onTranslations,footer}:Props){
  const activePath=learningPaths.find(p=>p.id===activePathId),state=activePath?pathState(activePath,progress):null;
  const picks=['meditatie','magie','zei','atei-sceptici'].map(id=>learningPaths.find(p=>p.id===id)!);
- const discoveries=['zevism-mastertable','self-observation-meditation','our-god','zevist-numerology-4','about-guardian-daemons','about-astrology'].map(id=>chapters.find(c=>c.id===id)!).filter(Boolean);
+ const discoveries=['aum','friendsofzevism','our-goddess-bastet','zevist-numerology-5','zevist-numerology-6','zevism-inheritance'].map(id=>chapters.find(c=>c.id===id)!).filter(Boolean);
  const shelf=chapters.filter(c=>progress[c.id]?.bookmarked||(!progress[c.id]?.completed&&(progress[c.id]?.furthest||0)>0)).sort((a,b)=>(progress[b.id]?.updatedAt||0)-(progress[a.id]?.updatedAt||0)).slice(0,3);
  const readingStarted=Object.keys(progress).length>0;
  return <div className="home library-home page-enter">
@@ -25,7 +26,7 @@ export default function HomeLibrary({progress,homeChapter,daily,dailyDate,dailyT
 
   <section className="home-discover-section" aria-labelledby="home-discover-title"><div className="home-section-heading"><div><span className="eyebrow">DESCHIDE UN SUBIECT NOU</span><h2 id="home-discover-title">Lecturi de descoperit</h2></div><button className="text-button" onClick={()=>onBrowse()}>Toate cele {chapters.length}<ArrowRight size={14}/></button></div><div className="home-discover-grid">{discoveries.map(c=><button key={c.id} onClick={()=>onRead(c.id)}><small>{volumes.find(v=>v.id===c.category)?.title}</small><h3>{c.title}</h3><span>{progress[c.id]?.completed?<><Check size={12}/> Citit</>:<><Clock size={12}/> ~{minutes(c)} min</>}<ArrowRight size={14}/></span></button>)}</div></section>
 
-  <section className="home-practice-entry" aria-labelledby="home-practice-title"><img src={import.meta.env.BASE_URL+'assets/hello-kitty-gothic-meditation.png'} alt="" width="85" height="100" loading="lazy"/><div><span className="eyebrow">DIN LECTURĂ ÎN PRACTICĂ</span><h2 id="home-practice-title">Un spațiu pentru atenția ta</h2><p>Șapte articole au instrumente opționale, alături de instrucțiunile complete.</p><div>{[['dot-meditation','Atelierul punctului'],['self-observation-meditation','Autoobservare'],['awareness-of-sound-meditation','Ascultare']].map(([id,label])=><button key={id} onClick={()=>onRead(id)}>{label}<ArrowUpRight size={12}/></button>)}</div></div></section>
+  <section className="home-practice-entry" aria-labelledby="home-practice-title"><img src={import.meta.env.BASE_URL+'assets/hello-kitty-gothic-meditation.png'} alt="" width="85" height="100" loading="lazy"/><div><span className="eyebrow">DIN LECTURĂ ÎN PRACTICĂ</span><h2 id="home-practice-title">Un spațiu pentru atenția ta</h2><p>{chapters.filter(c=>practices[c.id]).length} articole au instrumente opționale, alături de instrucțiunile complete.</p><div>{[['dot-meditation','Atelierul punctului'],['self-observation-meditation','Autoobservare'],['awareness-of-sound-meditation','Ascultare']].map(([id,label])=><button key={id} onClick={()=>onRead(id)}>{label}<ArrowUpRight size={12}/></button>)}</div></div></section>
 
   <button className="home-publication" onClick={onTranslations}><Languages size={18}/><span><strong>Ce urmează în bibliotecă?</strong><small>{chapters.length} pagini integrale acum. Vezi stadiul traducerilor și următoarele lecturi.</small></span><ArrowRight size={16}/></button>
   {footer}

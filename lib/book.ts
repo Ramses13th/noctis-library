@@ -1,6 +1,6 @@
 import rawChapters from './chapters.json';
 import rawCatalog from './catalog.json';
-export type Block = {type: string; en?: string; ro?: string; enRows?: string[][]; roRows?: string[][];cellKinds?:string[][]; src?:string;alt?:string;altRo?:string;enTitle?:string;roTitle?:string;enCategory?:string;roCategory?:string;enAction?:string;roAction?:string;url?:string;links?:{text:string;url:string}[]};
+export type Block = {type: string; en?: string; ro?: string; quoteLanguage?:'grc'|'la'; enRows?: string[][]; roRows?: string[][];cellKinds?:string[][]; src?:string;alt?:string;altRo?:string;enTitle?:string;roTitle?:string;enCategory?:string;roCategory?:string;enAction?:string;roAction?:string;url?:string;links?:{text:string;url:string}[]};
 export type Chapter = {id: string; title: string; originalTitle: string; category: string; url: string; author: string; credit: string; consultedAt?:string; portion: string; status: string; sourceWords: number; translatedSourceWords: number; blocks: Block[]};
 export type Progress = {chapterId: string; position: number; furthest: number; completed: boolean; bookmarked: boolean; note: string; updatedAt: number};
 export const chapters = rawChapters as Chapter[];
@@ -16,11 +16,11 @@ export const volumes = [
   {id:'reference', title:'Simboluri și repere', subtitle:'Limbajul formelor', numeral:'VIII', icon:'diamond'},
 ];
 export const roadmap = [
- {category:'temple',id:'friendsofzevism',title:'Prietenii zevismului: pentru cei interesați',detail:'Continuarea traseului pentru atei și sceptici, cu dialog și izvoare antice.',stage:'next'},
- {category:'magick',id:'zevist-numerology-5',title:'5 · Pentada',detail:'Continuarea seriei după Monadă, Diadă, Triadă și Tetradă.',stage:'next'},
- {category:'meditation',id:'aum',title:'AUM',detail:'Textul complet, imaginile și interpretările din sursă.',stage:'next'},
- {category:'meditation',id:'yoga',title:'Despre Kundalini Yoga',detail:'Articolul explicativ al autorului; practica rămâne în contextul instrucțiunilor originale.',stage:'planned'},
- {category:'reference',id:'zevism-inheritance',title:'Sinteza moștenirii',detail:'Contextul Tabelului general al sintezei.',stage:'planned'},
- {category:'gods',id:'our-goddess-bastet',title:'Zeița Bastet',detail:'Continuarea lecturilor despre Zei.',stage:'planned'},
+ {category:'magick',id:'zevist-numerology-7',title:'7 · Heptada',detail:'Continuarea seriei după Hexadă.',stage:'next'},
+ {category:'meditation',id:'finding-your-meditation-type',title:'Găsirea tipului tău de meditație',detail:'Următoarea lectură propusă pentru traseul de meditație.',stage:'next'},
+ {category:'gods',id:'our-goddess-sekhmet',title:'Zeița Sekhmet',detail:'Continuarea lecturilor despre Zei, după Bastet.',stage:'next'},
+ {category:'meditation',id:'energy-meditation',title:'Meditația energiei',detail:'Continuarea traseului despre energie și practica sursei.',stage:'planned'},
+ {category:'reference',id:'sacred-geometry',title:'Geometrie sacră',detail:'Formele la care trimit articolele de numerologie.',stage:'planned'},
+ {category:'teachings',id:'ancientwisdom',title:'Înțelepciunea antică',detail:'Continuarea lecturilor despre izvoarele antice.',stage:'planned'},
 ];
 export const emptyProgress = (id:string): Progress => ({chapterId:id, position:0, furthest:0, completed:false, bookmarked:false, note:'', updatedAt:0});
