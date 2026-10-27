@@ -1,6 +1,6 @@
 {
   "name": "noctis-library",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,19 +8,19 @@
     "check": "tsc --noEmit",
     "build": "npm run check && vite build && node scripts/finalize.mjs",
     "preview": "vite preview --host 127.0.0.1",
-    "test": "node scripts/test-storage.mjs"
+    "test": "node scripts/test-storage.mjs && node scripts/test-learning.mjs"
   },
   "dependencies": {
+    "lucide-react": "0.468.0",
     "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "lucide-react": "0.468.0"
+    "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "typescript": "5.9.3",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
-    "vite": "7.1.7",
-    "esbuild": "0.25.12"
+    "esbuild": "0.25.12",
+    "typescript": "5.9.3",
+    "vite": "7.3.7"
   },
   "engines": {
     "node": ">=22.13.0"

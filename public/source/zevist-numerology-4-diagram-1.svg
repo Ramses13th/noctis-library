@@ -1,0 +1,7 @@
+<svg aria-labelledby="points-title" class="source-diagram source-number-diagram" color="#151019" height="180" role="img" viewBox="0 0 240 240" width="180" xmlns="http://www.w3.org/2000/svg">
+<title id="points-title">4 dots</title>
+<circle cx="75" cy="75" fill="currentColor" r="8"></circle>
+<circle cx="165" cy="75" fill="currentColor" r="8"></circle>
+<circle cx="75" cy="165" fill="currentColor" r="8"></circle>
+<circle cx="165" cy="165" fill="currentColor" r="8"></circle>
+</svg>

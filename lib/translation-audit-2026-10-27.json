@@ -1,0 +1,246 @@
+{
+  "notes": "Author text preserved. Header title/credits moved to metadata. Repeated UI tabs, local table of contents and duplicate tooltip titles omitted. Original English retained for comparison. No independent human review.",
+  "pages": [
+    {
+      "id": "newcomers",
+      "source": "https://templeofzeus.org/newcomers",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "872ac1e1ec60608541824bdab1ddec72c5b5eccadca5652e4b5079a5a0ba75cf",
+      "sourceWords": 846,
+      "blocks": 36,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "our-god",
+      "source": "https://templeofzeus.org/our-god",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "0f1b369e0c1fe48cbf6a50542ca5d455a998f52ab1046d2799793aab3906dbb4",
+      "sourceWords": 2807,
+      "blocks": 81,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": [
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        },
+        {
+          "rows": 1,
+          "cells": 3
+        }
+      ]
+    },
+    {
+      "id": "zevist-numerology-3",
+      "source": "https://templeofzeus.org/zevist-numerology-3",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "5757a0328d8a59dfb15112267fdbde0c47e2176eb2342784233c4ad53b621056",
+      "sourceWords": 807,
+      "blocks": 32,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-4",
+      "source": "https://templeofzeus.org/zevist-numerology-4",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "0e0ebea86adf42fce55d507adc9c52947faec1c388b8d7ed74c914d018f67809",
+      "sourceWords": 796,
+      "blocks": 32,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "self-observation-meditation",
+      "source": "https://templeofzeus.org/self-observation-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "364391519da19b07b6c9ec40c47a26540f99396ccd17705af4d7287341f1c94e",
+      "sourceWords": 278,
+      "blocks": 20,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "awareness-of-sound-meditation",
+      "source": "https://templeofzeus.org/awareness-of-sound-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "fb30b901bd8d7632763a18eb2c283f23001c77edf722f2ccbd751a83db84208c",
+      "sourceWords": 290,
+      "blocks": 14,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "chakra-sounds-meditation",
+      "source": "https://templeofzeus.org/chakra-sounds-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "effafce764e246c3ea998f1dfc9a66d7e7365c1a9413ff33777023c6a5176212",
+      "sourceWords": 200,
+      "blocks": 9,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "outsiders",
+      "source": "https://templeofzeus.org/outsiders",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "43099646f6e856bf05e1fb1d5b8f66500977a762597012fdb90890a4c9b4187d",
+      "sourceWords": 1198,
+      "blocks": 28,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": []
+    },
+    {
+      "id": "zevism-mastertable",
+      "source": "https://templeofzeus.org/zevism-mastertable",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "57541fefd266f68f616f458c8a3a538d7effb08bbb6aef99b3c9a89183adc6b7",
+      "sourceWords": 1400,
+      "blocks": 9,
+      "complete": true,
+      "textExtractionMatched": true,
+      "tables": [
+        {
+          "rows": 14,
+          "cells": 154
+        },
+        {
+          "rows": 11,
+          "cells": 44
+        }
+      ]
+    }
+  ]
+}

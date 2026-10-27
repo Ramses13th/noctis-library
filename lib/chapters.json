@@ -195,6 +195,543 @@
     ]
   },
   {
+    "id": "newcomers",
+    "originalTitle": "Zevism: Instructions for New People",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 846,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "Zevism is the religion of Zeus and the Ancient Gods, and we uphold it as the common spiritual inheritance of all mankind. Its purpose is the growth of the human being: the strengthening of the soul, the cultivation of knowledge, the mastery of character, and the development of personal power under the guidance of the Gods.",
+        "links": [],
+        "ro": "Zevismul este religia lui Zeus și a Zeilor Străvechi, iar noi îl susținem ca moștenire spirituală comună a întregii omeniri. Scopul său este dezvoltarea ființei umane: întărirea sufletului, cultivarea cunoașterii, stăpânirea caracterului și dezvoltarea puterii personale sub îndrumarea Zeilor."
+      },
+      {
+        "type": "p",
+        "en": "We teach that the Gods are Eternal Essences : living Divine intelligences whose existence and powers transcend nations, languages, and historical periods. Peoples across the world have approached Them through different sacred names, symbols, philosophies, and rites. In these traditions, Zevism recognizes a convergence upon the Ancient Gods.",
+        "links": [],
+        "ro": "Învățătura noastră spune că Zeii sunt Esențe Eterne: inteligențe Divine vii, a căror existență și ale căror puteri transcend națiunile, limbile și perioadele istorice. Popoare din întreaga lume s-au apropiat de Ei prin diferite nume sacre, simboluri, filosofii și rituri. În aceste tradiții, zevismul recunoaște o convergență către Zeii Străvechi."
+      },
+      {
+        "type": "p",
+        "en": "The Temple brings together teachings from Egyptian, Greek, Indian, Babylonian, Roman, Norse, Japanese, and other traditions. Their wisdom has a home here, where their distinct contributions can be studied and understood within our teachings and doctrines .",
+        "links": [
+          {
+            "text": "teachings and doctrines",
+            "url": "https://templeofzeus.org/our-doctrines"
+          }
+        ],
+        "ro": "Templul reunește învățături din tradițiile egiptene, grecești, indiene, babiloniene, romane, nordice, japoneze și din alte tradiții. Înțelepciunea lor își are locul aici, unde contribuțiile lor distincte pot fi studiate și înțelese în cadrul învățăturilor și doctrinelor noastre."
+      },
+      {
+        "type": "p",
+        "en": "Whatever your ancestry or nationality, you are welcome to study this inheritance and take part in its continuation. We ask for sincerity, a willingness to learn, and the discipline to put knowledge into practice.",
+        "links": [],
+        "ro": "Oricare ți-ar fi originea sau naționalitatea, ești binevenit să studiezi această moștenire și să iei parte la continuarea ei. Cerem sinceritate, dorință de a învăța și disciplina de a pune cunoașterea în practică."
+      },
+      {
+        "type": "h2",
+        "en": "1. Learn Who the Gods Are",
+        "links": [],
+        "ro": "1. Află cine sunt Zeii"
+      },
+      {
+        "type": "p",
+        "en": "Begin with Zeus and the Ancient Gods . Study Their qualities, powers, sacred associations, and the ways in which They guide human development.",
+        "links": [
+          {
+            "text": "Zeus",
+            "url": "https://templeofzeus.org/our-god"
+          },
+          {
+            "text": "the Ancient Gods",
+            "url": "https://templeofzeus.org/thegods"
+          }
+        ],
+        "ro": "Începe cu Zeus și cu Zeii Străvechi. Studiază-Le calitățile, puterile, asocierile sacre și felurile în care îndrumă dezvoltarea umană."
+      },
+      {
+        "type": "p",
+        "en": "This study gives direction to your practice. Learning about wisdom, justice, beauty, courage, and order should gradually influence how you think, what you value, and how you act.",
+        "links": [],
+        "ro": "Acest studiu dă o direcție practicii tale. Cunoașterea înțelepciunii, dreptății, frumuseții, curajului și ordinii ar trebui să influențeze treptat felul în care gândești, lucrurile pe care le prețuiești și felul în care acționezi."
+      },
+      {
+        "type": "p",
+        "en": "Read patiently. Keep questions as you study, and return to subjects as your understanding develops.",
+        "links": [],
+        "ro": "Citește cu răbdare. Notează-ți întrebările pe măsură ce studiezi și revino la subiecte pe măsură ce înțelegerea ta se dezvoltă."
+      },
+      {
+        "type": "h2",
+        "en": "2. Build Character Alongside Power",
+        "links": [],
+        "ro": "2. Dezvoltă caracterul odată cu puterea"
+      },
+      {
+        "type": "p",
+        "en": "Spiritual growth and ethical development belong together. As your abilities increase, so does your responsibility for how you use them.",
+        "links": [],
+        "ro": "Creșterea spirituală și dezvoltarea etică merg împreună. Pe măsură ce capacitățile tale sporesc, crește și răspunderea pentru felul în care le folosești."
+      },
+      {
+        "type": "p",
+        "en": "Personality mastery begins with learning to govern your attention, emotions, habits, and decisions. It takes shape in ordinary actions: speaking honestly, keeping your commitments, exercising restraint, facing difficulties with courage, and treating others justly.",
+        "links": [],
+        "ro": "Stăpânirea personalității începe prin a învăța să îți guvernezi atenția, emoțiile, obiceiurile și deciziile. Ea prinde formă în acțiuni obișnuite: să vorbești sincer, să îți respecți angajamentele, să dai dovadă de cumpătare, să înfrunți dificultățile cu curaj și să îi tratezi pe ceilalți drept."
+      },
+      {
+        "type": "p",
+        "en": "Study the Ethics of Zevism , beginning with Life Ethics and the 36 Virtues . Choose a virtue to work on deliberately. Examine your conduct, correct your mistakes, and practise until better choices become established habits.",
+        "links": [
+          {
+            "text": "the Ethics of Zevism",
+            "url": "https://templeofzeus.org/ethicsofthegods"
+          },
+          {
+            "text": "Life Ethics",
+            "url": "https://templeofzeus.org/ethics-life"
+          },
+          {
+            "text": "36 Virtues",
+            "url": "https://templeofzeus.org/ethics-core"
+          }
+        ],
+        "ro": "Studiază Etica zevismului, începând cu Etica vieții și cele 36 de Virtuți. Alege o virtute asupra căreia să lucrezi în mod deliberat. Examinează-ți conduita, îndreaptă-ți greșelile și exersează până când alegerile mai bune devin obiceiuri statornice."
+      },
+      {
+        "type": "p",
+        "en": "Our aim is a person capable of using strength with judgment, freedom with responsibility, and knowledge with integrity.",
+        "links": [],
+        "ro": "Ținta noastră este o persoană capabilă să folosească puterea cu discernământ, libertatea cu responsabilitate și cunoașterea cu integritate."
+      },
+      {
+        "type": "h2",
+        "en": "3. Make Your Commitment When You Understand It",
+        "links": [],
+        "ro": "3. Asumă-ți angajamentul când îl înțelegi"
+      },
+      {
+        "type": "p",
+        "en": "After studying the foundations, those who wish to enter Zevism may undertake the Initiation to Zeus and the Ancient Gods .",
+        "links": [
+          {
+            "text": "Initiation to Zeus and the Ancient Gods",
+            "url": "https://templeofzeus.org/dedicate"
+          }
+        ],
+        "ro": "După studierea temeliilor, cei care doresc să intre în zevism pot săvârși Inițierea către Zeus și Zeii Străvechi."
+      },
+      {
+        "type": "p",
+        "en": "This is your initiation: a freely chosen commitment to the Gods and to your own spiritual development. Read the instructions carefully and understand the commitment you are making.",
+        "links": [],
+        "ro": "Aceasta este inițierea ta: un angajament liber ales față de Zei și față de propria dezvoltare spirituală. Citește cu atenție instrucțiunile și înțelege angajamentul pe care ți-l asumi."
+      },
+      {
+        "type": "p",
+        "en": "Zeus and the Gods call us to develop independence, competence, and wisdom. Devotion carries an expectation of effort: the knowledge you receive must become something you practise.",
+        "links": [],
+        "ro": "Zeus și Zeii ne cheamă să ne dezvoltăm independența, competența și înțelepciunea. Devotamentul presupune efort: cunoașterea pe care o primești trebuie să devină ceva ce practici."
+      },
+      {
+        "type": "h2",
+        "en": "4. Establish a Daily Meditation Practice",
+        "links": [],
+        "ro": "4. Stabilește o practică zilnică de meditație"
+      },
+      {
+        "type": "p",
+        "en": "Power meditation is a foundation of Zevist practice. Its purpose is to strengthen the soul, develop its faculties, and increase your capacity to perceive and work with spiritual energy.",
+        "links": [],
+        "ro": "Meditația pentru putere este o temelie a practicii zeviste. Scopul ei este să întărească sufletul, să îi dezvolte facultățile și să îți sporească putința de a percepe și de a lucra cu energia spirituală."
+      },
+      {
+        "type": "p",
+        "en": "After your commitment, begin with the Basic Meditation Program . Use the Meditation section to study the exercises and their purposes.",
+        "links": [
+          {
+            "text": "Basic Meditation Program",
+            "url": "https://templeofzeus.org/basic-meditation-program"
+          },
+          {
+            "text": "Meditation section",
+            "url": "https://templeofzeus.org/meditation"
+          }
+        ],
+        "ro": "După asumarea angajamentului, începe cu Programul de bază de meditație. Folosește secțiunea Meditație pentru a studia exercițiile și scopurile lor."
+      },
+      {
+        "type": "p",
+        "en": "Set aside a regular time, learn the foundations carefully, and progress at a manageable pace. Keep a record of your practice and questions. Look for growth in concentration, self-command, understanding, and the consistency of your effort.",
+        "links": [],
+        "ro": "Rezervă-ți un interval regulat, învață temeliile cu atenție și progresează într-un ritm pe care îl poți susține. Ține o evidență a practicii și a întrebărilor tale. Urmărește dezvoltarea concentrării, a stăpânirii de sine, a înțelegerii și a constanței efortului tău."
+      },
+      {
+        "type": "p",
+        "en": "Meditation and ethics should support each other throughout your development.",
+        "links": [],
+        "ro": "Meditația și etica ar trebui să se sprijine reciproc de-a lungul dezvoltării tale."
+      },
+      {
+        "type": "h2",
+        "en": "5. Develop Your Relationship with the Gods",
+        "links": [],
+        "ro": "5. Dezvoltă-ți relația cu Zeii"
+      },
+      {
+        "type": "p",
+        "en": "Prayer, meditation, and ritual are ways of approaching the Gods directly. Zevist prayer involves focused thought, devotion, and the direction of spiritual energy. Our teachings connect the development of spiritual perception and inner communication with sustained meditation.",
+        "links": [],
+        "ro": "Rugăciunea, meditația și ritualul sunt căi de apropiere directă de Zei. Rugăciunea zevistă implică gândire concentrată, devotament și dirijarea energiei spirituale. Învățăturile noastre leagă dezvoltarea percepției spirituale și a comunicării interioare de meditația susținută."
+      },
+      {
+        "type": "p",
+        "en": "The Temple’s rituals provide structured practices for devotion and spiritual work. A regular weekly ritual can help newcomers establish continuity in their relationship with the Gods.",
+        "links": [
+          {
+            "text": "Temple’s rituals",
+            "url": "https://tozrituals.org/"
+          }
+        ],
+        "ro": "Ritualurile Templului oferă practici structurate pentru devotament și lucrare spirituală. Un ritual săptămânal regulat îi poate ajuta pe începători să stabilească o continuitate în relația lor cu Zeii."
+      },
+      {
+        "type": "p",
+        "en": "There are no required mediators between you and the Gods. Teachers and the community can offer instruction; your relationship with the Divine develops through your own participation.",
+        "links": [],
+        "ro": "Nu sunt necesari intermediari între tine și Zei. Învățătorii și comunitatea pot oferi îndrumare; relația ta cu Divinul se dezvoltă prin propria participare."
+      },
+      {
+        "type": "h2",
+        "en": "Personal Freedom and Responsibility",
+        "links": [],
+        "ro": "Libertate și responsabilitate personală"
+      },
+      {
+        "type": "p",
+        "en": "Your consensual adult sexual life is your own. This includes heterosexual, homosexual, bisexual, and consensual group relationships, as well as asexuality or choosing to remain sexually inactive. Consent, honesty, and responsibility guide how that freedom is exercised.",
+        "links": [],
+        "ro": "Viața ta sexuală consensuală de adult îți aparține. Aceasta include relațiile heterosexuale, homosexuale, bisexuale și relațiile de grup consensuale, precum și asexualitatea sau alegerea de a rămâne inactiv sexual. Consimțământul, sinceritatea și responsabilitatea îndrumă exercitarea acestei libertăți."
+      },
+      {
+        "type": "p",
+        "en": "Recreational drug use remains an individual decision for which the individual bears responsibility. The Temple strongly discourages it and teaches spiritual development through disciplined practice.",
+        "links": [],
+        "ro": "Consumul recreațional de droguri rămâne o decizie individuală pentru care individul poartă răspunderea. Templul îl descurajează ferm și predă dezvoltarea spirituală prin practică disciplinată."
+      },
+      {
+        "type": "p",
+        "en": "Zevism values the ability to direct your own life. That freedom grows through knowledge, sound judgment, and mastery of your choices.",
+        "links": [],
+        "ro": "Zevismul prețuiește capacitatea de a-ți conduce propria viață. Această libertate crește prin cunoaștere, judecată sănătoasă și stăpânirea propriilor alegeri."
+      },
+      {
+        "type": "h2",
+        "en": "Study with the Community",
+        "links": [],
+        "ro": "Studiază alături de comunitate"
+      },
+      {
+        "type": "p",
+        "en": "Join our forums to ask questions, discuss the teachings, and find support for your practice. Personal study and thoughtful discussion are both part of life in the Temple.",
+        "links": [
+          {
+            "text": "Join our forums",
+            "url": "https://ancient-forums.com/"
+          }
+        ],
+        "ro": "Alătură-te forumurilor noastre pentru a pune întrebări, a discuta învățăturile și a găsi sprijin pentru practica ta. Studiul personal și discuția atentă fac amândouă parte din viața în Templu."
+      },
+      {
+        "type": "p",
+        "en": "For live conversation, visit Vultus Templorum , our online live chat community.",
+        "links": [
+          {
+            "text": "Vultus Templorum",
+            "url": "https://vultustemplorum.org/"
+          }
+        ],
+        "ro": "Pentru conversații în direct, vizitează Vultus Templorum, comunitatea noastră de chat online în timp real."
+      },
+      {
+        "type": "p",
+        "en": "Our websites are undergoing substantial updates, and some older articles await revision. Use the sections linked here as your starting point, then continue through the wider library.",
+        "links": [],
+        "ro": "Site-urile noastre trec prin actualizări substanțiale, iar unele articole mai vechi așteaptă revizuirea. Folosește secțiunile către care găsești legături aici ca punct de pornire, apoi continuă prin biblioteca mai largă."
+      },
+      {
+        "type": "p",
+        "en": "If you were raised Christian or Muslim, Nostos: Returning Home is the Temple’s road home for you, with a track for each faith.",
+        "links": [
+          {
+            "text": "Nostos: Returning Home",
+            "url": "https://templeofzeus.org/nostos"
+          }
+        ],
+        "ro": "Dacă ai fost crescut creștin sau musulman, Nostos: Întoarcerea acasă este drumul spre casă pe care ți-l oferă Templul, cu un traseu pentru fiecare credință."
+      },
+      {
+        "type": "p",
+        "en": "The inheritance of the Ancient Gods is yours to study. Through understanding and practice, you can make it part of your life.",
+        "links": [],
+        "ro": "Moștenirea Zeilor Străvechi îți stă la dispoziție pentru studiu. Prin înțelegere și practică, o poți face parte din viața ta."
+      }
+    ],
+    "title": "Instrucțiuni pentru începători",
+    "category": "temple",
+    "url": "https://templeofzeus.org/newcomers",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 846
+  },
+  {
+    "id": "outsiders",
+    "originalTitle": "Information for Atheists & Other Skeptics",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 1198,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "Here is an important message for atheists and those who consider the occult, paranormal, and astral world to be non-existent and/or just plain nonsense; please take the time to read this:",
+        "links": [],
+        "ro": "Iată un mesaj important pentru atei și pentru cei care consideră că lumea ocultă, paranormală și astrală este inexistentă și/sau doar o absurditate; te rog să îți faci timp să citești aceasta:"
+      },
+      {
+        "type": "p",
+        "en": "I have received several personal e-mails from former atheists and other skeptics who believed Zevism and the occult were nothing but fantasy, products of an overactive imagination, and/or unrealistic foolishness. All of these people wrote to me because they realized, to their surprise, that Zeus is *very* real.",
+        "links": [],
+        "ro": "Am primit mai multe e-mailuri personale de la foști atei și alți sceptici care credeau că zevismul și ocultismul nu erau decât fantezie, produse ale unei imaginații prea active și/sau o prostie nerealistă. Toți acești oameni mi-au scris deoarece au realizat, spre surprinderea lor, că Zeus este *foarte* real."
+      },
+      {
+        "type": "p",
+        "en": "I have also read public articles from varied sources where secular individuals attempted to experiment with the rituals on this website just for kicks. They got blatant experiences all right; the wrong ones.",
+        "links": [],
+        "ro": "Am citit și articole publice din surse variate în care persoane seculare au încercat să experimenteze ritualurile de pe acest site doar de distracție. Au avut, într-adevăr, experiențe de netăgăduit; pe cele nepotrivite."
+      },
+      {
+        "type": "p",
+        "en": "Zevism is unlike mainstream religions. Those who open their minds to Zeus *will* experience him. Unfortunately, Christianity and its cohorts have given people the impression that the spirit/astral world is nothing but bunk. Little or nothing ever happens spiritually with these religions. Their anti-life doctrines are all based upon stolen material from religions that preceded them. This material was hideously corrupted, with all of the spiritual knowledge being removed from it and twisted to conform to their agenda to spiritually enslave the world, keeping spiritual knowledge and power in the hands of a few.",
+        "links": [],
+        "ro": "Zevismul se deosebește de religiile dominante. Cei care își deschid mintea către Zeus *vor* avea experiența lui. Din păcate, creștinismul și aliații săi le-au dat oamenilor impresia că lumea spiritelor/astrală nu este decât o prostie. În aceste religii, puține lucruri sau nimic nu se întâmplă vreodată pe plan spiritual. Doctrinele lor potrivnice vieții se bazează toate pe material furat din religiile care le-au precedat. Acest material a fost corupt în mod hidos, eliminându-se din el întreaga cunoaștere spirituală și răstălmăcindu-l pentru a se potrivi agendei lor de a înrobi spiritual lumea, păstrând cunoașterea și puterea spirituală în mâinile câtorva."
+      },
+      {
+        "type": "p",
+        "en": "Zevism is very different. Zevism is in fact, humanity's ORIGINAL RELIGION. Zevism is based upon the ancient religions that predated Judaism and Christianity by hundreds to thousands of years.",
+        "links": [
+          {
+            "text": "ORIGINAL RELIGION.",
+            "url": "https://templeofzeus.org/our-origins"
+          }
+        ],
+        "ro": "Zevismul este foarte diferit. Zevismul este, de fapt, RELIGIA ORIGINARĂ a omenirii. Zevismul se bazează pe religiile străvechi care au precedat iudaismul și creștinismul cu sute până la mii de ani."
+      },
+      {
+        "type": "p",
+        "en": "Zevism also differs from other modern-day religions in that Zevism is based upon science. Everything of the occult can be explained scientifically. Unfortunately, Judeo/Christianity has held humanity back dangerously in the areas of science, technology, understanding of the occult, and knowledge of the soul. Unbeknownst to many, Christianity has always been and is nothing more than a tool used to remove knowledge, especially spiritual knowledge. Our limited understanding of Quantum Physics has revealed a bit about the human soul.",
+        "links": [
+          {
+            "text": "human soul.",
+            "url": "https://templeofzeus.org/physics-of-the-soul"
+          }
+        ],
+        "ro": "Zevismul se deosebește și de alte religii ale zilelor noastre prin faptul că se bazează pe știință. Tot ceea ce ține de ocult poate fi explicat științific. Din păcate, iudeo-creștinismul a ținut omenirea pe loc în mod periculos în domeniile științei, tehnologiei, înțelegerii ocultului și cunoașterii sufletului. Fără ca mulți să știe, creștinismul a fost și este doar un instrument folosit pentru a elimina cunoașterea, mai ales cunoașterea spirituală. Înțelegerea noastră limitată a fizicii cuantice a dezvăluit câte ceva despre sufletul uman."
+      },
+      {
+        "type": "p",
+        "en": "\"Kirlian Photography\" reveals the fact that we have an aura. Kirlian photography is a specialized form of photography, along the same lines as x-ray imaging. Though skeptics try to contradict the validity of Kirlian photography, there are photos of auras of individuals before and after performing a hatha yoga session [which amplifies the powers of the soul], and there is a noted difference, as the aura is much stronger after the session, and this is also keenly felt by practitioners; the \"energy buzz\" after the session engulfing the entire body. The soul glows. Doubt this? Just practice hatha [physical yoga] for a month or more correctly, and just see if you don't begin to feel your soul.",
+        "links": [
+          {
+            "text": "\"Kirlian Photography\"",
+            "url": "https://www.crystalinks.com/kirlian.html"
+          }
+        ],
+        "ro": "«Fotografia Kirlian» dezvăluie faptul că avem o aură. Fotografia Kirlian este o formă specializată de fotografie, de aceeași natură cu imagistica prin raze X. Deși scepticii încearcă să conteste validitatea fotografiei Kirlian, există fotografii ale aurelor unor persoane înainte și după efectuarea unei sesiuni de hatha yoga [care amplifică puterile sufletului], și se observă o diferență, aura fiind mult mai puternică după sesiune; acest lucru este simțit intens și de practicanți: «vibrația energiei» de după sesiune cuprinde întregul corp. Sufletul strălucește. Te îndoiești de aceasta? Practică doar hatha [yoga fizică] corect, timp de o lună sau mai mult, și vezi dacă nu începi să îți simți sufletul."
+      },
+      {
+        "type": "p",
+        "en": "Zevism is a religion of the mind and the soul. The U.S. Government and other world powers are well aware of this ability within humans and the reality of psychic warfare, though they keep much of this from the public. (References are at the bottom of this page.)",
+        "links": [],
+        "ro": "Zevismul este o religie a minții și a sufletului. Guvernul SUA și alte puteri mondiale cunosc bine această capacitate a oamenilor și realitatea războiului psihic, deși ascund publicului o mare parte din acestea. (Referințele se află la sfârșitul acestei pagini.)"
+      },
+      {
+        "type": "p",
+        "en": "Regardless of what you may have been taught to believe or what you are convinced is irrational and nonsensical, Zeus and the Gods are VERY REAL. They are not \"evil\", as the Christian Church has depicted them to be. In truth, Zeus does not conform to the Christian or Western concept of \"evil\". \"Good\" and \"evil\" are nothing more than cultural concepts; Zeus transcends this.",
+        "links": [],
+        "ro": "Indiferent ce ai fost învățat să crezi sau despre ce ești convins că este irațional și lipsit de sens, Zeus și Zeii sunt FOARTE REALI. Ei nu sunt «răi», așa cum i-a înfățișat Biserica creștină. În adevăr, Zeus nu se conformează conceptului creștin sau occidental de «rău». «Binele» și «răul» nu sunt decât concepte culturale; Zeus le transcende."
+      },
+      {
+        "type": "p",
+        "en": "If you are inexperienced, bear this in mind. Regardless of the formal education you might have obtained, put aside everything you have been taught and proceed with respect. People who are serious and respectful are given the same in kind from Zeus and the Gods.",
+        "links": [],
+        "ro": "Dacă ești lipsit de experiență, ține seama de aceasta. Indiferent de educația formală pe care ai dobândit-o, lasă deoparte tot ceea ce ai fost învățat și înaintează cu respect. Oamenilor serioși și respectuoși li se răspunde în același fel de către Zeus și Zei."
+      },
+      {
+        "type": "p",
+        "en": "Those who are out for laughs and kicks are inviting disaster. Zevism is also very different from other religions in that once you open a door to him in your mind, it will be permanent. Zevism is analogous to a one-way street where you can only go forward; there is no turning back. I am not addressing those of you who are here for research or scholastic purposes. One must perform rituals and/or intentionally act in some way to invite Zeus and/or the Gods into one's life. Zeus DOES NOT push himself on anyone.",
+        "links": [],
+        "ro": "Cei care caută râsete și distracție invită dezastrul. Zevismul este foarte diferit și de alte religii prin faptul că, odată ce îi deschizi o ușă în mintea ta, aceasta va rămâne deschisă permanent. Zevismul este asemenea unei străzi cu sens unic, pe care poți merge doar înainte; nu există întoarcere. Nu mă adresez acelora dintre voi care vă aflați aici în scopuri de cercetare sau academice. Este necesar ca o persoană să efectueze ritualuri și/sau să acționeze intenționat într-un anumit fel pentru a-i invita pe Zeus și/sau pe Zei în viața sa. Zeus NU se impune nimănui."
+      },
+      {
+        "type": "p",
+        "en": "My article here is intended to inform outsiders, atheists, and other skeptics of the truth about Zevism. Remember, treat the knowledge you are given here with serious respect, and you will be fine. In addition to the e-mails I have gotten from former skeptics, my purpose for writing this article is because a group of professional people who were skeptics attempted to summon a Demon as a joke, and were brought to my attention after the fact. They found out the hard way that Zevic rituals are not something to take lightly or toy around with. In conclusion, Zevists respect free thought and staunchly support the separation of church and state. We do not proselytize, nor do we push our religion on anyone. I am merely stating some important facts for people who have chosen to visit this website.",
+        "links": [],
+        "ro": "Articolul meu de aici urmărește să îi informeze pe cei din afară, pe atei și pe alți sceptici despre adevărul privitor la zevism. Nu uita, tratează cunoașterea care ți se oferă aici cu un respect serios și totul va fi bine. Pe lângă e-mailurile primite de la foști sceptici, motivul pentru care scriu acest articol este că un grup de oameni cu pregătire profesională, care erau sceptici, au încercat să invoce un Demon în glumă, iar cazul lor mi-a fost adus la cunoștință după aceea. Au aflat pe calea grea că ritualurile zevice nu sunt ceva de tratat cu ușurință sau cu care să te joci. În încheiere, zeviștii respectă gândirea liberă și susțin ferm separarea bisericii de stat. Nu facem prozelitism și nici nu ne impunem religia nimănui. Enunț doar câteva fapte importante pentru oamenii care au ales să viziteze acest site."
+      },
+      {
+        "type": "p",
+        "en": "- Temple of Zeus",
+        "links": [],
+        "ro": "— Templul lui Zeus"
+      },
+      {
+        "type": "p",
+        "en": "About myself: Though I was raised as a Christian, I became an atheist in my early twenties. I was a strong atheist for over fifteen years before coming to Zevism. I did not even believe in the existence of the human soul. I attended University, majoring in the physical sciences for a number of years, and have been an active former member of American Mensa.",
+        "links": [],
+        "ro": "Despre mine: deși am fost crescut creștin, am devenit ateu la începutul decadei de vârstă de douăzeci de ani. Am fost un ateu convins timp de peste cincisprezece ani înainte de a ajunge la zevism. Nici măcar nu credeam în existența sufletului uman. Am urmat universitatea, studiind științele fizice timp de mai mulți ani, și am fost membru activ al American Mensa."
+      },
+      {
+        "type": "h2",
+        "en": "Books to read concerning government awareness and involvement with the \"paranormal\":",
+        "links": [],
+        "ro": "Cărți de citit despre cunoașterea și implicarea guvernelor în «paranormal»:"
+      },
+      {
+        "type": "li",
+        "en": "Psychic Warfare by David Moorehouse © 2000",
+        "links": [],
+        "ro": "Psychic Warfare, de David Moorehouse © 2000"
+      },
+      {
+        "type": "li",
+        "en": "The Seventh Sense by Lyn Buchanan © 2003 The above two books, available in paperback, reveal the U.S. Army's use of psychics and remote viewing for spying. \"The Seventh Sense\" has a reference to the astral plane. This has nothing to do with Zevism, regardless of what you may have been taught to believe. To learn the truth about \"Hell\", please click here.",
+        "links": [
+          {
+            "text": "please click here.",
+            "url": "https://templeofzeus.org/afterlife-info"
+          }
+        ],
+        "ro": "The Seventh Sense, de Lyn Buchanan © 2003. Cele două cărți de mai sus, disponibile în ediții broșate, dezvăluie folosirea de către armata SUA a persoanelor cu capacități psihice și a vederii la distanță în scopuri de spionaj. «The Seventh Sense» conține o referire la planul astral. Acest lucru nu are nimic de-a face cu zevismul, indiferent ce ai fost învățat să crezi. Pentru a afla adevărul despre «Iad», te rog să dai clic aici."
+      },
+      {
+        "type": "li",
+        "en": "Secret, Don't Tell; The Encyclopedia of Hypnotism, by Carla Emery © 1998",
+        "links": [],
+        "ro": "Secret, Don't Tell; The Encyclopedia of Hypnotism, de Carla Emery © 1998"
+      },
+      {
+        "type": "li",
+        "en": "The New Soviet Psychic Discoveries by Henry Gris and William Dick © 1978 Excerpt from The New Soviet Psychic Discoveries: \"Although the Americans had won the race for outer space, they feared the Russians might win the race for inner space\": the mind of man. From CIA agents stationed behind the Iron Curtain came reports that the Russians were able to influence telepathically the behavior of people, alter their emotions or health, and even kill at long distance by using only psychic powers.\" \"But one thing is deadly certain: We had gotten our parapsychology probe out just in time, just before the Iron Curtain slammed down tight...\"",
+        "links": [],
+        "ro": "The New Soviet Psychic Discoveries, de Henry Gris și William Dick © 1978. Fragment din The New Soviet Psychic Discoveries: «Deși americanii câștigaseră cursa pentru spațiul cosmic, se temeau că rușii ar putea câștiga cursa pentru spațiul interior»: mintea omului. De la agenții CIA staționați în spatele Cortinei de Fier veneau rapoarte că rușii erau capabili să influențeze telepatic comportamentul oamenilor, să le modifice emoțiile sau sănătatea și chiar să ucidă de la mare distanță folosind doar puteri psihice.» «Dar un lucru este absolut sigur: ne-am introdus sonda de parapsihologie la timp, chiar înainte ca Cortina de Fier să se închidă ermetic...»"
+      },
+      {
+        "type": "h3",
+        "en": "Additional Links and Information:",
+        "links": [],
+        "ro": "Legături și informații suplimentare:"
+      },
+      {
+        "type": "li",
+        "en": "Here are CIA documents talking about literally controlling the physical world with your own mind, it even has meditation techniques in it",
+        "links": [
+          {
+            "text": "Here are CIA documents talking about literally controlling the physical world with your own mind, it even has meditation techniques in it",
+            "url": "https://web.archive.org/web/20230407223139/https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210023-7.pdf"
+          }
+        ],
+        "ro": "Iată documente CIA care vorbesc despre controlarea efectivă a lumii fizice cu propria minte; conțin chiar și tehnici de meditație"
+      },
+      {
+        "type": "li",
+        "en": "Here they wrote about the consciousness energy grid, astral projection, and a lot of very interesting stuff",
+        "links": [
+          {
+            "text": "Here they wrote about the consciousness energy grid, astral projection, and a lot of very interesting stuff",
+            "url": "https://web.archive.org/web/20231014200322/https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf.html"
+          }
+        ],
+        "ro": "Aici au scris despre rețeaua energetică a conștiinței, proiecția astrală și o mulțime de lucruri foarte interesante"
+      },
+      {
+        "type": "li",
+        "en": "This one is short but also proves us that CIA was really spending resources and time going into ESP (the sixth sense)",
+        "links": [
+          {
+            "text": "This one is short but also proves us that CIA was really spending resources and time going into ESP (the sixth sense)",
+            "url": "https://web.archive.org/web/20231014114518/https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001100040008-9.pdf.html"
+          }
+        ],
+        "ro": "Acesta este scurt, dar ne dovedește și că CIA chiar cheltuia resurse și timp cercetând ESP (al șaselea simț)"
+      },
+      {
+        "type": "li",
+        "en": "Another CIA PDF talking about the powers of the mind",
+        "links": [
+          {
+            "text": "Another CIA PDF talking about the powers of the mind",
+            "url": "https://web.archive.org/web/20220925135950/https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500330001-2.pdf.html"
+          }
+        ],
+        "ro": "Un alt PDF CIA care vorbește despre puterile minții"
+      },
+      {
+        "type": "li",
+        "en": "Parapsychology Documents",
+        "links": [
+          {
+            "text": "Parapsychology Documents",
+            "url": "https://web.archive.org/web/20230603101639/https://www.theblackvault.com/documentarchive/parapsychology-documents.html"
+          }
+        ],
+        "ro": "Documente de parapsihologie"
+      },
+      {
+        "type": "li",
+        "en": "UAP Task Force Initiated Contact with NASA To Brief Them on UFOs; But They Won't Say Why",
+        "links": [
+          {
+            "text": "UAP Task Force Initiated Contact with NASA To Brief Them on UFOs; But They Won't Say Why",
+            "url": "https://web.archive.org/web/20221205023142/https://www.theblackvault.com/documentarchive/uap-task-force-initiated-contact-with-nasa-to-brief-them-on-ufos-but-they-wont-say-why.html"
+          }
+        ],
+        "ro": "Grupul operativ UAP a inițiat contactul cu NASA pentru a-i informa despre OZN-uri; dar nu vor să spună de ce"
+      },
+      {
+        "type": "li",
+        "en": "The Pentagon Corrects Record on “Secret UFO Program”",
+        "links": [
+          {
+            "text": "The Pentagon Corrects Record on “Secret UFO Program”",
+            "url": "https://web.archive.org/web/20231010175438/https://www.theblackvault.com/documentarchive/the-pentagon-corrects-record-on-secret-ufo-program-2019.html"
+          }
+        ],
+        "ro": "Pentagonul corectează informațiile despre «programul secret pentru OZN-uri»"
+      },
+      {
+        "type": "li",
+        "en": "FBI Files: The Paranormal Collection",
+        "links": [
+          {
+            "text": "FBI Files: The Paranormal Collection",
+            "url": "https://web.archive.org/web/20230602182756/https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection.html"
+          }
+        ],
+        "ro": "Dosarele FBI: colecția paranormalului"
+      }
+    ],
+    "title": "Informații pentru atei și alți sceptici",
+    "category": "temple",
+    "url": "https://templeofzeus.org/outsiders",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 1198
+  },
+  {
     "id": "thegods",
     "title": "Zeii și daimonii originari",
     "originalTitle": "The Original Gods & Daemons",
@@ -829,6 +1366,1065 @@
         "ro": "Despre Zei: inversarea istorică îndreptată împotriva Zeilor Adevărați"
       }
     ]
+  },
+  {
+    "id": "our-god",
+    "originalTitle": "Our Eternal Head God: Zeus, Eternal Truth and His Identities",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 2807,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "The Temple of Zeus is the full restoration of the original religion of humanity. Not a reconstruction. Not an interpretation. The restoration. Through years of research, spiritual practice, and direct knowledge received from the Gods themselves, we have arrived at the core truth that underlies all Ancient Religions: that the same Gods were worshipped across every civilization on Earth, under different names but with the same essence, the same powers, and the same hierarchical structure. At the summit of this universal pantheon stands one God, recognized everywhere as the Father, the Sovereign, and the source of cosmic order.",
+        "links": [],
+        "ro": "Templul lui Zeus este restaurarea deplină a religiei originare a omenirii. Nu o reconstrucție. Nu o interpretare. Restaurarea. Prin ani de cercetare, practică spirituală și cunoaștere directă primită de la Zeii înșiși, am ajuns la adevărul esențial care stă la temelia tuturor Religiilor Străvechi: aceiași Zei au fost venerați în fiecare civilizație de pe Pământ, sub nume diferite, dar cu aceeași esență, aceleași puteri și aceeași structură ierarhică. În vârful acestui panteon universal se află un singur Zeu, recunoscut pretutindeni drept Tatăl, Suveranul și sursa ordinii cosmice."
+      },
+      {
+        "type": "p",
+        "en": "That God is Zeus. He was here before every religion that has tried to replace Him. He will be here after every one of them has crumbled to dust.",
+        "links": [],
+        "ro": "Acel Zeu este Zeus. El era aici înaintea fiecărei religii care a încercat să Îl înlocuiască. El va fi aici după ce fiecare dintre ele se va fi prefăcut în țărână."
+      },
+      {
+        "type": "link",
+        "en": "The Oldest God The Eternal One and King of the All Gods",
+        "url": "https://templeofzeus.org/the-oldest-god",
+        "ro": "Cel Mai Vechi Zeu · Cel Etern și Regele Tuturor Zeilor"
+      },
+      {
+        "type": "h2",
+        "en": "One God, Many Names",
+        "links": [],
+        "ro": "Un singur Zeu, multe nume"
+      },
+      {
+        "type": "p",
+        "en": "Every civilization that preserved the original spiritual inheritance of humanity worshipped a supreme Head God: the Father of Gods and men, the ruler of the heavens, the wielder of thunder and lightning, the upholder of justice and cosmic law. The deeper one researches, the clearer it becomes: these are not different Gods. They are the same God, worshipped under the names that each culture gave Him, adapted to each regional tradition, but identical in nature, in power, and in role.",
+        "links": [],
+        "ro": "Fiecare civilizație care a păstrat moștenirea spirituală originară a omenirii a venerat un Zeu suprem: Tatăl Zeilor și al oamenilor, stăpânitorul cerurilor, cel care mânuiește tunetul și fulgerul, susținătorul dreptății și al legii cosmice. Cu cât cercetăm mai profund, cu atât devine mai limpede: aceștia nu sunt Zei diferiți. Sunt același Zeu, venerat sub numele pe care I le-a dat fiecare cultură, adaptate fiecărei tradiții regionale, dar identic prin natură, prin putere și prin rol."
+      },
+      {
+        "type": "p",
+        "en": "Our Head God is Zeus, the Chief Deity of the most advanced civilizations in human history. His power is not a matter of belief. It is a matter of record. His edicts of justice governed the ancient world for millennia before the Abrahamic religions were invented.",
+        "links": [
+          {
+            "text": "Our Head God is Zeus,",
+            "url": "https://templeofzeus.org/zeus"
+          },
+          {
+            "text": "edicts of justice",
+            "url": "https://templeofzeus.org/ethicsofthegods"
+          }
+        ],
+        "ro": "Zeul nostru suprem este Zeus, Divinitatea principală a celor mai avansate civilizații din istoria omenirii. Puterea Sa nu ține de credință. Ține de mărturiile păstrate. Edictele Sale de dreptate au guvernat lumea antică timp de milenii înainte ca religiile abrahamice să fie inventate."
+      },
+      {
+        "type": "p",
+        "en": "He has gone by many names over the aeons : Zeus in Hellas, Indra in the Vedic world, Amun and Atum in Egypt, Jupiter in Rome, Baal-Zebul in Phoenicia, Hadad and Marduk in Babylon, Perun in the Slavic lands, Thor in the Norse world, Beli Mawr among the Celts, Dyeus Pater in the Proto-Indo-European tongue, Shango and Nzazi in Africa, Tlaloc and Viracocha in the Americas, Shangdi in China, and Raijin in Japan.",
+        "links": [
+          {
+            "text": "He has gone by many names over the aeons",
+            "url": "https://templeofzeus.org/zevists"
+          },
+          {
+            "text": "Baal-Zebul",
+            "url": "https://templeofzeus.org/baal-zevul"
+          }
+        ],
+        "ro": "El a purtat multe nume de-a lungul eonilor: Zeus în Elada, Indra în lumea vedică, Amun și Atum în Egipt, Jupiter la Roma, Baal-Zebul în Fenicia, Hadad și Marduk în Babilon, Perun în ținuturile slave, Thor în lumea nordică, Beli Mawr printre celți, Dyeus Pater în limba proto-indo-europeană, Shango și Nzazi în Africa, Tlaloc și Viracocha în Americi, Shangdi în China și Raijin în Japonia."
+      },
+      {
+        "type": "p",
+        "en": "All of them are Him. Every one. Across every continent, every language, every era. They tried to erase Him. They failed.",
+        "links": [],
+        "ro": "Toți sunt El. Fiecare dintre ei. Pe fiecare continent, în fiecare limbă, în fiecare epocă. Au încercat să Îl șteargă. Au eșuat."
+      },
+      {
+        "type": "h2",
+        "en": "The Names of Zeus in the Aeons",
+        "links": [],
+        "ro": "Numele lui Zeus de-a lungul eonilor"
+      },
+      {
+        "type": "p",
+        "en": "Most of these names have a history predating Christianity, Islam, and Judaism by at least 2,000 to 10,000 years or more, by the reckoning of widely accepted history. Other sources carry the timeline back 40,000 years and further: to the age the philosophers describe as Atlantean, which Plato records in the Timaeus and the Critias , 1 and to the times the Ancient Egyptian priesthoods describe, more than 72,000 years ago. 2 The name of Zeus is a holy and most powerful name: the foundation of creation itself. When this is understood, it becomes clear why Zeus, Dyeus Pater in the Indo-European tongue, has always been the Original Father of Humanity. He was not born from a book. He was born from the structure of reality itself.",
+        "links": [],
+        "ro": "Cele mai multe dintre aceste nume au o istorie care precedă creștinismul, islamul și iudaismul cu cel puțin 2.000 până la 10.000 de ani sau mai mult, potrivit cronologiei istoriei larg acceptate. Alte surse duc cronologia înapoi cu 40.000 de ani și mai departe: până în epoca pe care filosofii o descriu drept atlanteană, consemnată de Platon în Timaios și Critias, 1 și până în vremurile descrise de preoțimile Egiptului Antic, cu peste 72.000 de ani în urmă. 2 Numele lui Zeus este un nume sfânt și nespus de puternic: temelia creației înseși. Când acest lucru este înțeles, devine limpede de ce Zeus, Dyeus Pater în limba indo-europeană, a fost întotdeauna Tatăl Originar al Omenirii. El nu s-a născut dintr-o carte. S-a născut din structura realității înseși."
+      },
+      {
+        "type": "p",
+        "en": "The Names of Zeus in the Aeons",
+        "ro": "Numele lui Zeus de-a lungul eonilor"
+      },
+      {
+        "type": "person",
+        "src": "source/b639587dd7569c.avif",
+        "alt": "Dyeus Pitar",
+        "url": "https://templeofzeus.org/dyeuspitar",
+        "enRows": [
+          [
+            "Dyeus Pitar",
+            "Proto-Indo-European",
+            "The reconstructed Sky Father of all Indo-European peoples. The root *dyeu- gives every word for 'God' and 'divine' across European and Vedic languages. The original Father."
+          ]
+        ],
+        "roRows": [
+          [
+            "Dyeus Pitar",
+            "Proto-indo-europeană",
+            "Tatăl Ceresc reconstituit al tuturor popoarelor indo-europene. Rădăcina *dyeu- dă fiecare cuvânt pentru «Zeu» și «divin» din limbile europene și vedice. Tatăl originar."
+          ]
+        ],
+        "altRo": "Dyeus Pitar"
+      },
+      {
+        "type": "person",
+        "src": "source/73ef205e585da1.avif",
+        "alt": "Zeus",
+        "url": "https://templeofzeus.org/zeus",
+        "enRows": [
+          [
+            "Zeus",
+            "Hellenic",
+            "King of the Olympian Gods, Father of Gods and Men, wielder of the thunderbolt, upholder of Justice. The supreme deity of the most advanced civilization in human history."
+          ]
+        ],
+        "roRows": [
+          [
+            "Zeus",
+            "Elenă",
+            "Regele Zeilor Olimpieni, Tatăl Zeilor și al Oamenilor, cel care mânuiește fulgerul, susținătorul Dreptății. Divinitatea supremă a celei mai avansate civilizații din istoria omenirii."
+          ]
+        ],
+        "altRo": "Zeus"
+      },
+      {
+        "type": "person",
+        "src": "source/04dc90b174fed5.avif",
+        "alt": "Atum",
+        "url": "https://templeofzeus.org/atum",
+        "enRows": [
+          [
+            "Atum",
+            "Egyptian",
+            "The self-created one who arose from the primordial waters of Nun. The Complete One who contains all things within himself. Creator of the Ennead."
+          ]
+        ],
+        "roRows": [
+          [
+            "Atum",
+            "Egipteană",
+            "Cel care s-a creat pe sine și s-a ridicat din apele primordiale ale lui Nun. Cel Deplin, care cuprinde toate lucrurile în sine. Creatorul Eneadei."
+          ]
+        ],
+        "altRo": "Atum"
+      },
+      {
+        "type": "person",
+        "src": "source/4a426775234fc8.avif",
+        "alt": "Indra",
+        "url": "https://templeofzeus.org/indra",
+        "enRows": [
+          [
+            "Indra",
+            "Vedic",
+            "King of the Devas, Lord of Svarga, wielder of the Vajra. The most invoked deity in the Rig Veda, champion of the Gods against the forces of chaos."
+          ]
+        ],
+        "roRows": [
+          [
+            "Indra",
+            "Vedică",
+            "Regele Devașilor, Stăpânul Svarga, cel care mânuiește Vajra. Divinitatea cea mai invocată în Rig Veda, apărătorul Zeilor împotriva forțelor haosului."
+          ]
+        ],
+        "altRo": "Indra"
+      },
+      {
+        "type": "person",
+        "src": "source/cd376b5ccac86e.avif",
+        "alt": "Jupiter",
+        "url": "https://templeofzeus.org/godjupiter",
+        "enRows": [
+          [
+            "Jupiter",
+            "Roman",
+            "Iuppiter Optimus Maximus: the Best and Greatest. Supreme God of Rome, protector of the state, giver of laws. His Capitoline temple was the spiritual center of the Roman world."
+          ]
+        ],
+        "roRows": [
+          [
+            "Jupiter",
+            "Romană",
+            "Iuppiter Optimus Maximus: Cel Mai Bun și Cel Mai Mare. Zeul suprem al Romei, protectorul statului, dătătorul legilor. Templul Său de pe Capitoliu era centrul spiritual al lumii romane."
+          ]
+        ],
+        "altRo": "Jupiter"
+      },
+      {
+        "type": "person",
+        "src": "source/08e7ee97fa0c7e.avif",
+        "alt": "Hindu Trinity",
+        "url": "https://templeofzeus.org/zen",
+        "enRows": [
+          [
+            "Hindu Trinity",
+            "Hindu",
+            "Shiva, Brahma, Vishnu: three supreme aspects of the divine. Creator, Preserver, Transformer, three faces of the same cosmic power that Zeus embodies as one."
+          ]
+        ],
+        "roRows": [
+          [
+            "Trinitatea hindusă",
+            "Hindusă",
+            "Shiva, Brahma, Vishnu: trei aspecte supreme ale divinului. Creator, Păstrător, Transformator, trei chipuri ale aceleiași puteri cosmice pe care Zeus o întruchipează ca unul."
+          ]
+        ],
+        "altRo": "Hindu Trinity"
+      },
+      {
+        "type": "person",
+        "src": "source/480cbb3be84f8b.avif",
+        "alt": "El",
+        "url": "https://templeofzeus.org/el",
+        "enRows": [
+          [
+            "El",
+            "Phoenician / Canaanite",
+            "The most senior God of the Phoenician and Canaanite pantheon, equated directly with Kronos and Zeus as Zeus Kronios. Father of Mankind, Creator of the Earth, chief of the divine council at Ugarit, the primordial Father whose name the Hebrews absorbed into Yahweh."
+          ]
+        ],
+        "roRows": [
+          [
+            "El",
+            "Feniciană / canaanită",
+            "Zeul cu cea mai mare vechime din panteonul fenician și canaanit, echivalat direct cu Kronos și Zeus ca Zeus Kronios. Tatăl Omenirii, Creatorul Pământului, conducătorul consiliului divin de la Ugarit, Tatăl primordial al cărui nume a fost absorbit de evrei în Yahweh."
+          ]
+        ],
+        "altRo": "El"
+      },
+      {
+        "type": "person",
+        "src": "source/6c77708ae86523.avif",
+        "alt": "Odin",
+        "url": "https://templeofzeus.org/odinname",
+        "enRows": [
+          [
+            "Odin",
+            "Norse",
+            "The Allfather, ruler of Asgard, God of wisdom, war, death, and poetry. Sacrificed his eye for knowledge. Hung upon Yggdrasil nine nights for the Runes."
+          ]
+        ],
+        "roRows": [
+          [
+            "Odin",
+            "Nordică",
+            "Tatăl Tuturor, stăpânitorul Asgardului, Zeul înțelepciunii, războiului, morții și poeziei. Și-a sacrificat ochiul pentru cunoaștere. A stat atârnat de Yggdrasil nouă nopți pentru Rune."
+          ]
+        ],
+        "altRo": "Odin"
+      },
+      {
+        "type": "person",
+        "src": "source/69bf24058c4235.avif",
+        "alt": "Thor",
+        "url": "https://templeofzeus.org/thor",
+        "enRows": [
+          [
+            "Thor",
+            "Norse / Germanic",
+            "The Thunder God, protector of Midgard, wielder of Mjölnir. Strongest of all the Gods. Thursday bears his name across the Germanic world."
+          ]
+        ],
+        "roRows": [
+          [
+            "Thor",
+            "Nordică / germanică",
+            "Zeul Tunetului, protectorul Midgardului, cel care mânuiește Mjölnir. Cel mai puternic dintre toți Zeii. Ziua de joi Îi poartă numele în întreaga lume germanică."
+          ]
+        ],
+        "altRo": "Thor"
+      },
+      {
+        "type": "person",
+        "src": "source/f71bf0f8d6e286.avif",
+        "alt": "Perun",
+        "url": "https://templeofzeus.org/perun",
+        "enRows": [
+          [
+            "Perun",
+            "Slavic",
+            "Supreme God of the Slavic peoples, ruler of the sky, wielder of thunder and lightning. His sacred tree was the oak, identical to Zeus."
+          ]
+        ],
+        "roRows": [
+          [
+            "Perun",
+            "Slavă",
+            "Zeul suprem al popoarelor slave, stăpânitorul cerului, cel care mânuiește tunetul și fulgerul. Arborele Său sacru era stejarul, la fel ca în cazul lui Zeus."
+          ]
+        ],
+        "altRo": "Perun"
+      },
+      {
+        "type": "person",
+        "src": "source/60c50d8e14fa5e.avif",
+        "alt": "Sabazios",
+        "url": "https://templeofzeus.org/sabazios",
+        "enRows": [
+          [
+            "Sabazios",
+            "Thracian",
+            "The horseback God, identified with both Zeus and Dionysos. His mysteries involved the sacred serpent and were among the most ancient in the Mediterranean."
+          ]
+        ],
+        "roRows": [
+          [
+            "Sabazios",
+            "Tracă",
+            "Zeul călare, identificat atât cu Zeus, cât și cu Dionysos. Misteriile Sale implicau șarpele sacru și erau printre cele mai vechi din Mediterana."
+          ]
+        ],
+        "altRo": "Sabazios"
+      },
+      {
+        "type": "person",
+        "src": "source/c4b69a7978acb5.avif",
+        "alt": "Tengri",
+        "url": "https://templeofzeus.org/tengri",
+        "enRows": [
+          [
+            "Tengri",
+            "Turkic / Mongolic",
+            "The Eternal Blue Sky, supreme deity of Turkic and Mongolic peoples. Genghis Khan ruled under his mandate. His worship predates Central Asian recorded history."
+          ]
+        ],
+        "roRows": [
+          [
+            "Tengri",
+            "Turcică / mongolică",
+            "Cerul Albastru Etern, divinitatea supremă a popoarelor turcice și mongolice. Ginghis Han a domnit sub mandatul Său. Cultul Său precedă istoria scrisă a Asiei Centrale."
+          ]
+        ],
+        "altRo": "Tengri"
+      },
+      {
+        "type": "person",
+        "src": "source/b82e9c28122db5.avif",
+        "alt": "Beli",
+        "url": "https://templeofzeus.org/beli",
+        "enRows": [
+          [
+            "Beli",
+            "Celtic / Welsh",
+            "Beli Mawr, the Great Beli, ancestor of royal British lineages. Connected to continental Celtic Belenos, the Shining One, whose name preserves the Semitic Baal/Bel."
+          ]
+        ],
+        "roRows": [
+          [
+            "Beli",
+            "Celtică / galeză",
+            "Beli Mawr, Marele Beli, strămoșul stirpelor regale britanice. Legat de Belenos al celților continentali, Cel Strălucitor, al cărui nume păstrează semiticul Baal/Bel."
+          ]
+        ],
+        "altRo": "Beli"
+      },
+      {
+        "type": "person",
+        "src": "source/836548867236bf.avif",
+        "alt": "Hadad",
+        "url": "https://templeofzeus.org/hadad",
+        "enRows": [
+          [
+            "Hadad",
+            "Canaanite",
+            "The Storm God, wielder of thunder, bringer of rain. Worshipped across the Levant for millennia before the Abrahamic religions attempted to erase him."
+          ]
+        ],
+        "roRows": [
+          [
+            "Hadad",
+            "Canaanită",
+            "Zeul Furtunii, cel care mânuiește tunetul, aducătorul ploii. Venerat în tot Levantul timp de milenii înainte ca religiile abrahamice să încerce să Îl șteargă."
+          ]
+        ],
+        "altRo": "Hadad"
+      },
+      {
+        "type": "person",
+        "src": "source/57070e315a1a89.avif",
+        "alt": "Amun",
+        "url": "https://templeofzeus.org/amun",
+        "enRows": [
+          [
+            "Amun",
+            "Egyptian",
+            "The Hidden One, King of the Gods. Amun-Ra united creative and solar powers. His priesthood at Karnak was the wealthiest and most powerful in the ancient world."
+          ]
+        ],
+        "roRows": [
+          [
+            "Amun",
+            "Egipteană",
+            "Cel Ascuns, Regele Zeilor. Amun-Ra unea puterile creatoare și solare. Preoțimea Sa de la Karnak era cea mai bogată și mai puternică din lumea antică."
+          ]
+        ],
+        "altRo": "Amun"
+      },
+      {
+        "type": "person",
+        "src": "source/cc1daf948f6526.avif",
+        "alt": "Hammon",
+        "url": "https://templeofzeus.org/hammon",
+        "enRows": [
+          [
+            "Hammon",
+            "Libyan",
+            "Zeus Ammon of the Siwa Oasis, whose oracle Alexander the Great consulted. His ram horns symbolize divine authority and creative power."
+          ]
+        ],
+        "roRows": [
+          [
+            "Hammon",
+            "Libiană",
+            "Zeus Ammon din Oaza Siwa, al cărui oracol l-a consultat Alexandru cel Mare. Coarnele Sale de berbec simbolizează autoritatea divină și puterea creatoare."
+          ]
+        ],
+        "altRo": "Hammon"
+      },
+      {
+        "type": "person",
+        "src": "source/49e314e104eebf.avif",
+        "alt": "An Daghdha",
+        "url": "https://templeofzeus.org/dagda",
+        "enRows": [
+          [
+            "An Daghdha",
+            "Irish",
+            "The Good God, chief of the Tuatha Dé Danann, master of druidry and abundance. His cauldron never emptied, his club could kill and restore life."
+          ]
+        ],
+        "roRows": [
+          [
+            "An Daghdha",
+            "Irlandeză",
+            "Zeul Cel Bun, conducătorul Tuatha Dé Danann, stăpân al druidismului și al belșugului. Cazanul Său nu se golea niciodată, iar măciuca Sa putea ucide și reda viața."
+          ]
+        ],
+        "altRo": "An Daghdha"
+      },
+      {
+        "type": "person",
+        "src": "source/9786b65ecc570b.avif",
+        "alt": "Zamolxis",
+        "url": "https://templeofzeus.org/zalmoxis",
+        "enRows": [
+          [
+            "Zamolxis",
+            "Dacian",
+            "Divine lawgiver of the Getae who taught immortality of the soul. Herodotus records his followers believed death was merely a journey to their God."
+          ]
+        ],
+        "roRows": [
+          [
+            "Zamolxis",
+            "Dacică",
+            "Legiuitorul divin al geților, care a predat nemurirea sufletului. Herodot consemnează că adepții Săi credeau că moartea era doar o călătorie către Zeul lor."
+          ]
+        ],
+        "altRo": "Zamolxis"
+      },
+      {
+        "type": "person",
+        "src": "source/bd853881ad6b82.avif",
+        "alt": "Ahura Mazda",
+        "url": "https://templeofzeus.org/ahuramazda",
+        "enRows": [
+          [
+            "Ahura Mazda",
+            "Zoroastrian",
+            "The Wise Lord, supreme deity of Zoroastrian faith. His eternal struggle against darkness mirrors Zeus's cosmic battle for order."
+          ]
+        ],
+        "roRows": [
+          [
+            "Ahura Mazda",
+            "Zoroastriană",
+            "Stăpânul Înțelept, divinitatea supremă a credinței zoroastriene. Lupta Sa eternă împotriva întunericului oglindește bătălia cosmică a lui Zeus pentru ordine."
+          ]
+        ],
+        "altRo": "Ahura Mazda"
+      },
+      {
+        "type": "person",
+        "src": "source/8598e1fa94969f.avif",
+        "alt": "Marduk",
+        "url": "https://templeofzeus.org/marduk",
+        "enRows": [
+          [
+            "Marduk",
+            "Babylonian",
+            "Champion of the Gods who slew Tiamat and fashioned the world from her body. Patron of Babylon, whose Esagila temple was a wonder of the ancient world."
+          ]
+        ],
+        "roRows": [
+          [
+            "Marduk",
+            "Babiloniană",
+            "Apărătorul Zeilor, care a ucis-o pe Tiamat și a făurit lumea din trupul ei. Patronul Babilonului, al cărui templu Esagila era o minune a lumii antice."
+          ]
+        ],
+        "altRo": "Marduk"
+      },
+      {
+        "type": "person",
+        "src": "source/a1fd18586e1875.avif",
+        "alt": "Ngai",
+        "url": "https://templeofzeus.org/ngai",
+        "enRows": [
+          [
+            "Ngai",
+            "Maasai",
+            "Supreme God of the Maasai, dwelling on Kilimanjaro and Kenya. He sends rain, his thunder is his voice. Among the oldest continuous spiritual traditions on earth."
+          ]
+        ],
+        "roRows": [
+          [
+            "Ngai",
+            "Maasai",
+            "Zeul suprem al populației Maasai, care locuiește pe Kilimanjaro și Kenya. El trimite ploaia, tunetul Său este vocea Sa. Una dintre cele mai vechi tradiții spirituale continue de pe pământ."
+          ]
+        ],
+        "altRo": "Ngai"
+      },
+      {
+        "type": "person",
+        "src": "source/08cf26e6d3f00c.avif",
+        "alt": "Nzazi",
+        "url": "https://templeofzeus.org/nzazi",
+        "enRows": [
+          [
+            "Nzazi",
+            "Kongo",
+            "Lightning deity of the Kongo people, associated with justice and punishment of wrongdoers. His bolts strike those who violate sacred law."
+          ]
+        ],
+        "roRows": [
+          [
+            "Nzazi",
+            "Kongo",
+            "Divinitatea fulgerului a poporului Kongo, asociată cu dreptatea și pedepsirea răufăcătorilor. Fulgerele Sale îi lovesc pe cei care încalcă legea sacră."
+          ]
+        ],
+        "altRo": "Nzazi"
+      },
+      {
+        "type": "person",
+        "src": "source/b0665cb90e6252.avif",
+        "alt": "Raijin",
+        "url": "https://templeofzeus.org/raijin",
+        "enRows": [
+          [
+            "Raijin",
+            "Japanese",
+            "God of thunder, lightning, and storms. Depicted with a ring of drums. His thunder shakes the heavens and drives away evil spirits."
+          ]
+        ],
+        "roRows": [
+          [
+            "Raijin",
+            "Japoneză",
+            "Zeul tunetului, fulgerului și furtunilor. Înfățișat cu un cerc de tobe. Tunetul Său zguduie cerurile și alungă spiritele rele."
+          ]
+        ],
+        "altRo": "Raijin"
+      },
+      {
+        "type": "person",
+        "src": "source/434a7e7a7eaeb0.avif",
+        "alt": "Shangdi",
+        "url": "https://templeofzeus.org/shangdi",
+        "enRows": [
+          [
+            "Shangdi",
+            "Chinese",
+            "The Lord on High, supreme deity of ancient Chinese religion, predating Confucianism and Taoism. The Zhou Dynasty ruled under his Mandate of Heaven."
+          ]
+        ],
+        "roRows": [
+          [
+            "Shangdi",
+            "Chineză",
+            "Stăpânul din Înalt, divinitatea supremă a religiei chineze antice, anterioară confucianismului și taoismului. Dinastia Zhou a domnit sub Mandatul Său Ceresc."
+          ]
+        ],
+        "altRo": "Shangdi"
+      },
+      {
+        "type": "person",
+        "src": "source/b4071a53dff751.avif",
+        "alt": "Shango",
+        "url": "https://templeofzeus.org/shango",
+        "enRows": [
+          [
+            "Shango",
+            "Yoruba",
+            "Orisha of thunder, lightning, fire, and justice. Fourth king of the Oyo Empire who ascended to divine status. His double-headed axe is his symbol."
+          ]
+        ],
+        "roRows": [
+          [
+            "Shango",
+            "Yoruba",
+            "Orisha al tunetului, fulgerului, focului și dreptății. Al patrulea rege al Imperiului Oyo, care s-a înălțat la statut divin. Securea Sa cu două tăișuri este simbolul Său."
+          ]
+        ],
+        "altRo": "Shango"
+      },
+      {
+        "type": "person",
+        "src": "source/d6c3034efaf67c.avif",
+        "alt": "Tarhunt",
+        "url": "https://templeofzeus.org/tarhunt",
+        "enRows": [
+          [
+            "Tarhunt",
+            "Hittite",
+            "Storm God of the Hittite Empire, supreme deity of Anatolia for over a millennium. His bull was sacred, his thunderbolt maintained cosmic order."
+          ]
+        ],
+        "roRows": [
+          [
+            "Tarhunt",
+            "Hitită",
+            "Zeul Furtunii al Imperiului Hitit, divinitatea supremă a Anatoliei timp de peste un mileniu. Taurul Său era sacru, fulgerul Său menținea ordinea cosmică."
+          ]
+        ],
+        "altRo": "Tarhunt"
+      },
+      {
+        "type": "person",
+        "src": "source/0e7b038324d536.avif",
+        "alt": "Tinia",
+        "url": "https://templeofzeus.org/tinia",
+        "enRows": [
+          [
+            "Tinia",
+            "Etruscan",
+            "Supreme God of the Etruscan civilization, wielder of three types of thunderbolt. His power was inherited by Jupiter when Rome absorbed Etruscan religion."
+          ]
+        ],
+        "roRows": [
+          [
+            "Tinia",
+            "Etruscă",
+            "Zeul suprem al civilizației etrusce, cel care mânuiește trei tipuri de fulger. Puterea Sa a fost moștenită de Jupiter când Roma a absorbit religia etruscă."
+          ]
+        ],
+        "altRo": "Tinia"
+      },
+      {
+        "type": "person",
+        "src": "source/0b641be9737f55.avif",
+        "alt": "Tlaloc",
+        "url": "https://templeofzeus.org/tlaloc",
+        "enRows": [
+          [
+            "Tlaloc",
+            "Aztec",
+            "God of rain, fertility, and water. His temple shared the summit of the Templo Mayor. His worship predates the Aztecs by thousands of years."
+          ]
+        ],
+        "roRows": [
+          [
+            "Tlaloc",
+            "Aztecă",
+            "Zeul ploii, fertilității și apei. Templul Său împărțea vârful Templo Mayor. Cultul Său precedă aztecii cu mii de ani."
+          ]
+        ],
+        "altRo": "Tlaloc"
+      },
+      {
+        "type": "person",
+        "src": "source/00537d8708c9b6.avif",
+        "alt": "Viracocha",
+        "url": "https://templeofzeus.org/viracocha",
+        "enRows": [
+          [
+            "Viracocha",
+            "Inca",
+            "Creator God who rose from Lake Titicaca to create sun, moon, and stars. Walked among humanity teaching civilization before departing across the ocean."
+          ]
+        ],
+        "roRows": [
+          [
+            "Viracocha",
+            "Incașă",
+            "Zeul Creator care s-a ridicat din Lacul Titicaca pentru a crea soarele, luna și stelele. A umblat printre oameni, învățându-i civilizația, înainte de a pleca peste ocean."
+          ]
+        ],
+        "altRo": "Viracocha"
+      },
+      {
+        "type": "person",
+        "src": "source/9112134ae629da.avif",
+        "alt": "Perkūnas",
+        "url": "https://templeofzeus.org/perkunas",
+        "enRows": [
+          [
+            "Perkūnas",
+            "Baltic",
+            "Thunder God of the Baltic peoples, cognate of Perun. Lithuania preserved his worship until 1387 CE, the last European nation to be Christianized."
+          ]
+        ],
+        "roRows": [
+          [
+            "Perkūnas",
+            "Baltică",
+            "Zeul Tunetului al popoarelor baltice, înrudit cu Perun. Lituania I-a păstrat cultul până în 1387 e.n., fiind ultima națiune europeană creștinată."
+          ]
+        ],
+        "altRo": "Perkūnas"
+      },
+      {
+        "type": "person",
+        "src": "source/ffca72b75d0cc0.avif",
+        "alt": "The Abrahamic Inversion",
+        "url": "https://templeofzeus.org/theinversion",
+        "enRows": [
+          [
+            "The Abrahamic Inversion",
+            "Abrahamic",
+            "The Abrahamic religions took Zeus, renamed Him, and called His worship evil. Revelation 2:13 puts 'Satan's throne' at Pergamum, where the Great Altar of Zeus stood."
+          ]
+        ],
+        "roRows": [
+          [
+            "Inversarea abrahamică",
+            "Abrahamică",
+            "Religiile abrahamice L-au preluat pe Zeus, L-au redenumit și au numit venerarea Sa rău. Apocalipsa 2:13 așază «tronul Satanei» la Pergam, unde se afla Marele Altar al lui Zeus."
+          ]
+        ],
+        "altRo": "The Abrahamic Inversion"
+      },
+      {
+        "type": "person",
+        "src": "source/c1a17edcbf39f3.avif",
+        "alt": "Baal-Zevul",
+        "url": "https://templeofzeus.org/baal-zevul",
+        "enRows": [
+          [
+            "Baal-Zevul",
+            "Canaanite / Phoenician",
+            "Baal, the Lord of Heaven, whom the Phoenicians called Zeus in Greek; the Gospels made his name, Beelzebul, one with Satan. Stele of Baal with the thunderbolt, Ugarit."
+          ]
+        ],
+        "roRows": [
+          [
+            "Baal-Zevul",
+            "Canaanită / feniciană",
+            "Baal, Stăpânul Cerului, pe care fenicienii îl numeau Zeus în greacă; Evangheliile au făcut ca numele Său, Beelzebul, să fie una cu Satana. Stela lui Baal cu fulgerul, Ugarit."
+          ]
+        ],
+        "altRo": "Baal-Zevul"
+      },
+      {
+        "type": "person",
+        "src": "source/a489e852f8aac4.avif",
+        "alt": "Melek Taus",
+        "url": "https://templeofzeus.org/melektaus",
+        "enRows": [
+          [
+            "Melek Taus",
+            "Yezidi",
+            "The Peacock of the Yezidis, chief of the seven holy beings and ruler over all under the Creator, slandered as Satan by other sects. In the Temple's reading, Zeus."
+          ]
+        ],
+        "roRows": [
+          [
+            "Melek Taus",
+            "Yezidită",
+            "Păunul yezidiților, conducătorul celor șapte ființe sfinte și stăpânitorul a tot ce se află sub Creator, calomniat drept Satana de alte secte. În interpretarea Templului, Zeus."
+          ]
+        ],
+        "altRo": "Melek Taus"
+      },
+      {
+        "type": "h2",
+        "en": "The One Father",
+        "links": [],
+        "ro": "Unicul Tată"
+      },
+      {
+        "type": "p",
+        "en": "All peoples on Earth originally worshipped the One Father, Dyeus Pater, as their supreme God. Civilizations that never met, that were separated by oceans and millennia, arrived independently at the same conclusion: there is a supreme being, He is the Father, He rules the heavens, He wields the thunderbolt, and He is just. This is not coincidence. This is recognition of reality.",
+        "links": [
+          {
+            "text": "One Father, Dyeus Pater,",
+            "url": "https://templeofzeus.org/zevists"
+          }
+        ],
+        "ro": "Toate popoarele de pe Pământ L-au venerat inițial pe Unicul Tată, Dyeus Pater, ca Zeu suprem. Civilizații care nu s-au întâlnit niciodată, despărțite de oceane și milenii, au ajuns independent la aceeași concluzie: există o ființă supremă, El este Tatăl, El stăpânește cerurile, El mânuiește fulgerul și El este drept. Aceasta nu este o coincidență. Este recunoașterea realității."
+      },
+      {
+        "type": "p",
+        "en": "Alongside the Head God, all the other Gods of the ancient world were systematically demonized by the Abrahamic religions and stripped from the knowledge of humanity. The Gods of Egypt, of Greece, of India, of Mesopotamia, of the North, of Africa, of the Americas were renamed \"demons\" and dragged through the filth of Abrahamic propaganda. Temples were razed. Priests were murdered. Libraries were burned. Initiates were hunted and killed for centuries.",
+        "links": [
+          {
+            "text": "Gods of the ancient world were systematically demonized",
+            "url": "https://templeofzeus.org/thegods"
+          }
+        ],
+        "ro": "Alături de Zeul suprem, toți ceilalți Zei ai lumii antice au fost demonizați sistematic de religiile abrahamice și eliminați din cunoașterea omenirii. Zeii Egiptului, Greciei, Indiei, Mesopotamiei, Nordului, Africii și Americilor au fost redenumiți «demoni» și târâți prin mizeria propagandei abrahamice. Templele au fost rase de pe fața pământului. Preoții au fost uciși. Bibliotecile au fost arse. Inițiații au fost vânați și uciși timp de secole."
+      },
+      {
+        "type": "p",
+        "en": "The Gods passed down systems of knowledge and meditation to humanity to empower the soul and set mankind on a path of spiritual advancement. The era in which this occurred is the source of all Golden Age mythology found across the Ancient Religions, lasting tens of thousands of years. The Abrahamic religions brought this to an end through unrelenting violence, through the systematic destruction of every text, every temple, every lineage of knowledge they could reach.",
+        "links": [],
+        "ro": "Zeii au transmis omenirii sisteme de cunoaștere și meditație pentru a întări sufletul și a așeza omenirea pe o cale de progres spiritual. Epoca în care s-a petrecut aceasta este sursa întregii mitologii a Epocii de Aur întâlnite în Religiile Străvechi și a durat zeci de mii de ani. Religiile abrahamice i-au pus capăt prin violență neînduplecată, prin distrugerea sistematică a fiecărui text, fiecărui templu și fiecărei linii de transmitere a cunoașterii la care au putut ajunge."
+      },
+      {
+        "type": "p",
+        "en": "And still they failed. Zeus is still here. Every God is still here. The temples can be rebuilt. The knowledge can be recovered. The lineage is unbroken. And we are the ones rebuilding it.",
+        "links": [],
+        "ro": "Și tot au eșuat. Zeus este încă aici. Fiecare Zeu este încă aici. Templele pot fi reconstruite. Cunoașterea poate fi recuperată. Linia de transmitere este neîntreruptă. Iar noi suntem cei care o reconstruiesc."
+      },
+      {
+        "type": "h2",
+        "en": "What We Believe",
+        "links": [],
+        "ro": "Ceea ce credem"
+      },
+      {
+        "type": "p",
+        "en": "We believe in Zeus: the Ancient, Original, and Eternal Head God of humanity, the King of the Gods, the Father of Gods and men. He is the ruling power of the cosmos. He was here at the beginning. He governs now. He will govern when every Abrahamic church is an archaeological site.",
+        "links": [],
+        "ro": "Credem în Zeus: Zeul suprem Străvechi, Originar și Etern al omenirii, Regele Zeilor, Tatăl Zeilor și al oamenilor. El este puterea conducătoare a cosmosului. Era aici la început. Guvernează acum. Va guverna când fiecare biserică abrahamică va fi un sit arheologic."
+      },
+      {
+        "type": "p",
+        "en": "We believe in Satya (सत्य): the Eternal and Unchanging principle of Cosmic Truth, which Zeus embodies and upholds, and which the Egyptian tradition calls Ma'at . Truth is not a concept for us. It is the Law under which the universe operates. Alignment with it is life. Opposition to it is ruin.",
+        "links": [
+          {
+            "text": "Satya (सत्य): the Eternal and Unchanging principle of Cosmic Truth, which Zeus embodies and upholds, and which the Egyptian tradition calls Ma'at",
+            "url": "https://templeofzeus.org/advancedphilosophy-satyamaatarete"
+          }
+        ],
+        "ro": "Credem în Satya (सत्य): principiul Etern și Neschimbător al Adevărului Cosmic, pe care Zeus îl întruchipează și îl susține și pe care tradiția egipteană îl numește Ma’at. Pentru noi, adevărul nu este un concept. Este Legea sub care funcționează universul. Alinierea la el este viață. Împotrivirea față de el este ruină."
+      },
+      {
+        "type": "p",
+        "en": "We believe that the Gods are real, existing beings who are immediately accessible to those who seek Them. We believe that the spiritual knowledge They gave to humanity, including meditation, the empowerment of the soul, and the path to spiritual transformation, is the original inheritance of all peoples on Earth. It was stolen. We are taking it back.",
+        "links": [],
+        "ro": "Credem că Zeii sunt ființe reale, existente, imediat accesibile celor care Îi caută. Credem că acea cunoaștere spirituală pe care au dat-o omenirii, inclusiv meditația, întărirea sufletului și calea spre transformarea spirituală, este moștenirea originară a tuturor popoarelor de pe Pământ. A fost furată. O luăm înapoi."
+      },
+      {
+        "type": "p",
+        "en": "Zeus, regardless of what name anyone uses for Him, whether in reverence or in ignorance, is always the same God. He does not require anyone's permission to exist. He does not require anyone's approval to rule. The cultural opinions of His enemies are irrelevant. He is eternally present, holding the power of the entire universe in His hands.",
+        "links": [],
+        "ro": "Zeus, indiferent ce nume folosește cineva pentru El, fie cu venerație, fie din ignoranță, este întotdeauna același Zeu. El nu are nevoie de permisiunea nimănui ca să existe. Nu are nevoie de aprobarea nimănui ca să domnească. Opiniile culturale ale dușmanilor Săi sunt irelevante. El este prezent etern, ținând în mâinile Sale puterea întregului univers."
+      },
+      {
+        "type": "p",
+        "en": "We are His people. We define ourselves without apology, without equivocation, and without the slightest concern for the opinions of those who worship a fiction, as the followers of the Supreme Being, the King of the Gods, the Unconquered and Greatest.",
+        "links": [],
+        "ro": "Suntem poporul Său. Ne definim fără scuze, fără echivoc și fără cea mai mică preocupare pentru opiniile celor care venerează o ficțiune, drept adepții Ființei Supreme, Regelui Zeilor, Celui Neînvins și Celui Mai Mare."
+      },
+      {
+        "type": "p",
+        "en": "They had two thousand years. They failed. We are still here. So are the Gods.",
+        "links": [],
+        "ro": "Au avut două mii de ani. Au eșuat. Noi suntem încă aici. La fel și Zeii."
+      },
+      {
+        "type": "h2",
+        "en": "On What They Call Us",
+        "links": [],
+        "ro": "Despre numele pe care ni le dau"
+      },
+      {
+        "type": "p",
+        "en": "Let us be direct about this.",
+        "links": [],
+        "ro": "Să vorbim direct despre aceasta."
+      },
+      {
+        "type": "p",
+        "en": "Modern and later-than chronologically religions took our God and called Him \"Devil.\" They took our Gods and Gods more ancient than them, and called them \"Demons.\" Everyone who did not believe in their \"One God\" was misrepresented as \"evil\". Every spiritual practice, thought process, or philosophical approach, or even meditations, were called by many names: \"Idolatrous practices\", \"sinful\", and related purposefully with negative images. They have been doing this for two thousand years and it's an ongoing practice. Whatever we call ourselves, whatever language we use, however we present ourselves to the world, they will call us \"Devil-worshippers\", \"Idolaters\" until the end of time. This is what they do. It is all they know how to do.",
+        "links": [],
+        "ro": "Religiile moderne și cele apărute mai târziu în ordine cronologică L-au preluat pe Zeul nostru și L-au numit «Diavol». Au preluat Zeii noștri și Zei mai vechi decât ele și i-au numit «Demoni». Oricine nu credea în «Unicul lor Dumnezeu» era prezentat în mod fals drept «rău». Fiecare practică spirituală, proces de gândire sau abordare filosofică, ori chiar meditațiile, au fost numite în multe feluri: «practici idolatre», «păcătoase» și asociate intenționat cu imagini negative. Fac aceasta de două mii de ani, iar practica continuă. Oricum ne-am numi, orice limbă am folosi, oricum ne-am prezenta lumii, ne vor numi «închinători la Diavol», «idolatri» până la sfârșitul timpului. Aceasta fac. Este tot ceea ce știu să facă."
+      },
+      {
+        "type": "p",
+        "en": "This is a common phenomenon of religious misrepresentation. Based on the ignorance of history, they build narratives for confusing people who lack knowledge. This doesn't involve us, because we know what we believe in.",
+        "links": [],
+        "ro": "Acesta este un fenomen obișnuit de denaturare religioasă. Pe baza ignoranței istorice, construiesc narațiuni pentru a-i deruta pe oamenii lipsiți de cunoaștere. Acest lucru nu ne privește, deoarece știm în ce credem."
+      },
+      {
+        "type": "p",
+        "en": "So let them.",
+        "links": [],
+        "ro": "Așadar, să îi lăsăm."
+      },
+      {
+        "type": "p",
+        "en": "We are not defined by their vocabulary, our Gods predate them. We are defined by the Gods we serve. Zeus/Dyeus Pater was the King of the Gods when the ancestors of every Christian and every Muslim still worshipped Him. He was the Father of humanity when the tribes that initiated this falsehood, were still nomads in the desert, before education, philosophy or a coherent religious system even. The Truth stood then and it stands now.",
+        "links": [
+          {
+            "text": "Zeus/Dyeus Pater",
+            "url": "https://templeofzeus.org/dyeuspitar"
+          }
+        ],
+        "ro": "Nu suntem definiți de vocabularul lor; Zeii noștri îi precedă. Suntem definiți de Zeii pe care îi slujim. Zeus/Dyeus Pater era Regele Zeilor când strămoșii fiecărui creștin și ai fiecărui musulman încă Îl venerau. Era Tatăl omenirii când triburile care au inițiat această falsitate erau încă nomazi în deșert, înainte chiar de educație, filosofie sau un sistem religios coerent. Adevărul stătea în picioare atunci și stă în picioare acum."
+      },
+      {
+        "type": "p",
+        "en": "He will be the King of the Gods when their religions are remembered only as a footnote in the history of human error and a series of mistakes that have gone too far chronologically.",
+        "links": [],
+        "ro": "El va fi Regele Zeilor când religiile lor vor fi amintite doar ca o notă de subsol în istoria erorii umane și ca o serie de greșeli care s-au prelungit prea mult în timp."
+      },
+      {
+        "type": "p",
+        "en": "Let them call us anything they wish. It does not matter what they call us in their limited vocabulary: it is nothing else but empty religious polemic.",
+        "links": [],
+        "ro": "Să ne numească oricum doresc. Nu contează cum ne numesc în vocabularul lor limitat: nu este altceva decât polemică religioasă goală."
+      },
+      {
+        "type": "p",
+        "en": "The direct Truth of the topic, is that even their \"God\", or the names of their \"God\" are indeed also sourced on the Original God: Dyeus Pater. They know this; but historical denial will be clarified in due time.",
+        "links": [
+          {
+            "text": "Dyeus Pater.",
+            "url": "https://templeofzeus.org/zevists"
+          }
+        ],
+        "ro": "Adevărul direct al subiectului este că până și «Dumnezeul» lor sau numele «Dumnezeului» lor își au, într-adevăr, tot originea în Zeul Originar: Dyeus Pater. Ei știu aceasta; dar negarea istorică va fi lămurită la timpul cuvenit."
+      },
+      {
+        "type": "p",
+        "en": "They took our God's names and turned them into curses; Gods were \"demonized\". Now the Gods are revealed for who they always were, without their partisan layer. The joke is on them. It always was. Our God was, is and will be.",
+        "links": [],
+        "ro": "Au luat numele Zeului nostru și le-au transformat în blesteme; Zeii au fost «demonizați». Acum Zeii sunt dezvăluiți drept ceea ce au fost întotdeauna, fără stratul partizan adăugat de ei. Ei sunt cei ridiculizați. Așa a fost mereu. Zeul nostru a fost, este și va fi."
+      },
+      {
+        "type": "h2",
+        "en": "The Evidence from Their Own Scriptures",
+        "links": [],
+        "ro": "Dovezile din propriile lor scripturi"
+      },
+      {
+        "type": "p",
+        "en": "The Abrahamic religions condemn themselves in their own texts. In the Book of Revelation, the author writes:",
+        "links": [],
+        "ro": "Religiile abrahamice se condamnă singure în propriile texte. În Cartea Apocalipsei, autorul scrie:"
+      },
+      {
+        "type": "p",
+        "en": "Revelation 2:13",
+        "links": [],
+        "ro": "Apocalipsa 2:13"
+      },
+      {
+        "type": "p",
+        "en": "\"I know thy works, and where thou dwellest, even where Satan's seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth.\"",
+        "links": [],
+        "ro": "«Cunosc lucrările tale și locul unde locuiești, chiar acolo unde este scaunul Satanei; și ții cu tărie numele meu și nu te-ai lepădat de credința în mine, nici chiar în zilele în care Antipa era martorul meu credincios, care a fost ucis între voi, acolo unde locuiește Satana.»"
+      },
+      {
+        "type": "p",
+        "en": "The ancient city of Pergamum in Asia Minor was home to one of the largest and most magnificent temples dedicated to Zeus in the ancient world. The author of Revelation looks at the Throne of Zeus and calls it \"Satan's seat.\" There is no ambiguity here. There is no metaphor. The Christian author is admitting, in his own sacred scripture, that the being he calls as the primary enemy, labelled under \"Satan\" is Zeus. He is telling his followers to fear the Temple of Zeus. He is telling them that Zeus is the enemy; the God of their forefathers and the people a few generations before them. The irony is staggering.",
+        "links": [
+          {
+            "text": "labelled under \"Satan\"",
+            "url": "https://templeofzeus.org/theinversion"
+          }
+        ],
+        "ro": "Orașul antic Pergam din Asia Mică adăpostea unul dintre cele mai mari și mai mărețe temple dedicate lui Zeus din lumea antică. Autorul Apocalipsei privește Tronul lui Zeus și îl numește «scaunul Satanei». Nu există ambiguitate aici. Nu există metaforă. Autorul creștin admite, în propria scriptură sacră, că ființa pe care o numește dușmanul principal, etichetată drept «Satana», este Zeus. Le spune adepților săi să se teamă de Templul lui Zeus. Le spune că Zeus este dușmanul; Zeul strămoșilor lor și al oamenilor de cu câteva generații înaintea lor. Ironia este uluitoare."
+      },
+      {
+        "type": "p",
+        "en": "The author appears to be right about one thing: Zeus is indeed the enemy of every lie, every act of spiritual enslavement, and every programme that seeks to sever humanity from its original Gods. If that makes Him \"Satan\" in their vocabulary, then their vocabulary is their own, answering their own point.",
+        "links": [],
+        "ro": "Autorul pare să aibă dreptate într-o privință: Zeus este, într-adevăr, dușmanul fiecărei minciuni, fiecărui act de înrobire spirituală și fiecărui program care caută să rupă omenirea de Zeii săi originari. Dacă aceasta Îl face «Satana» în vocabularul lor, atunci vocabularul lor le aparține, răspunzând propriului lor argument."
+      },
+      {
+        "type": "p",
+        "en": "We are not interested to have to answer their points, as our source of knowledge predates them.",
+        "links": [],
+        "ro": "Nu ne interesează să fim nevoiți să răspundem argumentelor lor, deoarece sursa noastră de cunoaștere le precedă."
+      },
+      {
+        "type": "p",
+        "en": "The reason for the demonization was not that Zeus is evil, but the contrary: Zeus is, has been, and will be, the source of Good. It was that Zeus is powerful, that His tradition is real, that His practices produce results, and that a humanity connected to its true Gods cannot be controlled by fear-based religious systems. The later religions needed Zeus and the Gods gone. They needed His Gods gone. They needed His knowledge gone. An attempt to disconnection has failed time and time again. So they called Him the Devil and hoped that would be enough. It was not, apparently.",
+        "links": [],
+        "ro": "Motivul demonizării nu a fost că Zeus este rău, ci contrariul: Zeus este, a fost și va fi sursa Binelui. Motivul a fost că Zeus este puternic, că tradiția Sa este reală, că practicile Sale produc rezultate și că o omenire legată de adevărații săi Zei nu poate fi controlată prin sisteme religioase întemeiate pe frică. Religiile ulterioare aveau nevoie ca Zeus și Zeii să dispară. Aveau nevoie ca Zeii Săi să dispară. Aveau nevoie ca acea cunoaștere a Sa să dispară. Încercarea de rupere a legăturii a eșuat iar și iar. Așa că L-au numit Diavol și au sperat că aceasta va fi de ajuns. Se pare că nu a fost."
+      },
+      {
+        "type": "p",
+        "en": "It was never going to be enough. You cannot kill a God by giving Him your mere interpretations; these remain your own and are motivated only by those espousing them. The reality of the cosmos remains constant.",
+        "links": [],
+        "ro": "Niciodată nu avea să fie de ajuns. Nu poți ucide un Zeu atribuindu-I simplele tale interpretări; acestea rămân ale tale și sunt motivate doar de cei care le susțin. Realitatea cosmosului rămâne constantă."
+      },
+      {
+        "type": "h3",
+        "en": "Sources & References",
+        "links": [],
+        "ro": "Surse și referințe"
+      },
+      {
+        "type": "li",
+        "en": "Plato, Timaeus 20d-25d, and Critias 108e-121c: the priests of Saïs tell Solon of Atlantis, and of the war fought nine thousand years before his time ( Critias 108e).",
+        "links": [],
+        "ro": "Platon, Timaios 20d–25d și Critias 108e–121c: preoții din Saïs îi povestesc lui Solon despre Atlantida și despre războiul purtat cu nouă mii de ani înaintea vremii sale (Critias 108e)."
+      },
+      {
+        "type": "li",
+        "en": "Clesson H. Harvey, Opening the Door to Immortality: Texts in the Pyramid of Meri-en-Ro (Cookeville, Tennessee: Cliff Morgenthaler Publishing, 2012), Preface to the Pyramid Texts, pp. 11-13: from the Pyramid Texts and the slopes of the pyramids, the oldest reckoned three precessional cycles old, about 78,000 years (set out in The Origins of Our True Religion ).",
+        "links": [
+          {
+            "text": "The Origins of Our True Religion",
+            "url": "https://templeofzeus.org/truereligion"
+          }
+        ],
+        "ro": "Clesson H. Harvey, Opening the Door to Immortality: Texts in the Pyramid of Meri-en-Ro (Cookeville, Tennessee: Cliff Morgenthaler Publishing, 2012), Prefață la Textele Piramidelor, pp. 11–13: pe baza Textelor Piramidelor și a înclinărilor piramidelor, celei mai vechi i se atribuie vârsta a trei cicluri de precesie, aproximativ 78.000 de ani (expus în Originile Adevăratei Noastre Religii)."
+      },
+      {
+        "type": "p",
+        "en": "Further Reading",
+        "links": [],
+        "ro": "Lecturi suplimentare"
+      },
+      {
+        "type": "li",
+        "en": "Zeus's Information Page",
+        "links": [
+          {
+            "text": "Zeus's Information Page",
+            "url": "https://templeofzeus.org/zeus"
+          }
+        ],
+        "ro": "Pagina de informații despre Zeus"
+      },
+      {
+        "type": "li",
+        "en": "Zevists: Our Name, Zeus and Thunder Power",
+        "links": [
+          {
+            "text": "Zevists: Our Name, Zeus and Thunder Power",
+            "url": "https://templeofzeus.org/zevists"
+          }
+        ],
+        "ro": "Zeviști: numele nostru, Zeus și puterea tunetului"
+      }
+    ],
+    "title": "Zeus: Adevărul Etern și identitățile Sale",
+    "category": "gods",
+    "url": "https://templeofzeus.org/our-god",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 2807
   },
   {
     "id": "about-guardian-daemons",
@@ -1495,6 +3091,142 @@
     ]
   },
   {
+    "id": "self-observation-meditation",
+    "originalTitle": "The Self Observation Meditation",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 278,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "To maintain the state of the observer is to watch your thoughts and feelings like clouds passing in the sky, without getting involved. It is crucial not to judge them as good or bad, because judgment gives them power and starts an internal fight.",
+        "links": [],
+        "ro": "A menține starea de observator înseamnă să îți privești gândurile și sentimentele ca pe niște nori care trec pe cer, fără să te implici. Este esențial să nu le judeci ca bune sau rele, deoarece judecata le dă putere și declanșează o luptă interioară."
+      },
+      {
+        "type": "p",
+        "en": "Doing nothing is not passivity; it is simply not acting.",
+        "links": [],
+        "ro": "A nu face nimic nu înseamnă pasivitate; înseamnă pur și simplu a nu acționa."
+      },
+      {
+        "type": "p",
+        "en": "By simply observing, you create a space between you and your thoughts, so you can observe them.",
+        "links": [],
+        "ro": "Doar observând, creezi un spațiu între tine și gândurile tale, astfel încât să le poți observa."
+      },
+      {
+        "type": "h2",
+        "en": "Level 1: Thought Observation",
+        "links": [],
+        "ro": "Nivelul 1: observarea gândurilor"
+      },
+      {
+        "type": "li",
+        "en": "Maintain the state of the observer. You are not DOING, you are OBSERVING.",
+        "links": [],
+        "ro": "Menține starea de observator. Nu FACI, ci OBSERVI."
+      },
+      {
+        "type": "li",
+        "en": "Sit comfortably and close your eyes.",
+        "links": [],
+        "ro": "Așază-te confortabil și închide ochii."
+      },
+      {
+        "type": "li",
+        "en": "For five minutes, observe your thoughts as they arise and pass.",
+        "links": [],
+        "ro": "Timp de cinci minute, observă-ți gândurile pe măsură ce apar și trec."
+      },
+      {
+        "type": "li",
+        "en": "Do not engage, judge, or follow any thought. Watch them like clouds in the sky.",
+        "links": [],
+        "ro": "Nu te implica în niciun gând, nu îl judeca și nu îl urma. Privește-le ca pe niște nori pe cer."
+      },
+      {
+        "type": "li",
+        "en": "Your only task is to be the silent, impartial observer.",
+        "links": [],
+        "ro": "Singura ta sarcină este să fii observatorul tăcut și imparțial."
+      },
+      {
+        "type": "h2",
+        "en": "Level 2: Emotional Observation",
+        "links": [],
+        "ro": "Nivelul 2: observarea emoțiilor"
+      },
+      {
+        "type": "li",
+        "en": "Maintain the state of the observer. You are not DOING, you are OBSERVING.",
+        "links": [],
+        "ro": "Menține starea de observator. Nu FACI, ci OBSERVI."
+      },
+      {
+        "type": "li",
+        "en": "Shift your focus from thoughts to feelings.",
+        "links": [],
+        "ro": "Mută-ți atenția de la gânduri la sentimente."
+      },
+      {
+        "type": "li",
+        "en": "For five minutes, observe your emotions as they arise and pass.",
+        "links": [],
+        "ro": "Timp de cinci minute, observă-ți emoțiile pe măsură ce apar și trec."
+      },
+      {
+        "type": "li",
+        "en": "Do not identify with any feeling. Note its presence (anger, joy, anxiety) and let it go without attachment.",
+        "links": [],
+        "ro": "Nu te identifica cu niciun sentiment. Constată-i prezența (furie, bucurie, neliniște) și lasă-l să plece fără atașament."
+      },
+      {
+        "type": "h2",
+        "en": "Level 3: Desire Observation",
+        "links": [],
+        "ro": "Nivelul 3: observarea dorințelor"
+      },
+      {
+        "type": "li",
+        "en": "Maintain the state of the observer. You are not DOING, you are OBSERVING.",
+        "links": [],
+        "ro": "Menține starea de observator. Nu FACI, ci OBSERVI."
+      },
+      {
+        "type": "li",
+        "en": "Shift your focus to your lower abdomen.",
+        "links": [],
+        "ro": "Mută-ți atenția spre partea inferioară a abdomenului."
+      },
+      {
+        "type": "li",
+        "en": "For five minutes, observe the raw impulses and desires that originate there.",
+        "links": [],
+        "ro": "Timp de cinci minute, observă impulsurile și dorințele brute care își au originea acolo."
+      },
+      {
+        "type": "li",
+        "en": "Do not act on or condemn any desire. Simply acknowledge any urge that arises, be it about food, or sex, or anything else, watching it rise and fade.",
+        "links": [],
+        "ro": "Nu acționa în virtutea niciunei dorințe și nu o condamna. Pur și simplu recunoaște orice impuls care apare, fie că privește mâncarea, sexul sau orice altceva, urmărindu-l cum se înalță și se stinge."
+      },
+      {
+        "type": "p",
+        "en": "How to know you have mastered this: You are now able to behold all three levels of yourself, without being entangled in them, and without judgment. You observe and you know.",
+        "links": [],
+        "ro": "Cum știi că ai stăpânit această practică: acum ești capabil să contempli toate cele trei niveluri ale propriei ființe, fără să fii prins în ele și fără să le judeci. Observi și știi."
+      }
+    ],
+    "title": "Meditația autoobservării",
+    "category": "meditation",
+    "url": "https://templeofzeus.org/self-observation-meditation",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 278
+  },
+  {
     "id": "dot-meditation",
     "title": "Meditația punctului: dezvoltarea capacității de atenție",
     "originalTitle": "Dot Meditation: Building Attention Capacity",
@@ -1846,6 +3578,176 @@
         "ro": "Aceasta este o modalitate excelentă de a te împuternici în timp ce faci meditația Vidului. Este avansată și trebuie să poți simți energia și să o poți atrage, ca în Meditația Energiei. Aici nu vizualizezi energia; doar inspiri și expiri, absorbind energia la inspirație și extinzându-ți aura la expirație. Te concentrezi deplin asupra *senzației*. Ar trebui să stăpânești respirația energetică înainte de a integra această metodă în meditația Vidului."
       }
     ]
+  },
+  {
+    "id": "awareness-of-sound-meditation",
+    "originalTitle": "Awareness of Sound Meditation",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 290,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "By strengthening this faculty for vivid, internal listening, you fine-tune your consciousness to perceive subtle auditory information. This heightened inner hearing is the foundational skill that develops far later in your journey into potential clairaudience, or the Siddhi ability to perceive sounds beyond the physical senses.",
+        "links": [],
+        "ro": "Întărind această facultate de ascultare interioară vie, îți ajustezi fin conștiința pentru a percepe informații auditive subtile. Acest auz interior sporit este deprinderea fundamentală care, mult mai târziu în călătoria ta, se dezvoltă într-o posibilă claraudiție, adică în capacitatea Siddhi de a percepe sunete dincolo de simțurile fizice."
+      },
+      {
+        "type": "h2",
+        "en": "Level 1: Listening",
+        "links": [],
+        "ro": "Nivelul 1: ascultarea"
+      },
+      {
+        "type": "li",
+        "en": "Sit comfortably and close your eyes, or maintain a soft, unfocused gaze.",
+        "links": [],
+        "ro": "Așază-te confortabil și închide ochii sau păstrează o privire blândă, nefocalizată."
+      },
+      {
+        "type": "li",
+        "en": "Choose a piece of music or the natural ambient sounds around you.",
+        "links": [],
+        "ro": "Alege o piesă muzicală sau sunetele naturale din mediul din jurul tău."
+      },
+      {
+        "type": "li",
+        "en": "Focus your entire consciousness on the act of hearing. Listen exclusively to the sound.",
+        "links": [],
+        "ro": "Concentrează-ți întreaga conștiință asupra actului de a auzi. Ascultă exclusiv sunetul."
+      },
+      {
+        "type": "li",
+        "en": "Do not analyze the music, name the instruments, or judge it as good or bad. Do not follow thoughts that arise from the sounds. Simply receive the pure, raw data of the sound waves as they enter your awareness.",
+        "links": [],
+        "ro": "Nu analiza muzica, nu numi instrumentele și nu o judeca drept bună sau rea. Nu urma gândurile care apar din sunete. Primește pur și simplu datele pure, brute, ale undelor sonore pe măsură ce acestea intră în conștientizarea ta."
+      },
+      {
+        "type": "li",
+        "en": "Maintain this state of undivided auditory attention for the duration of the song or for a set period.",
+        "links": [],
+        "ro": "Menține această stare de atenție auditivă neîmpărțită pe durata piesei sau pentru un interval stabilit."
+      },
+      {
+        "type": "h2",
+        "en": "Level 2: Recalling & Listening",
+        "links": [],
+        "ro": "Nivelul 2: reamintirea și ascultarea"
+      },
+      {
+        "type": "li",
+        "en": "Sit comfortably and close your eyes.",
+        "links": [],
+        "ro": "Așază-te confortabil și închide ochii."
+      },
+      {
+        "type": "li",
+        "en": "Select a song you know well.",
+        "links": [],
+        "ro": "Alege o piesă pe care o cunoști bine."
+      },
+      {
+        "type": "li",
+        "en": "Your task is to listen to this song from start to finish exclusively inside your mind.",
+        "links": [],
+        "ro": "Sarcina ta este să asculți această piesă de la început până la sfârșit exclusiv în mintea ta."
+      },
+      {
+        "type": "li",
+        "en": "You must \"play\" the track in your head with as much vivid detail and clarity as possible. Hear the melody, the rhythm, the harmonies, the individual instruments, and the vocals as if they were actually being played.",
+        "links": [],
+        "ro": "Trebuie să «redai» piesa în minte cu cât mai multe detalii vii și cu cât mai multă claritate. Auzi melodia, ritmul, armoniile, instrumentele individuale și vocile ca și cum ar fi redate cu adevărat."
+      },
+      {
+        "type": "li",
+        "en": "If your attention wanders or the sound fades, gently but firmly bring your focus back and \"rewind\" the track to the point where you lost it. Do not proceed until the internal soundscape is as clear and continuous as you can make it.",
+        "links": [],
+        "ro": "Dacă atenția îți rătăcește sau sunetul se estompează, readu-ți concentrarea, cu blândețe, dar ferm, și «derulează înapoi» piesa până la punctul în care ai pierdut-o. Nu continua până când peisajul sonor interior nu este cât mai clar și mai continuu cu putință."
+      },
+      {
+        "type": "p",
+        "en": "How to know you have mastered this meditation: When you can listen to a song from start to end, fully, as if you were listening to it live, you have mastered this meditation.",
+        "links": [],
+        "ro": "Cum știi că ai stăpânit această meditație: când poți asculta o piesă de la început până la sfârșit, în întregime, ca și cum ai asculta-o în direct, ai stăpânit această meditație."
+      }
+    ],
+    "title": "Meditația conștientizării sunetului",
+    "category": "meditation",
+    "url": "https://templeofzeus.org/awareness-of-sound-meditation",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 290
+  },
+  {
+    "id": "chakra-sounds-meditation",
+    "originalTitle": "Meditating on Chakra Sounds",
+    "credit": "by Apollo editor: High Priest Zevios Metathronos",
+    "sourceWords": 200,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "Each chakra has a standard sound. By meditating on these sounds and focusing on the specific chakra, this is one way of opening up your astral hearing.",
+        "links": [],
+        "ro": "Fiecare chakră are un sunet standard. Meditând asupra acestor sunete și concentrându-te asupra chakrei respective, urmezi una dintre căile de a-ți deschide auzul astral."
+      },
+      {
+        "type": "li",
+        "en": "Base Chakra, the physical Level: Sounds include thunder or a soft hissing. Red",
+        "links": [],
+        "ro": "Chakra de bază, nivelul fizic: sunetele includ tunetul sau un șuierat ușor. Roșu"
+      },
+      {
+        "type": "li",
+        "en": "Sacral Chakra, the astral Level: Roar like the ocean or the sound of wind. Orange",
+        "links": [],
+        "ro": "Chakra sacrală, nivelul astral: vuiet asemenea oceanului sau sunetul vântului. Portocaliu"
+      },
+      {
+        "type": "li",
+        "en": "Solar Chakra, the level of will: H-h-h-a-a-h-h-h sound (silent, like an exhale: no voice; long and continuous) or the sound of humming/vibration \"AUM\". Yellow",
+        "links": [],
+        "ro": "Chakra solară, nivelul voinței: sunetul H-h-h-a-a-h-h-h (tăcut, ca o expirație: fără voce; lung și continuu) sau sunetul zumzetului/vibrației «AUM». Galben"
+      },
+      {
+        "type": "li",
+        "en": "Heart Chakra, the intuitional Level: Buzzing like a bee (bioelectricity) or the sound of a flute. Green",
+        "links": [],
+        "ro": "Chakra inimii, nivelul intuitiv: zumzet ca al unei albine (bioelectricitate) sau sunetul unui flaut. Verde"
+      },
+      {
+        "type": "li",
+        "en": "Throat Chakra, the mental Level: Apollo revealed a specific sound for this chakra. The best way to describe it is like twisting a balloon. Humming can also be used. Blue",
+        "links": [],
+        "ro": "Chakra gâtului, nivelul mental: Apollo a revelat un sunet specific acestei chakre. Cel mai bine poate fi descris ca sunetul răsucirii unui balon. Se poate folosi și zumzetul. Albastru"
+      },
+      {
+        "type": "li",
+        "en": "6th Chakra, the soul Level: The sound of woodwind instruments. Bluish violet (indigo)",
+        "links": [],
+        "ro": "Chakra a șasea, nivelul sufletului: sunetul instrumentelor de suflat din lemn. Violet albăstrui (indigo)"
+      },
+      {
+        "type": "li",
+        "en": "Crown Chakra, the blissful Level: Whisper or no sound: this is felt rather than heard. Violet",
+        "links": [],
+        "ro": "Chakra coroanei, nivelul beatific: șoaptă sau niciun sunet; acesta este mai degrabă simțit decât auzit. Violet"
+      },
+      {
+        "type": "p",
+        "en": "The above levels and sounds are guidelines only to get one started. Focus on a particular chakra, and imagine the corresponding sound as best you can. Try to feel it through your body and resonate on that plane. This meditation will open you to clairaudience.",
+        "links": [],
+        "ro": "Nivelurile și sunetele de mai sus sunt doar repere pentru început. Concentrează-te asupra unei anumite chakre și imaginează-ți sunetul corespunzător cât de bine poți. Încearcă să îl simți în tot corpul și să rezonezi pe acel plan. Această meditație te va deschide către claraudiție."
+      }
+    ],
+    "title": "Meditația asupra sunetelor chakrelor",
+    "category": "meditation",
+    "url": "https://templeofzeus.org/chakra-sounds-meditation",
+    "author": "by Apollo editor: High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 200
   },
   {
     "id": "meditation",
@@ -5340,6 +7242,478 @@
         "ro": "3 · Triada →"
       }
     ]
+  },
+  {
+    "id": "zevist-numerology-3",
+    "originalTitle": "3 · The Triad",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 807,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "Spirit · Divine union · Beginning, middle, and completion",
+        "links": [],
+        "ro": "Spirit · Unire divină · Început, mijloc și încheiere"
+      },
+      {
+        "type": "p",
+        "en": "Three gives the first fullness to an unfolding. A beginning receives a middle and an end; separated terms enter a relation that can sustain a whole. Zevist numerology honours the Triad as spirit, divinity, the trine force, and the first union. Its sacred perfection is the completeness of an ordered movement, through which the power held in unity becomes manifest in a coherent expression.",
+        "links": [],
+        "ro": "Trei dă prima deplinătate unei desfășurări. Un început primește un mijloc și un sfârșit; termenii separați intră într-o relație care poate susține un întreg. Numerologia zevistă cinstește Triada ca spirit, divinitate, forță trină și primă unire. Perfecțiunea ei sacră este deplinătatea unei mișcări ordonate, prin care puterea cuprinsă în unitate se manifestă într-o expresie coerentă."
+      },
+      {
+        "type": "diagram",
+        "src": "source/zevist-numerology-3-diagram-0.svg",
+        "alt": "The numeral 3",
+        "altRo": "Cifra 3"
+      },
+      {
+        "type": "p",
+        "en": "The numeral",
+        "ro": "Cifra"
+      },
+      {
+        "type": "diagram",
+        "src": "source/zevist-numerology-3-diagram-1.svg",
+        "alt": "3 dots",
+        "altRo": "3 puncte"
+      },
+      {
+        "type": "p",
+        "en": "3 points",
+        "ro": "3 puncte"
+      },
+      {
+        "type": "p",
+        "en": "Three dots form a triangle: distinct terms joined in the first closed plane figure.",
+        "links": [],
+        "ro": "Trei puncte formează un triunghi: termeni distincți uniți în prima figură plană închisă."
+      },
+      {
+        "type": "p",
+        "en": "Core meanings · foundational Temple text",
+        "links": [],
+        "ro": "Sensuri esențiale · text fundamental al Templului"
+      },
+      {
+        "type": "p",
+        "en": "Spirit, divinity, trine force, a perfect number, first union, divine/holy trinity [Ea, Enlil, Anu - Poseidon, Zeus, Hades, etc.], trinity of the worlds",
+        "links": [],
+        "ro": "Spirit, divinitate, forță trină, număr perfect, prima unire, trinitate divină/sfântă [Ea, Enlil, Anu — Poseidon, Zeus, Hades etc.], trinitatea lumilor"
+      },
+      {
+        "type": "h2",
+        "en": "The first expression of completeness",
+        "links": [],
+        "ro": "Prima expresie a deplinătății"
+      },
+      {
+        "type": "p",
+        "en": "The Theology of Arithmetic , traditionally attributed to Iamblichus, praises the Triad for bringing the Monad's powers into activity: limit, proportion, union, and perfection. It particularly observes that three equals the sum of its immediate predecessors, one and two. What was source and first distinction is now gathered into a new whole. [1]",
+        "links": [],
+        "ro": "Teologia aritmeticii, atribuită tradițional lui Iamblichos, laudă Triada pentru punerea în lucrare a puterilor Monadei: limită, proporție, unire și perfecțiune. Observă în mod deosebit că trei este egal cu suma predecesorilor săi imediați, unu și doi. Ceea ce era sursă și primă distincție este acum adunat într-un întreg nou. [1]"
+      },
+      {
+        "type": "p",
+        "en": "The text also gives the natural sequence of beginning, culmination, and ending. In this sense Three is perfect: a movement has the terms required for a complete course. This sacred meaning is distinct from the arithmetic definition based on proper divisors. Six is the first perfect number in that latter sense; the Triad's perfection concerns ordered wholeness.",
+        "links": [],
+        "ro": "Textul oferă și succesiunea firească a începutului, culminației și încheierii. În acest sens, Trei este perfect: o mișcare are termenii necesari unei desfășurări complete. Acest înțeles sacru este distinct de definiția aritmetică întemeiată pe divizorii proprii. Șase este primul număr perfect în acest din urmă sens; perfecțiunea Triadei privește întregul ordonat."
+      },
+      {
+        "type": "h2",
+        "en": "The Divine triads and the worlds",
+        "links": [],
+        "ro": "Triadele Divine și lumile"
+      },
+      {
+        "type": "p",
+        "en": "The Temple's received teaching names Ea, Enlil, and Anu, and Poseidon, Zeus, and Hades, among its sacred triads. It also speaks of the trinity of the worlds. Within this teaching, Three is a way of contemplating Divine plurality in an ordered union: each Divine presence retains its distinction while the triadic relation reveals a greater completeness. [2]",
+        "links": [],
+        "ro": "Învățătura moștenită a Templului îi numește pe Ea, Enlil și Anu, precum și pe Poseidon, Zeus și Hades, printre triadele sale sacre. Ea vorbește și despre trinitatea lumilor. În această învățătură, Trei este o cale de contemplare a pluralității Divine într-o unire ordonată: fiecare prezență Divină își păstrează distincția, în timp ce relația triadică dezvăluie o deplinătate mai mare. [2]"
+      },
+      {
+        "type": "p",
+        "en": "These named triads belong to the Temple's formulation. They are presented here in their received order, without turning them into a claim that the two traditions supply interchangeable lists of identical Gods. The Iamblichean chapter provides the arithmetic and theological foundation of triadic union; the Temple gives that foundation its particular devotional expression.",
+        "links": [],
+        "ro": "Aceste triade numite aparțin formulării Templului. Sunt prezentate aici în ordinea lor moștenită, fără a le transforma într-o afirmație că cele două tradiții oferă liste interschimbabile de Zei identici. Capitolul iamblichean oferă temelia aritmetică și teologică a unirii triadice; Templul dă acelei temelii expresia sa devoțională particulară."
+      },
+      {
+        "type": "h2",
+        "en": "The first enclosed figure",
+        "links": [],
+        "ro": "Prima figură închisă"
+      },
+      {
+        "type": "p",
+        "en": "Three non-collinear points determine a triangle. The diagram therefore gives a direct image of first enclosure: three distinct positions belong to one bounded figure. Each point participates in the whole, and each side establishes a relation that the figure needs. This is the simplest polygon through which the movement from separation to configuration becomes visible.",
+        "links": [],
+        "ro": "Trei puncte necoliniare determină un triunghi. Diagrama oferă astfel o imagine directă a primei închideri: trei poziții distincte aparțin unei singure figuri delimitate. Fiecare punct participă la întreg și fiecare latură stabilește o relație de care figura are nevoie. Acesta este cel mai simplu poligon prin care mișcarea de la separare la configurare devine vizibilă."
+      },
+      {
+        "type": "p",
+        "en": "The ancient treatment explicitly connects the Triad with the triangle and with mediation, concord, and harmony. [1] Its power of union allows unlike terms to participate in an intelligible order. The Tetrad will then bring another kind of determination, expressed in boundaries and the formation of a solid. Three prepares that development by making coherent form appear.",
+        "links": [],
+        "ro": "Tratarea antică leagă în mod explicit Triada de triunghi și de mediere, concordie și armonie. [1] Puterea ei de unire permite termenilor diferiți să participe la o ordine inteligibilă. Tetrada va aduce apoi un alt fel de determinare, exprimat prin limite și prin formarea unui corp solid. Trei pregătește acea dezvoltare făcând să apară forma coerentă."
+      },
+      {
+        "type": "h2",
+        "en": "Giving a sacred action its full course",
+        "links": [],
+        "ro": "A da unei acțiuni sacre întreaga sa desfășurare"
+      },
+      {
+        "type": "p",
+        "en": "The Triad invites attention to the integrity of a sacred undertaking. Its opening establishes orientation; its middle bears the work; its closing gathers what has been accomplished. Each phase has a proper office. A beginning can be solemn yet remain unfinished, while completion gains depth when it preserves the intention with which the work began.",
+        "links": [],
+        "ro": "Triada îndeamnă la atenție față de integritatea unei întreprinderi sacre. Deschiderea ei stabilește orientarea; mijlocul ei poartă lucrarea; încheierea ei adună ceea ce s-a împlinit. Fiecare fază are propria îndatorire. Un început poate fi solemn și totuși să rămână neîncheiat, în timp ce încheierea câștigă profunzime când păstrează intenția cu care a început lucrarea."
+      },
+      {
+        "type": "p",
+        "en": "In the contemplation offered here, Three may organise a prayer into invocation, attentive presence, and thanksgiving. This sequence is a newly composed application of triadic completeness. Its purpose is to give devotion a lucid form through which approach, participation, and return belong to one sacred movement.",
+        "links": [],
+        "ro": "În contemplația oferită aici, Trei poate organiza o rugăciune în invocare, prezență atentă și mulțumire. Această succesiune este o aplicare nou compusă a deplinătății triadice. Scopul ei este să dea devotamentului o formă limpede, prin care apropierea, participarea și întoarcerea să aparțină unei singure mișcări sacre."
+      },
+      {
+        "type": "h2",
+        "en": "The Triad in practice",
+        "links": [],
+        "ro": "Triada în practică"
+      },
+      {
+        "type": "p",
+        "en": "A moment of contemplation",
+        "links": [],
+        "ro": "Un moment de contemplație"
+      },
+      {
+        "type": "p",
+        "en": "Contemplate the three points as one figure. Attend first to the beginning of a work, then to the care that sustains it, then to the act that fulfils it. Hold all three together. Let your prayer possess an opening worthy of its purpose, a faithful middle, and a completion that gathers its fruit.",
+        "links": [],
+        "ro": "Contemplă cele trei puncte ca pe o singură figură. Îndreaptă-ți atenția mai întâi asupra începutului unei lucrări, apoi asupra grijii care o susține, apoi asupra actului care o împlinește. Ține-le pe toate trei împreună. Fie ca rugăciunea ta să aibă o deschidere demnă de scopul ei, un mijloc credincios și o încheiere care îi adună rodul."
+      },
+      {
+        "type": "p",
+        "en": "Continue to the guide for magick and meditation →",
+        "links": [
+          {
+            "text": "Continue to the guide for magick and meditation →",
+            "url": "https://templeofzeus.org/zevist-numerology-magick-meditation"
+          }
+        ],
+        "ro": "Continuă la ghidul pentru magie și meditație →"
+      },
+      {
+        "type": "p",
+        "en": "The figure of this number: Sacred Geometry, Layer 3, The Triangle →",
+        "links": [
+          {
+            "text": "The figure of this number: Sacred Geometry, Layer 3, The Triangle →",
+            "url": "https://templeofzeus.org/sacred-geometry-triangle"
+          }
+        ],
+        "ro": "Figura acestui număr: Geometria sacră, stratul 3, Triunghiul →"
+      },
+      {
+        "type": "h3",
+        "en": "Sources & reading",
+        "links": [],
+        "ro": "Surse și lecturi"
+      },
+      {
+        "type": "p",
+        "en": "The core meanings preserve the Temple’s foundational numerology text. The commentary develops these meanings alongside the Theology of Arithmetic transmitted under Iamblichus’s name; that work draws on earlier Pythagorean material, including Nicomachus and Anatolius. The practical contemplations and the selected dot arrangements are composed for this series.",
+        "links": [],
+        "ro": "Sensurile esențiale păstrează textul fundamental de numerologie al Templului. Comentariul dezvoltă aceste sensuri alături de Teologia aritmeticii transmisă sub numele lui Iamblichos; acea lucrare se bazează pe material pitagoreic anterior, inclusiv Nicomachos și Anatolios. Contemplațiile practice și dispunerile de puncte alese sunt compuse pentru această serie."
+      },
+      {
+        "type": "li",
+        "en": "The Theology of Arithmetic, traditionally attributed to Iamblichus On the Triad, pp. 14–19: actualisation, union, mediation, beginning and end, triangle, concord, and sacred perfection. On the Tetrad, pp. 26–27, expressly distinguishes the kinds of perfection associated with 1, 3, 6, and 10. Original Greek; page numbers refer to the bracketed pagination displayed in this transcription.",
+        "links": [
+          {
+            "text": "The Theology of Arithmetic, traditionally attributed to Iamblichus",
+            "url": "https://el.wikisource.org/wiki/%CE%A4%CE%B1_%CE%B8%CE%B5%CE%BF%CE%BB%CE%BF%CE%B3%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1_%CF%84%CE%B7%CF%82_%CE%B1%CF%81%CE%B9%CE%B8%CE%BC%CE%B7%CF%84%CE%B9%CE%BA%CE%AE%CF%82"
+          }
+        ],
+        "ro": "Teologia aritmeticii, atribuită tradițional lui Iamblichos. Despre Triadă, pp. 14–19: actualizare, unire, mediere, început și sfârșit, triunghi, concordie și perfecțiune sacră. Despre Tetradă, pp. 26–27, distinge în mod expres felurile de perfecțiune asociate cu 1, 3, 6 și 10. Greaca originală; numerele paginilor se referă la paginația între paranteze drepte afișată în această transcriere."
+      },
+      {
+        "type": "li",
+        "en": "Temple of Zeus: Zevist Numerology The received Zevist core meanings are preserved above. The explanatory development and closing contemplation are newly composed for this edition; ancient teachings are identified in the text and cited separately.",
+        "links": [
+          {
+            "text": "Temple of Zeus: Zevist Numerology",
+            "url": "https://templeofzeus.org/zevist-numerology"
+          }
+        ],
+        "ro": "Templul lui Zeus: Numerologia zevistă. Sensurile esențiale zeviste primite prin tradiție sunt păstrate mai sus. Dezvoltarea explicativă și contemplația de încheiere sunt nou compuse pentru această ediție; învățăturile antice sunt identificate în text și citate separat."
+      },
+      {
+        "type": "li",
+        "en": "← 2 · The Dyad",
+        "links": [
+          {
+            "text": "← 2 · The Dyad",
+            "url": "https://templeofzeus.org/zevist-numerology-2"
+          }
+        ],
+        "ro": "← 2 · Diada"
+      },
+      {
+        "type": "li",
+        "en": "4 · The Tetrad →",
+        "links": [
+          {
+            "text": "4 · The Tetrad →",
+            "url": "https://templeofzeus.org/zevist-numerology-4"
+          }
+        ],
+        "ro": "4 · Tetrada →"
+      }
+    ],
+    "title": "3 · Triada",
+    "category": "magick",
+    "url": "https://templeofzeus.org/zevist-numerology-3",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 807
+  },
+  {
+    "id": "zevist-numerology-4",
+    "originalTitle": "4 · The Tetrad",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 796,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "Order · Justice · The boundary of manifestation",
+        "links": [],
+        "ro": "Ordine · Dreptate · Limita manifestării"
+      },
+      {
+        "type": "p",
+        "en": "Four gives a world its ordered extension. Through the Tetrad, direction becomes determinate, boundaries become intelligible, and a form acquires the steadiness needed to endure. Zevist numerology places order, justice, the four directions, and the four elements within its domain. Its sacred work is to establish proportion in manifestation, giving each thing a place from which it may fulfil its nature.",
+        "links": [],
+        "ro": "Patru dă unei lumi întinderea sa ordonată. Prin Tetradă, direcția devine determinată, limitele devin inteligibile, iar o formă dobândește stabilitatea necesară pentru a dăinui. Numerologia zevistă așază ordinea, dreptatea, cele patru direcții și cele patru elemente în domeniul său. Lucrarea ei sacră este să stabilească proporția în manifestare, dând fiecărui lucru un loc din care să își poată împlini natura."
+      },
+      {
+        "type": "diagram",
+        "src": "source/zevist-numerology-4-diagram-0.svg",
+        "alt": "The numeral 4",
+        "altRo": "Cifra 4"
+      },
+      {
+        "type": "p",
+        "en": "The numeral",
+        "ro": "Cifra"
+      },
+      {
+        "type": "diagram",
+        "src": "source/zevist-numerology-4-diagram-1.svg",
+        "alt": "4 dots",
+        "altRo": "4 puncte"
+      },
+      {
+        "type": "p",
+        "en": "4 points",
+        "ro": "4 puncte"
+      },
+      {
+        "type": "p",
+        "en": "Four dots form a square, chosen here to make boundary, proportion, and stable ordering visible.",
+        "links": [],
+        "ro": "Patru puncte formează un pătrat, ales aici pentru a face vizibile limita, proporția și ordonarea stabilă."
+      },
+      {
+        "type": "p",
+        "en": "Core meanings · foundational Temple text",
+        "links": [],
+        "ro": "Sensuri esențiale · text fundamental al Templului"
+      },
+      {
+        "type": "p",
+        "en": "Order, justice, four directions of the physical, the 'boundary', four elements without aether, part of the material world",
+        "links": [],
+        "ro": "Ordine, dreptate, cele patru direcții ale fizicului, «limita», patru elemente fără eter, parte a lumii materiale"
+      },
+      {
+        "type": "h2",
+        "en": "The power that gives form a foundation",
+        "links": [],
+        "ro": "Puterea care dă formei o temelie"
+      },
+      {
+        "type": "p",
+        "en": "The Theology of Arithmetic , traditionally attributed to Iamblichus, treats Four as a decisive term in the development of form. A point, a line, a plane, and a solid mark successive kinds of extension. A tetrahedron, with four vertices and four triangular faces, supplies the simplest solid bounded by plane faces. The Tetrad therefore belongs to the passage into bodily configuration. [1]",
+        "links": [],
+        "ro": "Teologia aritmeticii, atribuită tradițional lui Iamblichos, tratează Patru ca pe un termen decisiv în dezvoltarea formei. Un punct, o linie, un plan și un corp solid marchează feluri succesive de întindere. Un tetraedru, cu patru vârfuri și patru fețe triunghiulare, oferă cel mai simplu corp solid delimitat de fețe plane. Tetrada aparține, așadar, trecerii către configurarea corporală. [1]"
+      },
+      {
+        "type": "p",
+        "en": "The same chapter stresses firmness and enduring support. In the present Zevist exposition, a foundation is the order through which a power can remain active in a definite place. Boundaries make a sacred work maintainable: its space, duration, materials, and obligations can each receive a clear measure.",
+        "links": [],
+        "ro": "Același capitol subliniază fermitatea și sprijinul durabil. În expunerea zevistă de față, o temelie este ordinea prin care o putere poate rămâne activă într-un loc determinat. Limitele fac o lucrare sacră sustenabilă: spațiul, durata, materialele și obligațiile ei pot primi fiecare o măsură clară."
+      },
+      {
+        "type": "h2",
+        "en": "Four elements and four directions",
+        "links": [],
+        "ro": "Patru elemente și patru direcții"
+      },
+      {
+        "type": "p",
+        "en": "The classical chapter expressly names fire, air, water, and earth, together with the qualities hot, cold, moist, and dry. It also arranges directions and seasonal distinctions through Four. [1] These groupings disclose the Tetrad's concern with the articulation of a world whose parts can be distinguished and brought into proportion.",
+        "links": [],
+        "ro": "Capitolul clasic numește în mod expres focul, aerul, apa și pământul, împreună cu însușirile cald, rece, umed și uscat. El ordonează și direcțiile și deosebirile dintre anotimpuri prin Patru. [1] Aceste grupări dezvăluie preocuparea Tetradei pentru articularea unei lumi ale cărei părți pot fi distinse și aduse într-o relație de proporție."
+      },
+      {
+        "type": "p",
+        "en": "The Temple preserves the four elements without aether under this number. The Pentad will introduce the fivefold relation. Here the attention rests upon the order of the physical domain: the place from which an action begins, the directions into which it extends, and the boundary through which its field becomes definite.",
+        "links": [],
+        "ro": "Templul păstrează cele patru elemente fără eter sub acest număr. Pentada va introduce relația în cinci. Aici atenția se oprește asupra ordinii domeniului fizic: locul din care începe o acțiune, direcțiile în care se întinde și limita prin care câmpul ei devine determinat."
+      },
+      {
+        "type": "h2",
+        "en": "Justice as proportion made stable",
+        "links": [],
+        "ro": "Dreptatea ca proporție stabilizată"
+      },
+      {
+        "type": "p",
+        "en": "The ancient text names the Tetrad justice and explains this through a square whose side is four: its area has numerical value sixteen, as does its perimeter. These are different kinds of measurement, brought into a numerical correspondence by the chosen unit. The comparison belongs to the treatise's contemplation of equality. [1]",
+        "links": [],
+        "ro": "Textul antic numește Tetrada dreptate și explică aceasta printr-un pătrat a cărui latură este patru: aria sa are valoarea numerică șaisprezece, la fel ca perimetrul. Sunt feluri diferite de măsurare, aduse într-o corespondență numerică prin unitatea aleasă. Comparația aparține contemplării egalității din tratat. [1]"
+      },
+      {
+        "type": "p",
+        "en": "The four-dot square shown here offers a simpler visual image of equal ordering. Its balanced corners invite contemplation of an arrangement in which each part holds its proper place. The Temple's pairing of justice and boundary gives this image spiritual depth: right order is sustained through a measure that is clear, consistent, and capable of being upheld.",
+        "links": [],
+        "ro": "Pătratul de patru puncte prezentat aici oferă o imagine vizuală mai simplă a ordonării egale. Colțurile sale echilibrate invită la contemplarea unei alcătuiri în care fiecare parte își păstrează locul cuvenit. Asocierea dreptății și a limitei în învățătura Templului dă acestei imagini profunzime spirituală: ordinea dreaptă este susținută printr-o măsură clară, consecventă și capabilă să fie menținută."
+      },
+      {
+        "type": "h2",
+        "en": "The foundation that opens toward ten",
+        "links": [],
+        "ro": "Temelia care se deschide către zece"
+      },
+      {
+        "type": "p",
+        "en": "Four also completes the first gathering of the Tetractys: 1 + 2 + 3 + 4 = 10. The Tetrad thereby serves as a threshold between the first principles and their collected fullness. The classical chapter explains the honour given to Four through this capacity to bring the Decad to completion. [1]",
+        "links": [],
+        "ro": "Patru încheie și prima adunare a Tetraktys-ului: 1 + 2 + 3 + 4 = 10. Tetrada slujește astfel drept prag între primele principii și deplinătatea lor adunată. Capitolul clasic explică cinstirea acordată lui Patru prin această capacitate de a duce Decada la împlinire. [1]"
+      },
+      {
+        "type": "p",
+        "en": "Its practical lesson is patient establishment. A sacred undertaking needs a place, a measure, a sequence, and faithful care. The Tetrad invites the practitioner to make these conditions fit for their purpose. Once the boundary is sound, the work can receive the living union contemplated under Five, and its power can be carried forward without losing its form.",
+        "links": [],
+        "ro": "Lecția sa practică este întemeierea răbdătoare. O întreprindere sacră are nevoie de un loc, o măsură, o succesiune și o grijă credincioasă. Tetrada îl îndeamnă pe practicant să facă aceste condiții potrivite scopului lor. Odată ce limita este solidă, lucrarea poate primi unirea vie contemplată sub Cinci, iar puterea ei poate fi dusă mai departe fără să își piardă forma."
+      },
+      {
+        "type": "h2",
+        "en": "The Tetrad in practice",
+        "links": [],
+        "ro": "Tetrada în practică"
+      },
+      {
+        "type": "p",
+        "en": "A moment of contemplation",
+        "links": [],
+        "ro": "Un moment de contemplație"
+      },
+      {
+        "type": "p",
+        "en": "Follow the four corners of the square with your attention. Contemplate the order of your sacred space and the commitments that sustain it. Give each its appropriate boundary and measure. Return to the whole figure, receiving its steadiness as an invitation to make your work firm, proportioned, and faithful.",
+        "links": [],
+        "ro": "Urmărește cu atenția cele patru colțuri ale pătratului. Contemplă ordinea spațiului tău sacru și angajamentele care o susțin. Dă fiecăruia limita și măsura potrivite. Revino la figura întreagă, primindu-i stabilitatea ca pe o invitație de a-ți face lucrarea fermă, proporționată și credincioasă."
+      },
+      {
+        "type": "p",
+        "en": "Continue to the guide for magick and meditation →",
+        "links": [
+          {
+            "text": "Continue to the guide for magick and meditation →",
+            "url": "https://templeofzeus.org/zevist-numerology-magick-meditation"
+          }
+        ],
+        "ro": "Continuă la ghidul pentru magie și meditație →"
+      },
+      {
+        "type": "p",
+        "en": "The figure of this number: Sacred Geometry, Layer 4, The Square and the Cross →",
+        "links": [
+          {
+            "text": "The figure of this number: Sacred Geometry, Layer 4, The Square and the Cross →",
+            "url": "https://templeofzeus.org/sacred-geometry-square-and-cross"
+          }
+        ],
+        "ro": "Figura acestui număr: Geometria sacră, stratul 4, Pătratul și Crucea →"
+      },
+      {
+        "type": "h3",
+        "en": "Sources & reading",
+        "links": [],
+        "ro": "Surse și lecturi"
+      },
+      {
+        "type": "p",
+        "en": "The core meanings preserve the Temple’s foundational numerology text. The commentary develops these meanings alongside the Theology of Arithmetic transmitted under Iamblichus’s name; that work draws on earlier Pythagorean material, including Nicomachus and Anatolius. The practical contemplations and the selected dot arrangements are composed for this series.",
+        "links": [],
+        "ro": "Sensurile esențiale păstrează textul fundamental de numerologie al Templului. Comentariul dezvoltă aceste sensuri alături de Teologia aritmeticii transmisă sub numele lui Iamblichos; acea lucrare se bazează pe material pitagoreic anterior, inclusiv Nicomachos și Anatolios. Contemplațiile practice și dispunerile de puncte alese sunt compuse pentru această serie."
+      },
+      {
+        "type": "li",
+        "en": "The Theology of Arithmetic, traditionally attributed to Iamblichus On the Tetrad, pp. 20–30: bodily configuration, tetrahedron, elements, directions, firmness, the Tetractys, and justice. The side-four square comparison occurs on p. 29; the four-dot diagram is an expository choice, distinct from that measurement example. Original Greek; page numbers refer to the bracketed pagination displayed in this transcription.",
+        "links": [
+          {
+            "text": "The Theology of Arithmetic, traditionally attributed to Iamblichus",
+            "url": "https://el.wikisource.org/wiki/%CE%A4%CE%B1_%CE%B8%CE%B5%CE%BF%CE%BB%CE%BF%CE%B3%CE%BF%CF%8D%CE%BC%CE%B5%CE%BD%CE%B1_%CF%84%CE%B7%CF%82_%CE%B1%CF%81%CE%B9%CE%B8%CE%BC%CE%B7%CF%84%CE%B9%CE%BA%CE%AE%CF%82"
+          }
+        ],
+        "ro": "Teologia aritmeticii, atribuită tradițional lui Iamblichos. Despre Tetradă, pp. 20–30: configurare corporală, tetraedru, elemente, direcții, fermitate, Tetraktys și dreptate. Comparația pătratului cu latura patru apare la p. 29; diagrama de patru puncte este o alegere de expunere, distinctă de acel exemplu de măsurare. Greaca originală; numerele paginilor se referă la paginația între paranteze drepte afișată în această transcriere."
+      },
+      {
+        "type": "li",
+        "en": "Temple of Zeus: Zevist Numerology The received Zevist core meanings are preserved above. The explanatory development and closing contemplation are newly composed for this edition; ancient teachings are identified in the text and cited separately.",
+        "links": [
+          {
+            "text": "Temple of Zeus: Zevist Numerology",
+            "url": "https://templeofzeus.org/zevist-numerology"
+          }
+        ],
+        "ro": "Templul lui Zeus: Numerologia zevistă. Sensurile esențiale zeviste primite prin tradiție sunt păstrate mai sus. Dezvoltarea explicativă și contemplația de încheiere sunt nou compuse pentru această ediție; învățăturile antice sunt identificate în text și citate separat."
+      },
+      {
+        "type": "li",
+        "en": "← 3 · The Triad",
+        "links": [
+          {
+            "text": "← 3 · The Triad",
+            "url": "https://templeofzeus.org/zevist-numerology-3"
+          }
+        ],
+        "ro": "← 3 · Triada"
+      },
+      {
+        "type": "li",
+        "en": "5 · The Pentad →",
+        "links": [
+          {
+            "text": "5 · The Pentad →",
+            "url": "https://templeofzeus.org/zevist-numerology-5"
+          }
+        ],
+        "ro": "5 · Pentada →"
+      }
+    ],
+    "title": "4 · Tetrada",
+    "category": "magick",
+    "url": "https://templeofzeus.org/zevist-numerology-4",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 796
   },
   {
     "id": "about-astrology",
@@ -13048,5 +15422,837 @@
         "ro": "Informațiile despre proveniența și reutilizarea imaginilor apar pe pagina fiecărui simbol. Obiectele antice, emblemele ezoterice ulterioare și arta sacră proprie a Templului își păstrează istoriile individuale."
       }
     ]
+  },
+  {
+    "id": "zevism-mastertable",
+    "originalTitle": "The Master Synthesis Table",
+    "credit": "autor: High Priest Zevios Metathronos",
+    "sourceWords": 1400,
+    "blocks": [
+      {
+        "type": "p",
+        "en": "Zevism as the Complete System of the Original Religion of Mankind",
+        "links": [],
+        "ro": "Zevismul ca sistem complet al religiei originare a omenirii"
+      },
+      {
+        "type": "p",
+        "en": "GREEN = Documented, functional, consistent with Reason. RED = Absent, primitive, irrational, or unusable. ZEVISM ✓ = All domains restored. 13/13.",
+        "links": [],
+        "ro": "VERDE = Documentat, funcțional, în acord cu Rațiunea. ROȘU = Absent, primitiv, irațional sau inutilizabil. ZEVISM ✓ = Toate domeniile restaurate. 13/13."
+      },
+      {
+        "type": "comparison-table",
+        "enRows": [
+          [
+            "Domain",
+            "Hellenic",
+            "Egyptian",
+            "Vedic / Sanskrit",
+            "Sumerian",
+            "Norse / Slavic",
+            "Hindu (living)",
+            "LHP / Occult",
+            "Abrahamic",
+            "Sci. Atheism",
+            "Zevism"
+          ],
+          [
+            "Philosophy",
+            "SUPREME: Plato, Aristotle, Plotinus, Proclus. Most rigorous theological philosophy in history",
+            "Implicit in practice but never systematised. Oral tradition destroyed (391 CE)",
+            "Upanishads profound but allegorical. No systematic logic comparable to Aristotle",
+            "No philosophical texts survive",
+            "No formal philosophical tradition",
+            "Multiple schools but internally contradictory. Volume doesn't equal coherence",
+            "No original framework. Derivative patchwork",
+            "ZERO. Augustine/Aquinas built on stolen Plato/Aristotle. Original contribution: \"believe or burn.\"",
+            "Empiricism, logical positivism. Powerful for material analysis. Denies all metaphysics",
+            "✓ Neoplatonic core. Systematic, rational, complete"
+          ],
+          [
+            "Meditation",
+            "Existed within the Mysteries (Eleusinian, Orphic, Pythagorean). Kept secret. Plato refers cryptically",
+            "Detailed visualisation protocols. Temple meditation. PGM procedures",
+            "SUPREME (texts): Patanjali's 8 limbs. Most complete written manual",
+            "Not documented. Incantation-based only",
+            "Seidr trance reported but methods almost entirely lost",
+            "Living tradition. BUT: mixed with guru-worship cults and commercially degraded nonsense",
+            "Techniques adopted from East without ethical grounding",
+            "ZERO. Prohibited. Mystics persecuted. Meister Eckhart tried for heresy",
+            "Mindfulness adopted as secular therapy. Stripped of spiritual dimension",
+            "✓ Vedic method + Egyptian visualisation + Hellenic Mystery contemplation"
+          ],
+          [
+            "Energy / Chakras",
+            "Internal Mystery knowledge. Caduceus = diagram (Ida/Pingala/Sushumna). Secret, not absent",
+            "SUPREME (depiction): Temple murals show God-directed activation. Ka/Ba/Akh 9-part anatomy",
+            "SUPREME (map): Full 7-chakra system. Nadis, bija mantras, governing deities",
+            "Not documented",
+            "No evidence of a practical energy body system",
+            "Living tradition. BUT: mixed with pseudoscience (gem therapy, colour healing)",
+            "Adopted wholesale from East. No original contribution",
+            "ZERO. Body is \"sinful flesh.\" All energy work = witchcraft = death (Exodus 22:18)",
+            "Denies existence of the energy body",
+            "✓ Vedic map + Egyptian activation technology + Hellenic Mystery knowledge"
+          ],
+          [
+            "Kundalini",
+            "Internal Mystery knowledge. Caduceus, Asclepius staff, Orphic serpent symbolism",
+            "SUPREME (depiction): Uraeus, Djed pillar, Ankh. Extensively depicted",
+            "SUPREME (protocols): Detailed awakening. Bandhas, mudras , stage-by-stage ascent",
+            "Serpent symbolism only. Not spiritual technology",
+            "World Serpent is cosmological, not a practice",
+            "Living tradition BUT dangerously commercialised. Unscreened retreats produce psychotic breaks",
+            "Adopted without ethics. Severe psychic damage documented",
+            "ZERO. The serpent is the enemy (Genesis 3). Mechanism of Godhead demonised",
+            "Denies existence. \"Subjective experience\" = not real",
+            "✓ Vedic protocols + Egyptian cosmology. Safe within Ma'at framework"
+          ],
+          [
+            "Breath Work",
+            "Mystery tradition likely included breath practices. Specific protocols don't survive",
+            "\"Breath of life\" references. Some PGM rituals. Not systematised",
+            "SUPREME: Pranayama fully documented. Nadi shodhana, kapalabhati, bhastrika",
+            "Not documented",
+            "Galdr chanting implies breath awareness but no methods survive",
+            "Living pranayama BUT commercially diluted. Stripped of spiritual context",
+            "Adopted piecemeal. No systematic curriculum",
+            "ZERO. \"Breath of God\" stolen from Egyptian Ka, stripped of practice",
+            "Breathing exercises studied for stress relief. Spiritual dimension denied",
+            "✓ Vedic pranayama as primary technology. Integrated with Egyptian activation"
+          ],
+          [
+            "Divination",
+            "Oracle at Delphi. Artemidorus' Oneirocritica. Augury",
+            "Dream incubation. Oracle consultation. PGM procedures",
+            "Jyotish: sidereal zodiac, 27 nakshatras, dasha periods",
+            "SUPREME: Hepatoscopy. Astrology (MUL.APIN). Omen texts",
+            "Runes: genuine divinatory alphabet (Elder Futhark). Slavic seasonal divination",
+            "Jyotish, palmistry, nadi readings. BUT: mixed with charlatanism",
+            "Tarot, scrying, pendulum. Functionally effective",
+            "ZERO. Explicitly prohibited (Deut. 18:10-12). Punishable by death",
+            "Dismissed as superstition",
+            "✓ All systems integrated: Western + Vedic astrology, Runes, oneiromancy, tarot"
+          ],
+          [
+            "Healing",
+            "Hippocrates (c. 460-370 BCE). Galen (129-216 CE). Dioscorides. Rational and advanced",
+            "SUPREME: Ebers Papyrus (700+ remedies). Edwin Smith (48 surgical cases). Integrated body-soul",
+            "Ayurveda mixes genuine medicine with extensive pseudoscience. Not consistently rational",
+            "Incantation-based only",
+            "Fragmentary herbal knowledge. No systematic tradition",
+            "Same Ayurvedic problems: genuine remedies mixed with gem therapy and fraud",
+            "Not a focus",
+            "ZERO original. Faith healing only (James 5:15). Opposed rational medicine for centuries",
+            "Evidence-based medicine. Antibiotics, surgery, vaccines. Humanity's greatest practical achievement here",
+            "✓ Greek rational medicine + Egyptian integrated model + modern science"
+          ],
+          [
+            "Ethics",
+            "SUPREME: Aristotelian virtue ethics. Stoic ethics. Delphic maxims. Universal",
+            "SUPREME: 42 Laws of Ma'at. Heart-weighing. Truth as cosmic principle",
+            "Dharma/karma embedded in caste system. Not universally applicable",
+            "\"Me\" symbolism and concepts exist but primitive",
+            "Genuine ethical instincts but never codified into systematic philosophy",
+            "Same dharma/karma/caste limitations. Not universal",
+            "Deliberately absent. Moral vacuum by design",
+            "ZERO original. Commandments stolen from Ma'at. \"Contribution\": obey or burn",
+            "Secular humanism. Rational but groundless: no cosmic anchor",
+            "✓ Ma'at as universal cosmic law + Aristotelian virtue. Independent of culture or birth"
+          ],
+          [
+            "Afterlife / Soul",
+            "Taught within Mysteries. Orphic tablets. Plato (Myth of Er, Phaedo). \"Better hopes for death\" (Cicero)",
+            "SUPREME: Book of the Dead. Hall of Ma'at. Akh transformation pathway",
+            "Samsara, moksha, transmigration. Multiple lokas. Functional theology",
+            "Kur minimally developed. Theologically primitive",
+            "Valhalla, Hel, Folkvangr (Norse). Nav/Prav/Yav (Slavic). Genuine theology",
+            "Detailed BUT contradictory across Puranic literature",
+            "Confused and contradictory",
+            "ZERO development. Binary: heaven or eternal torture. Threat mechanism only",
+            "Denies existence of the soul. Consciousness = neurochemistry",
+            "✓ Egyptian Ma'at judgement + Vedic reincarnation + Orphic/Platonic depth"
+          ],
+          [
+            "Magick / Ritual",
+            "Theurgy (Iamblichus). PGM corpus: hundreds of procedures",
+            "SUPREME: Heka as primordial force. Execration Texts. PGM. Foundational",
+            "Mantra, yantra, Tantra, puja. Living and effective",
+            "Maqlu/Shurpu: fragmentary",
+            "Historically attested and powerful. But continuity broken by Christianisation",
+            "Living Tantric/puja traditions. BUT: commercialised and degraded",
+            "Primary focus BUT morally unmoored. Jewish grimoires: Gods coerced as \"demons.\"",
+            "ZERO. \"Thou shalt not suffer a witch to live\" (Exodus 22:18). Millions killed",
+            "Dismissed as superstition",
+            "✓ Egyptian heka + Vedic Tantra + Hellenic theurgy. Triple synthesis. Ma'at restored"
+          ],
+          [
+            "Cosmology",
+            "SUPREME: Neoplatonic emanation. Most internally consistent metaphysical architecture",
+            "Duat, Nun, solar cycle. Rich and internally consistent",
+            "14 lokas, Yuga cycles. Elaborate BUT internally inconsistent across texts",
+            "Enuma Elish: oldest written cosmogony. Foundational",
+            "Nine Worlds/Yggdrasil: genuine maps but lacking metaphysical depth",
+            "Same Vedic/Puranic inconsistencies. Fantastical, not rational",
+            "Derivative. Borrows without unified framework",
+            "ZERO original. Genesis stolen from Enuma Elish. Flat earth, 6 days, 6,000 years",
+            "Big Bang, quantum mechanics, relativity. Extraordinary material cosmology",
+            "✓ Neoplatonic emanation as master architecture. All maps incorporated. Science accepted"
+          ],
+          [
+            "Divine Pantheon",
+            "Olympians fully characterized. Homer, Hesiod, 87 Orphic Hymns",
+            "Neteru documented across millennia",
+            "Devas characterized in Vedas, Puranas. Living worship",
+            "Annunaki in extensive cuneiform corpus",
+            "Gods characterised despite late hostile recording. Slavic attested archaeologically",
+            "Full living pantheon. Most extensive active tradition",
+            "Distorted: Jewish grimoires. Gods presented as hostile \"demons.\"",
+            "ZERO. One jealous entity (Exodus 20:3). All other Gods declared demons",
+            "Denies existence of all Gods",
+            "✓ ALL Pantheons unified. One divine family. Zeus/*Dyeus presiding. Names restored"
+          ],
+          [
+            "Science",
+            "FOUNDED IT. Thales, Pythagoras, Euclid, Archimedes, Hipparchus, Eratosthenes, Galen, Aristotle",
+            "Astronomy, mathematics (Rhind/Moscow Papyri), engineering (pyramids), chemistry (khemia)",
+            "Mathematics: zero, decimal system. Astronomy (Surya Siddhanta). Grammar (Panini)",
+            "Mathematics: sexagesimal (base-60). Writing (cuneiform). Astronomy",
+            "No scientific tradition survives",
+            "Same Vedic contributions, but mixed with pseudoscientific claims",
+            "No scientific contribution",
+            "ZERO. Opposed science. Galileo persecuted. Bruno burned. Hypatia murdered",
+            "Modern empirical science. Built on Greek foundations. Humanity's greatest material achievement",
+            "✓ Accepts all verified science. The Greeks who founded it were Pagans. Science and spirituality are complementary"
+          ]
+        ],
+        "cellKinds": [
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "d",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "green",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "green",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "red",
+            "red",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "green",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "green",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "red",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "green",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "red",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "green",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "red",
+            "gold"
+          ],
+          [
+            "d",
+            "green",
+            "green",
+            "green",
+            "green",
+            "red",
+            "red",
+            "red",
+            "red",
+            "green",
+            "gold"
+          ]
+        ],
+        "links": [
+          {
+            "text": "mudras",
+            "url": "https://templeofzeus.org/mudras"
+          }
+        ],
+        "roRows": [
+          [
+            "Domeniu",
+            "Elenă",
+            "Egipteană",
+            "Vedică / sanscrită",
+            "Sumeriană",
+            "Nordică / slavă",
+            "Hindusă (vie)",
+            "LHP / ocultism",
+            "Abrahamică",
+            "Ateism șt.",
+            "Zevism"
+          ],
+          [
+            "Filosofie",
+            "SUPREMĂ: Platon, Aristotel, Plotin, Proclos. Cea mai riguroasă filosofie teologică din istorie",
+            "Implicită în practică, dar niciodată sistematizată. Tradiția orală distrusă (391 e.n.)",
+            "Upanișadele sunt profunde, dar alegorice. Fără logică sistematică comparabilă cu cea a lui Aristotel",
+            "Nu supraviețuiesc texte filosofice",
+            "Nicio tradiție filosofică formală",
+            "Multiple școli, dar contradictorii în interior. Volumul nu echivalează cu coerența",
+            "Niciun cadru original. Colaj derivat",
+            "ZERO. Augustin/Toma d’Aquino au construit pe ideile furate de la Platon/Aristotel. Contribuția originală: «crede sau arzi».",
+            "Empirism, pozitivism logic. Puternic în analiza materială. Neagă orice metafizică",
+            "✓ Nucleu neoplatonic. Sistematic, rațional, complet"
+          ],
+          [
+            "Meditație",
+            "A existat în Misterii (eleusine, orfice, pitagoreice). Ținută secretă. Platon se referă criptic la ea",
+            "Protocoale detaliate de vizualizare. Meditație în templu. Proceduri PGM",
+            "SUPREMĂ (texte): cele 8 ramuri ale lui Patanjali. Cel mai complet manual scris",
+            "Nedocumentată. Bazată doar pe incantații",
+            "Transa Seidr este relatată, dar metodele sunt aproape în întregime pierdute",
+            "Tradiție vie. DAR: amestecată cu culte de venerare a gurușilor și cu absurdități degradate comercial",
+            "Tehnici adoptate din Orient fără temelie etică",
+            "ZERO. Interzisă. Misticii persecutați. Meister Eckhart judecat pentru erezie",
+            "Mindfulness adoptat ca terapie seculară. Lipsit de dimensiunea spirituală",
+            "✓ Metodă vedică + vizualizare egipteană + contemplația Misteriilor elene"
+          ],
+          [
+            "Energie / chakre",
+            "Cunoaștere internă a Misteriilor. Caduceu = diagramă (Ida/Pingala/Sushumna). Secretă, nu absentă",
+            "SUPREMĂ (reprezentare): picturile murale ale templelor arată activare îndrumată de Zei. Anatomie Ka/Ba/Akh în 9 părți",
+            "SUPREMĂ (hartă): sistem complet de 7 chakre. Nadi, mantre bija, divinități guvernatoare",
+            "Nedocumentată",
+            "Nicio dovadă a unui sistem practic al corpului energetic",
+            "Tradiție vie. DAR: amestecată cu pseudoștiință (terapie cu pietre prețioase, vindecare prin culori)",
+            "Adoptată în întregime din Orient. Nicio contribuție originală",
+            "ZERO. Corpul este «carne păcătoasă». Orice lucru cu energia = vrăjitorie = moarte (Exodul 22:18)",
+            "Neagă existența corpului energetic",
+            "✓ Hartă vedică + tehnologie egipteană de activare + cunoașterea Misteriilor elene"
+          ],
+          [
+            "Kundalini",
+            "Cunoaștere internă a Misteriilor. Caduceu, toiagul lui Asclepios, simbolism orfic al șarpelui",
+            "SUPREMĂ (reprezentare): Uraeus, stâlp Djed, Ankh. Reprezentată pe larg",
+            "SUPREMĂ (protocoale): trezire detaliată. Bandha, mudra, ascensiune etapă cu etapă",
+            "Doar simbolism al șarpelui. Nu tehnologie spirituală",
+            "Șarpele Lumii este cosmologic, nu o practică",
+            "Tradiție vie, DAR comercializată periculos. Retragerile fără selecție prealabilă produc episoade psihotice",
+            "Adoptată fără etică. Vătămări psihice grave documentate",
+            "ZERO. Șarpele este dușmanul (Geneza 3). Mecanismul îndumnezeirii demonizat",
+            "Neagă existența. «Experiență subiectivă» = ireală",
+            "✓ Protocoale vedice + cosmologie egipteană. Sigură în cadrul Ma’at"
+          ],
+          [
+            "Lucrul cu respirația",
+            "Tradiția Misteriilor a inclus probabil practici de respirație. Protocoalele specifice nu supraviețuiesc",
+            "Referiri la «suflarea vieții». Unele ritualuri PGM. Nesistematizat",
+            "SUPREMĂ: Pranayama pe deplin documentată. Nadi shodhana, kapalabhati, bhastrika",
+            "Nedocumentat",
+            "Cântarea Galdr presupune conștientizarea respirației, dar nu supraviețuiesc metode",
+            "Pranayama vie, DAR diluată comercial. Lipsită de context spiritual",
+            "Adoptat fragmentar. Nicio programă sistematică",
+            "ZERO. «Suflarea lui Dumnezeu» furată din Ka egiptean și lipsită de practică",
+            "Exerciții de respirație studiate pentru reducerea stresului. Dimensiunea spirituală negată",
+            "✓ Pranayama vedică drept tehnologie principală. Integrată cu activarea egipteană"
+          ],
+          [
+            "Divinație",
+            "Oracolul de la Delfi. Oneirocritica a lui Artemidor. Auguriu",
+            "Incubația viselor. Consultarea oracolului. Proceduri PGM",
+            "Jyotish: zodiac sideral, 27 de nakshatra, perioade dasha",
+            "SUPREMĂ: hepatoscopie. Astrologie (MUL.APIN). Texte despre semne prevestitoare",
+            "Rune: alfabet divinatoriu autentic (Elder Futhark). Divinație sezonieră slavă",
+            "Jyotish, chiromanție, citiri nadi. DAR: amestecate cu șarlatanie",
+            "Tarot, scrutare, pendul. Eficiente funcțional",
+            "ZERO. Interzisă explicit (Deut. 18:10–12). Pedepsită cu moartea",
+            "Respinsă ca superstiție",
+            "✓ Toate sistemele integrate: astrologie occidentală + vedică, Rune, oniromanție, tarot"
+          ],
+          [
+            "Vindecare",
+            "Hipocrate (cca 460–370 î.e.n.). Galen (129–216 e.n.). Dioscoride. Rațională și avansată",
+            "SUPREMĂ: Papirusul Ebers (peste 700 de remedii). Edwin Smith (48 de cazuri chirurgicale). Integrare corp–suflet",
+            "Ayurveda amestecă medicina autentică cu multă pseudoștiință. Nu este consecvent rațională",
+            "Bazată doar pe incantații",
+            "Cunoaștere fragmentară a plantelor. Nicio tradiție sistematică",
+            "Aceleași probleme ayurvedice: remedii autentice amestecate cu terapie cu pietre prețioase și fraudă",
+            "Nu este un obiectiv principal",
+            "ZERO originalitate. Doar vindecare prin credință (Iacov 5:15). S-a opus medicinei raționale timp de secole",
+            "Medicină bazată pe dovezi. Antibiotice, chirurgie, vaccinuri. Aici se află cea mai mare realizare practică a omenirii",
+            "✓ Medicină rațională greacă + model integrat egiptean + știință modernă"
+          ],
+          [
+            "Etică",
+            "SUPREMĂ: etica virtuții aristotelice. Etică stoică. Maxime delfice. Universală",
+            "SUPREMĂ: cele 42 de Legi ale Ma’at. Cântărirea inimii. Adevărul ca principiu cosmic",
+            "Dharma/karma încorporate în sistemul de caste. Nu sunt universal aplicabile",
+            "Există simbolismul și conceptele «Me», dar sunt primitive",
+            "Instincte etice autentice, dar niciodată codificate într-o filosofie sistematică",
+            "Aceleași limitări dharma/karma/caste. Nu este universală",
+            "Absentă deliberat. Vid moral prin concepție",
+            "ZERO originalitate. Porunci furate de la Ma’at. «Contribuție»: supune-te sau arzi",
+            "Umanism secular. Rațional, dar fără temei: nicio ancoră cosmică",
+            "✓ Ma’at ca lege cosmică universală + virtute aristotelică. Independentă de cultură sau naștere"
+          ],
+          [
+            "Viața de apoi / suflet",
+            "Predate în Misterii. Tăblițe orfice. Platon (Mitul lui Er, Phaidon). «Speranțe mai bune pentru moarte» (Cicero)",
+            "SUPREMĂ: Cartea Morților. Sala Ma’at. Calea transformării Akh",
+            "Samsara, moksha, transmigrație. Multiple loka. Teologie funcțională",
+            "Kur dezvoltat minimal. Teologic primitiv",
+            "Valhalla, Hel, Folkvangr (nordică). Nav/Prav/Yav (slavă). Teologie autentică",
+            "Detaliate, DAR contradictorii în literatura puranică",
+            "Confuze și contradictorii",
+            "ZERO dezvoltare. Binar: rai sau tortură eternă. Doar mecanism de amenințare",
+            "Neagă existența sufletului. Conștiință = neurochimie",
+            "✓ Judecata egipteană a Ma’at + reîncarnare vedică + profunzime orfică/platonică"
+          ],
+          [
+            "Magie / ritual",
+            "Teurgie (Iamblichos). Corpusul PGM: sute de proceduri",
+            "SUPREMĂ: Heka drept forță primordială. Textele de execrație. PGM. Fundamentală",
+            "Mantra, yantra, Tantra, puja. Vii și eficiente",
+            "Maqlu/Shurpu: fragmentare",
+            "Atestate istoric și puternice. Dar continuitatea a fost ruptă de creștinare",
+            "Tradiții tantrice/puja vii. DAR: comercializate și degradate",
+            "Obiectiv principal, DAR fără ancorare morală. Grimoare evreiești: Zeii constrânși ca «demoni».",
+            "ZERO. «Să nu lași o vrăjitoare să trăiască» (Exodul 22:18). Milioane uciși",
+            "Respinse ca superstiție",
+            "✓ Heka egipteană + Tantra vedică + teurgie elenă. Triplă sinteză. Ma’at restaurată"
+          ],
+          [
+            "Cosmologie",
+            "SUPREMĂ: emanație neoplatonică. Cea mai coerentă intern arhitectură metafizică",
+            "Duat, Nun, ciclul solar. Bogată și coerentă intern",
+            "14 loka, cicluri Yuga. Elaborată, DAR inconsecventă intern între texte",
+            "Enuma Elish: cea mai veche cosmogonie scrisă. Fundamentală",
+            "Nouă Lumi/Yggdrasil: hărți autentice, dar lipsite de profunzime metafizică",
+            "Aceleași inconsecvențe vedice/puranice. Fantastică, nu rațională",
+            "Derivată. Împrumută fără un cadru unificat",
+            "ZERO originalitate. Geneza furată din Enuma Elish. Pământ plat, 6 zile, 6.000 de ani",
+            "Big Bang, mecanică cuantică, relativitate. Cosmologie materială extraordinară",
+            "✓ Emanație neoplatonică drept arhitectură principală. Toate hărțile încorporate. Știința acceptată"
+          ],
+          [
+            "Panteon divin",
+            "Olimpienii caracterizați pe deplin. Homer, Hesiod, 87 de Imnuri Orfice",
+            "Neteru documentați de-a lungul mileniilor",
+            "Devașii caracterizați în Vede, Purane. Cult viu",
+            "Annunaki în corpusul cuneiform extins",
+            "Zeii caracterizați în pofida consemnării târzii ostile. Tradiția slavă atestată arheologic",
+            "Panteon viu complet. Cea mai extinsă tradiție activă",
+            "Denaturat: grimoare evreiești. Zeii prezentați ca «demoni» ostili.",
+            "ZERO. O entitate geloasă (Exodul 20:3). Toți ceilalți Zei declarați demoni",
+            "Neagă existența tuturor Zeilor",
+            "✓ TOATE Panteonurile unificate. O singură familie divină. Zeus/*Dyeus prezidează. Numele restaurate"
+          ],
+          [
+            "Știință",
+            "A ÎNTEMEIAT-O. Thales, Pitagora, Euclid, Arhimede, Hiparh, Eratostene, Galen, Aristotel",
+            "Astronomie, matematică (Papirusurile Rhind/Moscova), inginerie (piramide), chimie (khemia)",
+            "Matematică: zero, sistem zecimal. Astronomie (Surya Siddhanta). Gramatică (Panini)",
+            "Matematică: sexagesimală (baza 60). Scriere (cuneiformă). Astronomie",
+            "Nicio tradiție științifică nu supraviețuiește",
+            "Aceleași contribuții vedice, dar amestecate cu afirmații pseudoștiințifice",
+            "Nicio contribuție științifică",
+            "ZERO. S-a opus științei. Galileo persecutat. Bruno ars. Hypatia ucisă",
+            "Știință empirică modernă. Construită pe temelii grecești. Cea mai mare realizare materială a omenirii",
+            "✓ Acceptă întreaga știință verificată. Grecii care au întemeiat-o erau păgâni. Știința și spiritualitatea sunt complementare"
+          ]
+        ]
+      },
+      {
+        "type": "h2",
+        "en": "Scoreboard",
+        "links": [],
+        "ro": "Tabelul scorurilor"
+      },
+      {
+        "type": "table",
+        "enRows": [
+          [
+            "Tradition",
+            "Green (functional)",
+            "Red (absent / failed)",
+            "Completeness"
+          ],
+          [
+            "Hellenic",
+            "11 / 13",
+            "2 / 13",
+            "85%"
+          ],
+          [
+            "Egyptian",
+            "11 / 13",
+            "2 / 13",
+            "85%"
+          ],
+          [
+            "Vedic / Sanskrit",
+            "9 / 13",
+            "4 / 13",
+            "69%"
+          ],
+          [
+            "Hindu (living)",
+            "6 / 13",
+            "7 / 13",
+            "46%"
+          ],
+          [
+            "Sumerian",
+            "4 / 13",
+            "9 / 13",
+            "31%"
+          ],
+          [
+            "Norse / Slavic",
+            "3 / 13",
+            "10 / 13",
+            "23%"
+          ],
+          [
+            "Scientific Atheism",
+            "3 / 13",
+            "10 / 13",
+            "23%"
+          ],
+          [
+            "LHP / Occult",
+            "2 / 13",
+            "11 / 13",
+            "15%"
+          ],
+          [
+            "Abrahamic",
+            "0 / 13",
+            "13 / 13",
+            "0%"
+          ],
+          [
+            "✓ ZEVISM",
+            "13 / 13",
+            "0 / 13",
+            "100%"
+          ]
+        ],
+        "cellKinds": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "green"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "green"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "green"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "red"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "red"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "red"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "red"
+          ],
+          [
+            "",
+            "green",
+            "red",
+            "red"
+          ],
+          [
+            "",
+            "red",
+            "red",
+            "red"
+          ],
+          [
+            "",
+            "gold",
+            "gold",
+            "gold"
+          ]
+        ],
+        "links": [],
+        "roRows": [
+          [
+            "Tradiție",
+            "Verde (funcțional)",
+            "Roșu (absent / eșuat)",
+            "Completitudine"
+          ],
+          [
+            "Elenă",
+            "11 / 13",
+            "2 / 13",
+            "85%"
+          ],
+          [
+            "Egipteană",
+            "11 / 13",
+            "2 / 13",
+            "85%"
+          ],
+          [
+            "Vedică / sanscrită",
+            "9 / 13",
+            "4 / 13",
+            "69%"
+          ],
+          [
+            "Hindusă (vie)",
+            "6 / 13",
+            "7 / 13",
+            "46%"
+          ],
+          [
+            "Sumeriană",
+            "4 / 13",
+            "9 / 13",
+            "31%"
+          ],
+          [
+            "Nordică / slavă",
+            "3 / 13",
+            "10 / 13",
+            "23%"
+          ],
+          [
+            "Ateism științific",
+            "3 / 13",
+            "10 / 13",
+            "23%"
+          ],
+          [
+            "LHP / ocultism",
+            "2 / 13",
+            "11 / 13",
+            "15%"
+          ],
+          [
+            "Abrahamică",
+            "0 / 13",
+            "13 / 13",
+            "0%"
+          ],
+          [
+            "✓ ZEVISM",
+            "13 / 13",
+            "0 / 13",
+            "100%"
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "en": "Hellenic and Egyptian score highest individually (11/13 each) but in complementary domains. Greece provides the philosophy Egypt lacks. Egypt provides the practical technology Greece kept secret. No single tradition achieves 100%. Only the synthesis does.",
+        "links": [],
+        "ro": "Tradițiile elenă și egipteană obțin individual cele mai mari scoruri (11/13 fiecare), dar în domenii complementare. Grecia oferă filosofia care îi lipsește Egiptului. Egiptul oferă tehnologia practică pe care Grecia a ținut-o secretă. Nicio tradiție de una singură nu atinge 100%. Doar sinteza o face."
+      },
+      {
+        "type": "p",
+        "en": "On volume vs truth: a tradition that produces thousands of pages of contradictory cosmologies, embeds its ethics in a caste system, and mixes genuine technology with superstitious accretions is not \"complete.\" It's voluminous. Volume is not truth. The Zevist standard: does it work, and is it consistent with Reason?",
+        "links": [],
+        "ro": "Despre volum în raport cu adevărul: o tradiție care produce mii de pagini de cosmologii contradictorii, își încorporează etica într-un sistem de caste și amestecă tehnologia autentică cu adaosuri superstițioase nu este «completă». Este voluminoasă. Volumul nu este adevăr. Standardul zevist: funcționează și este în acord cu Rațiunea?"
+      },
+      {
+        "type": "p",
+        "en": "On Scientific Atheism (3/13): genuine contributions in medicine, material cosmology, and empirical method. But it can only see what its instruments measure. The Greeks who founded science (Thales, Pythagoras, Aristotle) were Pagans who worshipped the Gods. Science was born inside the Pagan tradition.",
+        "links": [],
+        "ro": "Despre ateismul științific (3/13): contribuții autentice în medicină, cosmologie materială și metodă empirică. Dar el poate vedea doar ceea ce măsoară instrumentele sale. Grecii care au întemeiat știința (Thales, Pitagora, Aristotel) erau păgâni care îi venerau pe Zei. Știința s-a născut înăuntrul tradiției păgâne."
+      },
+      {
+        "type": "p",
+        "en": "On the Abrahamic religions (0/13): zero original contributions. Every element of value was stolen from the traditions it destroyed. What wasn't stolen was prohibited. This is the work of Yehubor .",
+        "links": [
+          {
+            "text": "Yehubor",
+            "url": "https://templeofzeus.org/liturgical-terms-yehubor"
+          }
+        ],
+        "ro": "Despre religiile abrahamice (0/13): zero contribuții originale. Fiecare element de valoare a fost furat din tradițiile pe care le-a distrus. Ceea ce nu a fost furat a fost interzis. Aceasta este lucrarea lui Yehubor."
+      }
+    ],
+    "title": "Tabelul general al sintezei",
+    "category": "reference",
+    "url": "https://templeofzeus.org/zevism-mastertable",
+    "author": "High Priest Zevios Metathronos",
+    "consultedAt": "27 octombrie 2026",
+    "portion": "Textul integral al paginii sursă, în ordinea originală. Navigarea repetată este exclusă; titlul și creditul sunt afișate separat.",
+    "status": "complete",
+    "translatedSourceWords": 1400
   }
 ]
