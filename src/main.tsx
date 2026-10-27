@@ -16,3 +16,5 @@ function App(){
 try{createRoot(document.getElementById('root')!).render(<App/>);}catch{document.getElementById('root')!.innerHTML='<main style="padding:40px;color:#e7c4df;font-family:Georgia"><h1>NOCTIS</h1><p>Browserul nu permite salvarea locală. Activează stocarea pentru acest site și reîncarcă pagina.</p></main>';}
 
 import './learning.css';
+
+import './home.css';

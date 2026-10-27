@@ -4,6 +4,8 @@ Bibliotecă de lectură în română, cu tematică Hello Kitty gothic, publicat�
 
 O pagină de citit pe rând, cuprins liniar pe volume, recomandarea zilei, mod Focus, text reglabil, comparație RO/EN, legături către original și jurnalul traducerilor. Ilustrațiile transparente au fost generate special pentru proiect; pictogramele principale sunt desene vectoriale proprii.
 
+Pagina **Biblioteca mea** pune traseele de învățare în prim-plan, oferă acces la cele opt volume, lecturi de descoperit, raftul personal și instrumentele de practică. Traseele au acces evidențiat și în navigarea laterală și mobilă.
+
 ## Conținut
 
 26 pagini traduse integral din [templeofzeus.org](https://templeofzeus.org/), pentru edițiile consultate la 26–27 octombrie 2026. Articolele sunt păstrate integral, fără rezumare; navigarea repetată și filtrele site-ului sursă nu fac parte din text. Un index tradus nu înseamnă că toate paginile către care trimite sunt traduse. Inventarul conține 1.407 adrese, inclusiv adrese tehnice; procentul afișat se referă la adrese, nu la cuvintele întregului site.
