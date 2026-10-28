@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import React,{useState,useEffect} from 'react';
 import {ArrowLeft,ArrowRight,ArrowUpRight,Check,ChevronDown,Search} from 'lucide-react';
 import {chapters,type Progress} from '../lib/book';
 import {learningPaths,pathState} from '../lib/pathways';
@@ -6,6 +6,7 @@ import {NoctisMark} from './Ornaments';
 type Props={selected:string|null;active:string|null;progress:Record<string,Progress>;onSelect:(id:string|null)=>void;onFollow:(id:string|null)=>void;onRead:(id:string)=>void};
 export default function Pathways({selected,active,progress,onSelect,onFollow,onRead}:Props){
  const [query,setQuery]=useState(''),[group,setGroup]=useState('Toate'),[all,setAll]=useState(false),[stepLimit,setStepLimit]=useState(8);
+ useEffect(()=>setStepLimit(8),[selected]);
  const path=learningPaths.find(p=>p.id===selected);
  if(path){const state=pathState(path,progress),next=chapters.find(c=>c.id===state.next);return <div className="content-page paths-page page-enter">
   <button className="text-button path-back" onClick={()=>onSelect(null)}><ArrowLeft size={15}/> Toate traseele</button>

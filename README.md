@@ -1,12 +1,12 @@
 # NOCTIS · Gothic Reading Room
 
-Bibliotecă românească cu tematică Hello Kitty gothic, fără backend. [GitHub Pages](https://ramses13th.github.io/noctis-library/) și un build static pentru Render, din același cod.
+Bibliotecă românească cu tematică Hello Kitty gothic, fără backend. [Render](https://noctis-library.onrender.com/) și [GitHub Pages](https://ramses13th.github.io/noctis-library/), din același cod.
 
 ## Ediția de 300 de pagini
 
 **300 de pagini integrale**, **161.062 de cuvinte-sursă**, opt volume și 23 de trasee de lectură. Textele provin exclusiv de pe [templeofzeus.org](https://templeofzeus.org/), din edițiile consultate la 26–28 octombrie 2026. Articolele nu sunt rezumate. Titlurile și creditele sunt separate de corpul textului; navigarea repetată este exclusă. Citatele grecești, latine, sanscrite și transliterările sunt păstrate, iar versiunile engleze oferite de autor sunt traduse în română.
 
-Cele 267 de pagini adăugate după ediția de 33 includ numerologia1–10, toate cele **72 de peceți ale mâinii**, toate cele **36 de principii ale matricei etice**, meditații, chakre, respirație, magie, orientare și etica vieții. Colecția Etica vieții are încă articole netraduse. Seriile urmează numerotarea sau ordinea autorului; volumele și traseele sunt organizarea editorială NOCTIS.
+Cele 267 de pagini adăugate după ediția de 33 includ numerologia 1–10, toate cele **72 de peceți ale mâinii**, toate cele **36 de principii ale matricei etice**, meditații, chakre, respirație, magie, orientare și etica vieții. Colecția Etica vieții are încă articole netraduse. Seriile urmează numerotarea sau ordinea autorului; volumele și traseele sunt organizarea editorială NOCTIS.
 
 Fiecare articol oferă sursa, mod română/engleză/paralel, progres prin derulare, semn de carte și însemnări. Traducerile sunt asistate de AI, confruntate cu sursa, fără revizie umană independentă. Un index tradus nu implică traducerea articolelor către care trimite.
 
@@ -18,20 +18,20 @@ Inventarul păstrează 1.407 adrese, inclusiv adrese tehnice. Procentul global s
 
 - Articolele sunt fișiere JSON independente, cu hash. Deschiderea bibliotecii încarcă metadatele; textul se descarcă la cerere, se păstrează în memorie, iar cererile simultane se reunesc. Următorul articol este pregătit după deschidere.
 - Textul este memorat la randare: progresul de lectură nu reconstruiește articolul. Listele, căutarea și traseele lungi sunt afișate progresiv.
-- Cele13 ilustrații Hello Kitty au versiuni WebP transparente și miniaturi. Imaginile din articole se încarcă întârziat. Fonturile latine și pentru diacritice sunt locale, cu `font-display: swap` și licențe în `public/fonts`.
-- Cele16 apariții audio nu se descarcă automat și nu pornesc singure. Media originală și proveniența sunt în `public/source` și `lib/source-assets.json`. O imagine din Aphrodite9 a răspuns HTTP403: este indicată ca indisponibilă, cu legătură la original, fără înlocuitor inventat.
+- Cele 13 ilustrații Hello Kitty au versiuni WebP transparente și miniaturi. Imaginile din articole se încarcă întârziat. Fonturile latine și pentru diacritice sunt locale, cu `font-display: swap` și licențe în `public/fonts`.
+- Cele 16 apariții audio nu se descarcă automat și nu pornesc singure. Media originală și proveniența sunt în `public/source` și `lib/source-assets.json`. O imagine din Aphrodite9 a răspuns HTTP403: este indicată ca indisponibilă, cu legătură la original, fără înlocuitor inventat.
 
 Prima pagină evidențiază traseele, următorul capitol, recomandarea zilei și volumele. Modul Focus, textul reglabil și navigarea mobilă păstrează lectura simplă. Animațiile respectă preferința pentru mișcare redusă; animația decorativă continuă este oprită pe ecrane mici.
 
 ## Unelte și progres local
 
-18articole au instrumente opționale pentru concentrare, simțuri, memorie, autoobservare, energie și chakre: ținte nemișcate, temporizatoare, contoare și fișiere locale. Duratele prescrise, aproximative și alese de cititor sunt distincte. Nivelurile sunt alese manual; temporizatorul nu certifică stăpânirea practicii și nu marchează lectura drept încheiată. Instrucțiunile complete ale autorului rămân în articol.
+18 articole au instrumente opționale pentru concentrare, simțuri, memorie, autoobservare, energie și chakre: ținte nemișcate, temporizatoare, contoare și fișiere locale. Duratele prescrise, aproximative și alese de cititor sunt distincte. Nivelurile sunt alese manual; temporizatorul nu certifică stăpânirea practicii și nu marchează lectura drept încheiată. Instrucțiunile complete ale autorului rămân în articol.
 
 Profilurile, progresul, însemnările și setările sunt locale în browser. Numele profilului nu este autentificare. Exportul/importul din Profiluri transferă datele între dispozitive și domenii, inclusiv din vechea ediție. Datele nu migrează automat de la GitHub Pages la Render. Progresul personal nu este trimis pe server și nu este inclus în repository.
 
 ## Dezvoltare și publicare
 
-Necesită Node.js22.13 sau mai nou.
+Necesită Node.js 22.13 sau mai nou.
 
 ```sh
 npm ci
@@ -45,7 +45,7 @@ Build-ul implicit produce `docs/`, cu baza `/noctis-library/`, pentru Pages main
 
 `prepare-content.mjs` generează metadatele și articolele înainte de dezvoltare, verificări și teste. Fișierele cu hash anterioare sunt păstrate pentru edițiile încă deschise de cititori.
 
-Testele verifică profilurile, export/import, progresul, traseele, timpii, acoperirea celor300pagini, tabelele bilingve, limbile originale, ordinea peceților, legăturile inline, citatele și încărcarea/cache-ul articolelor. Ambele build-uri includ verificarea TypeScript.
+Testele verifică profilurile, export/import, progresul, traseele, timpii, acoperirea celor 300 de pagini, tabelele bilingve, limbile originale, ordinea peceților, legăturile inline, citatele și încărcarea/cache-ul articolelor. Ambele build-uri includ verificarea TypeScript.
 
 ## Atribuire
 
