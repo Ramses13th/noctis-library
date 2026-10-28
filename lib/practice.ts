@@ -13,7 +13,7 @@ export const practices:Record<string,PracticeConfig>={
 };
 Object.assign(practices,{
   "awareness-of-touch-meditation": {
-    "title": "Două etape de atenție și reamintire tactilă",
+    "title": "Atingere și memorie",
     "kind": "observation",
     "fixed": false,
     "stages": [
@@ -32,7 +32,7 @@ Object.assign(practices,{
     ]
   },
   "awareness-of-taste-meditation": {
-    "title": "Două cronometre de câte 2 minute",
+    "title": "Gust și memorie",
     "kind": "observation",
     "fixed": true,
     "stages": [
@@ -51,7 +51,7 @@ Object.assign(practices,{
     ]
   },
   "awareness-of-smell-meditation": {
-    "title": "Două etape cu durată aleasă de cititor",
+    "title": "Miros și memorie",
     "kind": "observation",
     "fixed": false,
     "stages": [
@@ -70,7 +70,7 @@ Object.assign(practices,{
     ]
   },
   "recollection-meditation": {
-    "title": "Selector de nivel și cronometru opțional",
+    "title": "Exersează reamintirea",
     "kind": "observation",
     "fixed": false,
     "stages": [
@@ -95,7 +95,7 @@ Object.assign(practices,{
     ]
   },
   "pythagorean-day-meditation": {
-    "title": "Patru întrebări de reflecție și jurnal local opțional",
+    "title": "Reflecția de seară",
     "kind": "observation",
     "fixed": false,
     "stages": [
@@ -126,7 +126,7 @@ Object.assign(practices,{
     ]
   },
   "anchor-meditation-1": {
-    "title": "Trei repere corporale; necesită durată configurabilă per etapă",
+    "title": "Trei repere pentru atenție",
     "kind": "observation",
     "fixed": false,
     "stages": [
@@ -151,13 +151,13 @@ Object.assign(practices,{
     ]
   },
   "emotional-control-level-1": {
-    "title": "Sesiune cu o emoție pozitivă și revenire la Vid",
+    "title": "Spațiu pentru o emoție",
     "kind": "observation",
     "fixed": false,
     "stages": [
       {
         "label": "1 · Așezarea",
-        "seconds": 300,
+        "seconds": 60,
         "fixed": false,
         "hint": "Practică odihnit, alert și calm, într-un loc liniștit. Așază-te drept și respiră lent. Alege o singură emoție pozitivă din tabel. Sursa indică aproximativ 1 minut; intervalul se alege mai jos. Alege o singură emoție în primele două săptămâni; oprește-te dacă sesiunea te tulbură."
       },
@@ -169,7 +169,7 @@ Object.assign(practices,{
       },
       {
         "label": "3 · Eliberarea",
-        "seconds": 300,
+        "seconds": 60,
         "fixed": false,
         "hint": "Observă emoția pentru ultima oară, apoi expiră lent și las-o să se stingă. Nu o mai alimenta. Sursa indică aproximativ 1 minut; intervalul se alege mai jos. Alege o singură emoție în primele două săptămâni; oprește-te dacă sesiunea te tulbură."
       },
@@ -182,7 +182,7 @@ Object.assign(practices,{
     ]
   },
   "energy-meditation": {
-    "title": "Contor opțional de cicluri, fără metronom respirator",
+    "title": "Contorul ciclurilor de energie",
     "kind": "counter",
     "fixed": false,
     "stages": [
@@ -195,7 +195,7 @@ Object.assign(practices,{
     ]
   },
   "chakra-focus-meditation": {
-    "title": "Selector între patru niveluri; câte 5 minute pentru nivelul ales",
+    "title": "Concentrarea asupra chakrelor",
     "kind": "observation",
     "fixed": true,
     "stages": [
@@ -226,7 +226,7 @@ Object.assign(practices,{
     ]
   },
   "sight-and-visualization-meditation": {
-    "title": "Trei cronometre inițiale clare; nivelul 4 are o neconcordanță în sursă",
+    "title": "Observă și reamintește imaginea",
     "kind": "observation",
     "fixed": true,
     "stages": [

@@ -4,7 +4,7 @@ import {practices,remainingAt,clockText} from '../lib/practice';
 import {NoctisMark} from './Ornaments';
 export default function PracticePanel({chapterId,onRecord}:{chapterId:string;onRecord:(text:string)=>void}){
  const config=practices[chapterId];
- const [stageIndex,setStageIndex]=useState(0),[minutes,setMinutes]=useState(5),[remaining,setRemaining]=useState(config?.stages[0].seconds*1000||0),[running,setRunning]=useState(false),[count,setCount]=useState(0),[immersed,setImmersed]=useState(false),[audioUrl,setAudioUrl]=useState(''),[imageUrl,setImageUrl]=useState(''),[observation,setObservation]=useState(''),[message,setMessage]=useState('');
+ const [stageIndex,setStageIndex]=useState(0),[minutes,setMinutes]=useState((config?.stages[0].seconds||300)/60),[remaining,setRemaining]=useState(config?.stages[0].seconds*1000||0),[running,setRunning]=useState(false),[count,setCount]=useState(0),[immersed,setImmersed]=useState(false),[audioUrl,setAudioUrl]=useState(''),[imageUrl,setImageUrl]=useState(''),[observation,setObservation]=useState(''),[message,setMessage]=useState('');
  const deadline=useRef(0),audio=useRef<HTMLAudioElement>(null),dialog=useRef<HTMLDialogElement>(null);
  const stage=config?.stages[stageIndex],fixed=stage?.fixed??config?.fixed,duration=fixed?(stage?.seconds||300)*1000:minutes*60000;
  const pause=()=>{if(running)setRemaining(remainingAt(deadline.current,Date.now()));setRunning(false);audio.current?.pause();};
