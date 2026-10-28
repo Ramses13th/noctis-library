@@ -1,3 +1,4 @@
 import {writeFile,copyFile} from 'node:fs/promises';
-await writeFile('docs/.nojekyll','');
-await copyFile('docs/index.html','docs/404.html');
+const directory=process.argv[2]||'docs';
+await writeFile(directory+'/.nojekyll','');
+await copyFile(directory+'/index.html',directory+'/404.html');

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "reader",
+    "original": "hello-kitty-gothic-reader.png",
+    "file": "hello-kitty-gothic-reader.webp",
+    "width": 640,
+    "height": 611,
+    "bytes": 93946,
+    "thumbnail": "hello-kitty-gothic-reader-thumb.webp",
+    "thumbnailWidth": 192,
+    "thumbnailHeight": 183,
+    "thumbnailBytes": 14248,
+    "transparent": true
+  },
+  {
+    "id": "meditation",
+    "original": "hello-kitty-gothic-meditation.png",
+    "file": "hello-kitty-gothic-meditation.webp",
+    "width": 640,
+    "height": 585,
+    "bytes": 70956,
+    "thumbnail": "hello-kitty-gothic-meditation-thumb.webp",
+    "thumbnailWidth": 192,
+    "thumbnailHeight": 176,
+    "thumbnailBytes": 10490,
+    "transparent": true
+  },
+  {
+    "id": "numerology",
+    "original": "hello-kitty-gothic-numerology.png",
+    "file": "hello-kitty-gothic-numerology.webp",
+    "width": 640,
+    "height": 585,
+    "bytes": 121498,
+    "thumbnail": "hello-kitty-gothic-numerology-thumb.webp",
+    "thumbnailWidth": 192,
+    "thumbnailHeight": 176,
+    "thumbnailBytes": 16524,
+    "transparent": true
+  },
+  {
+    "id": "pathways",
+    "original": "hello-kitty-gothic-pathways.png",
+    "file": "hello-kitty-gothic-pathways.webp",
+    "width": 640,
+    "height": 585,
+    "bytes": 109036,
+    "thumbnail": "hello-kitty-gothic-pathways-thumb.webp",
+    "thumbnailWidth": 192,
+    "thumbnailHeight": 176,
+    "thumbnailBytes": 15024,
+    "transparent": true
+  },
+  {
+    "id": "listening",
+    "original": "hello-kitty-gothic-listening.png",
+    "file": "hello-kitty-gothic-listening.webp",
+    "width": 640,
+    "height": 554,
+    "bytes": 103506,
+    "thumbnail": "hello-kitty-gothic-listening-thumb.webp",
+    "thumbnailWidth": 192,
+    "thumbnailHeight": 166,
+    "thumbnailBytes": 14190,
+    "transparent": true
+  }
+]

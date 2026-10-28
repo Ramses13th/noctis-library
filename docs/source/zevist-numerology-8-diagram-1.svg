@@ -1,0 +1,11 @@
+<svg aria-labelledby="points-title" class="source-diagram source-number-diagram" color="#151019" height="180" role="img" viewBox="0 0 240 240" width="180" xmlns="http://www.w3.org/2000/svg">
+<title id="points-title">8 dots</title>
+<circle cx="45" cy="85" fill="currentColor" r="8"></circle>
+<circle cx="95" cy="85" fill="currentColor" r="8"></circle>
+<circle cx="145" cy="85" fill="currentColor" r="8"></circle>
+<circle cx="195" cy="85" fill="currentColor" r="8"></circle>
+<circle cx="45" cy="155" fill="currentColor" r="8"></circle>
+<circle cx="95" cy="155" fill="currentColor" r="8"></circle>
+<circle cx="145" cy="155" fill="currentColor" r="8"></circle>
+<circle cx="195" cy="155" fill="currentColor" r="8"></circle>
+</svg>

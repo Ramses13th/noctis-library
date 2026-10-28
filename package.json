@@ -4,11 +4,15 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "predev": "node scripts/prepare-content.mjs",
+    "precheck": "node scripts/prepare-content.mjs",
+    "pretest": "node scripts/prepare-content.mjs",
     "dev": "vite --host 127.0.0.1",
     "check": "tsc --noEmit",
     "build": "npm run check && vite build && node scripts/finalize.mjs",
     "preview": "vite preview --host 127.0.0.1",
-    "test": "node scripts/test-storage.mjs && node scripts/test-learning.mjs"
+    "test": "node scripts/test-storage.mjs && node scripts/test-learning.mjs && node scripts/test-reader.mjs",
+    "build:render": "npm run check && vite build --base=/ --outDir=dist && node scripts/finalize.mjs dist"
   },
   "dependencies": {
     "lucide-react": "0.468.0",

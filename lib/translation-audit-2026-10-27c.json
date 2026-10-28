@@ -1,0 +1,970 @@
+{
+  "notes": "67 full pages; source text extraction verified after documented removal of repeated menus, tabs and local contents. Original names and Greek quotations preserved. Unreadable source separators (U+FFFD) normalized to middle dots. All tables fully translated. Bibliography links retained without consulting outside templeofzeus.org. No independent human review.",
+  "pages": [
+    {
+      "id": "preparing-for-meditation",
+      "source": "https://templeofzeus.org/preparing-for-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "c55d8fb7d1f9899582e8daa023fc009a8faaf508d568fb84c96ce74083c4250d",
+      "sourceWords": 480,
+      "blocks": 8,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "finding-your-meditation-type",
+      "source": "https://templeofzeus.org/finding-your-meditation-type",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "062089b5d2f594c8e50138cc97714c2993b74149a4ab6c62cdd7ffb0c71fb697",
+      "sourceWords": 2247,
+      "blocks": 44,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "anchor-meditation-1",
+      "source": "https://templeofzeus.org/anchor-meditation-1",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "a366989c208d60f79f52042f4e700e3738159d3e36284abd3b5209a41284d052",
+      "sourceWords": 394,
+      "blocks": 21,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "sight-and-visualization-meditation",
+      "source": "https://templeofzeus.org/sight-and-visualization-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "6ed2d0193f16a93c3fc754be7521e20ee95437a6b98c2aa6dfff81c7ee03be9f",
+      "sourceWords": 408,
+      "blocks": 19,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "awareness-of-touch-meditation",
+      "source": "https://templeofzeus.org/awareness-of-touch-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "b7b8a42c2abb60c5c20999d049d315c15d25a7abaec8119f0ad3e9f4dfbb8045",
+      "sourceWords": 243,
+      "blocks": 12,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "awareness-of-taste-meditation",
+      "source": "https://templeofzeus.org/awareness-of-taste-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "ac527bc908a91f07caf7bb0c4de7d3fc99394663903a9c6f5e2fdef7f38aeed6",
+      "sourceWords": 222,
+      "blocks": 12,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "awareness-of-smell-meditation",
+      "source": "https://templeofzeus.org/awareness-of-smell-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "335027f1fb0f8243b4b7249903cfd61a19ed7456dcf3599e02954cb6421f9a49",
+      "sourceWords": 313,
+      "blocks": 12,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "recollection-meditation",
+      "source": "https://templeofzeus.org/recollection-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "9120244ae19081a4841446736d21f3d4a29808e6ada64d3e6388348c1ef0ffe6",
+      "sourceWords": 415,
+      "blocks": 20,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "pythagorean-day-meditation",
+      "source": "https://templeofzeus.org/pythagorean-day-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "6fa9fea0655af926a5ffef667cf9d0f986093a2094f87d9de47e0b58b169e91f",
+      "sourceWords": 410,
+      "blocks": 18,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "achieving-higher-self-awareness",
+      "source": "https://templeofzeus.org/achieving-higher-self-awareness",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "2449b2e6e60812d84dcaabead56060110b3b496da814a83f0df3e3f708e25932",
+      "sourceWords": 477,
+      "blocks": 20,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "flame-meditation",
+      "source": "https://templeofzeus.org/flame-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "e8dc0d6c509169e08a8f978ff84e109ad73f9f97bced927ba9109bac741410d4",
+      "sourceWords": 330,
+      "blocks": 14,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "color-meditation",
+      "source": "https://templeofzeus.org/color-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "58520a1d9e24c157109e7913ea8d60d836c8013da3def255b88ac0c541a75c38",
+      "sourceWords": 692,
+      "blocks": 16,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "ethics-context-meditation",
+      "source": "https://templeofzeus.org/ethics-context-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "ac7da8a6c7942c4f3647231242d56c41ca3e655b8749eeafa662b1698030d13b",
+      "sourceWords": 377,
+      "blocks": 18,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "ethics-meditation",
+      "source": "https://templeofzeus.org/ethics-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "b90d08e5dbad6513d1a7528113bedb50e8a32d94f5dbac49bbaf9bbafdb72067",
+      "sourceWords": 570,
+      "blocks": 28,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "yogic-breathing",
+      "source": "https://templeofzeus.org/yogic-breathing",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "0f56b6c55f3c7ca159b0db47a7ac1a46f2f67b967f5060cd362a920402be9321",
+      "sourceWords": 440,
+      "blocks": 22,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "ujjayi",
+      "source": "https://templeofzeus.org/ujjayi",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "ef25dadd2ace9e98154c4bfebcd96b72ae233d4093812f8411ba311f965c28d9",
+      "sourceWords": 169,
+      "blocks": 10,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "humming-breath",
+      "source": "https://templeofzeus.org/humming-breath",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "a2bf9c9bf9f1ef4e00922861627334e02e0a02ec52b7a43bef5b3cab5ccc69ce",
+      "sourceWords": 109,
+      "blocks": 5,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "sithali",
+      "source": "https://templeofzeus.org/sithali",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "ee6624b5695740ac59e1643c47231984b883298bea52c9579cb2417a90a77991",
+      "sourceWords": 90,
+      "blocks": 12,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "sitkari",
+      "source": "https://templeofzeus.org/sitkari",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "1da3750ecdc7175c208dc01ccf9d6038b807057f9d26cd60bfcc709ca6fba700",
+      "sourceWords": 211,
+      "blocks": 9,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "kumbhaka-lunar-breath",
+      "source": "https://templeofzeus.org/kumbhaka-lunar-breath",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "1b62db0b0c2a76c8f1bb17209927248032e28f888e9eaf6c19ec85187b6c82a3",
+      "sourceWords": 214,
+      "blocks": 16,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "solar-breath",
+      "source": "https://templeofzeus.org/solar-breath",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "20a8e95b07e704a610f3bd0cff3c8ba1de97e2c90159ed19431fad8df327a400",
+      "sourceWords": 123,
+      "blocks": 5,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "breath-of-fire",
+      "source": "https://templeofzeus.org/breath-of-fire",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "9a59a613fd8c5ff277010428bc7ac4622c8196485e2fd715ab39d67000ab3833",
+      "sourceWords": 252,
+      "blocks": 11,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "chakra-breathing",
+      "source": "https://templeofzeus.org/chakra-breathing",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "60235a10e3101ccc37e0456ac749f8063742143a915470861fb9b3a128225de3",
+      "sourceWords": 281,
+      "blocks": 8,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "energy-meditation",
+      "source": "https://templeofzeus.org/energy-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "697fac083ccabd78fa2754fca9d7c7463e5cce76f903ba26460a5d3bab00698b",
+      "sourceWords": 258,
+      "blocks": 10,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "ball-of-light-meditation",
+      "source": "https://templeofzeus.org/ball-of-light-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "941c63d20d9cb2d865ee6c61e5cf0bf2044800231a4077f1cb1c20d131e4455c",
+      "sourceWords": 323,
+      "blocks": 8,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "blue-light-meditation",
+      "source": "https://templeofzeus.org/blue-light-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "5227b95e1b3b40b1f5c5c7064125ad246c82f293a6619de2b36f6bac4744bfdf",
+      "sourceWords": 65,
+      "blocks": 1,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "aura-empowering-meditation",
+      "source": "https://templeofzeus.org/aura-empowering-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "db321ec86025b54f067f49542d00668886d8eaa84eb22803d0972ddfb8861f63",
+      "sourceWords": 401,
+      "blocks": 9,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "chakra-focus-meditation",
+      "source": "https://templeofzeus.org/chakra-focus-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "5b811f05f78b2ad9184499b1b0a6fea99f7a4ff26c4170e054bfd2b5ba553663",
+      "sourceWords": 691,
+      "blocks": 34,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "activating-legs-feet-chakras",
+      "source": "https://templeofzeus.org/activating-legs-feet-chakras",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "da6236a147eba6923e04872fcaf959483a1e5505466ac034342e641175d0dc72",
+      "sourceWords": 291,
+      "blocks": 17,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "god-sigil-meditation",
+      "source": "https://templeofzeus.org/god-sigil-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "6d0d9e9d3856d1fbb28ab63d439847a1680c65876b70cf538595b36f2ed09834",
+      "sourceWords": 544,
+      "blocks": 27,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zeus-meditation",
+      "source": "https://templeofzeus.org/zeus-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "156c39c1c0192459c6fb21531a591dede33d8b5e74b858c0d28a233202bb6cee",
+      "sourceWords": 188,
+      "blocks": 7,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "meditation-on-zeus",
+      "source": "https://templeofzeus.org/meditation-on-zeus",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "f9840750ed2e707fb7081404b9730dc0174e5182728facb2e509ba5156769adf",
+      "sourceWords": 107,
+      "blocks": 1,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "specific-meditations",
+      "source": "https://templeofzeus.org/specific-meditations",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "d41df14d994c22c17dd58527a17a3faa6962000d90fdd1800bcb5e6d78e5a55b",
+      "sourceWords": 437,
+      "blocks": 12,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "coven-meditation",
+      "source": "https://templeofzeus.org/coven-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "5be6cff59b65b99516dabe00f7e9a51590dfb85d0294e93f989d24b2ff203a0d",
+      "sourceWords": 666,
+      "blocks": 24,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-7",
+      "source": "https://templeofzeus.org/zevist-numerology-7",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "5bf71ec52768d6c221482dfdbffefea5ed8af2baf6c7361205a7a3b20dd7ef61",
+      "sourceWords": 831,
+      "blocks": 32,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-8",
+      "source": "https://templeofzeus.org/zevist-numerology-8",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "08fc48116d9e16a2f3d15e6be1e68b8c1f79093955cce167683faaa650bb845b",
+      "sourceWords": 824,
+      "blocks": 32,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-9",
+      "source": "https://templeofzeus.org/zevist-numerology-9",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "a540545468db8c1d46e17d2c09a25072fef7c594b1ca14282636b9ef982a909d",
+      "sourceWords": 811,
+      "blocks": 32,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-10",
+      "source": "https://templeofzeus.org/zevist-numerology-10",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "36b09bcb8ef0fd006841a1d401277232b9a57379bb2fbfebf9998d20eaa7b620",
+      "sourceWords": 857,
+      "blocks": 32,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-magick-meditation",
+      "source": "https://templeofzeus.org/zevist-numerology-magick-meditation",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "caca30613d42dbaa6a5901762d1fa49d6d556c2957d288df61bc7e9c796508bb",
+      "sourceWords": 1440,
+      "blocks": 42,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "zevist-numerology-pythagoras",
+      "source": "https://templeofzeus.org/zevist-numerology-pythagoras",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "29805eb2df1cdf20fbceec8d53f262a29df0f4aea18ad5865472b16bf3943d1d",
+      "sourceWords": 1584,
+      "blocks": 42,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "our-goddess-sekhmet",
+      "source": "https://templeofzeus.org/our-goddess-sekhmet",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "a6184e1c532e2bbda355c30eceda08c76fa92211c55a1f6ee48e74e1523a6eb9",
+      "sourceWords": 197,
+      "blocks": 5,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "ancientwisdom",
+      "source": "https://templeofzeus.org/ancientwisdom",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "b889c9bfc68f3ef40dbe2364d9463d1a300548a37fed692b27113e5b955ec780",
+      "sourceWords": 639,
+      "blocks": 6,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "life-ethics-politeness",
+      "source": "https://templeofzeus.org/life-ethics-politeness",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "a36aed908a689d88604f7c5028bc6e8497e7ab0f58ae680939e6bbb4ce51e6a3",
+      "sourceWords": 252,
+      "blocks": 7,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "life-ethics-respect",
+      "source": "https://templeofzeus.org/life-ethics-respect",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "911b886db1e612db2cc21635828ae09ef0dd9c82eefb92e0cda20ba500ba3ea3",
+      "sourceWords": 155,
+      "blocks": 8,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "complete-breath",
+      "source": "https://templeofzeus.org/complete-breath",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "8f820230e1ad03473062d1a2d99039df61ce02a2ded15a6dbfe0a8114b809981",
+      "sourceWords": 102,
+      "blocks": 9,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "alternate-nostril",
+      "source": "https://templeofzeus.org/alternate-nostril",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "e023a5b740e2b9628f4c31cbe419040cc2bf9b30ae2da39b050bcf5661b9adab",
+      "sourceWords": 399,
+      "blocks": 17,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "ceridwen",
+      "source": "https://templeofzeus.org/ceridwen",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "8af11337405e7da3b48ec78413d47e60ec480ac4f73bc51160b838e2176d195b",
+      "sourceWords": 1338,
+      "blocks": 27,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [],
+      "tables": []
+    },
+    {
+      "id": "mudras-how-to-practise",
+      "source": "https://templeofzeus.org/mudras-how-to-practise",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "1908db7ffea5792090ef74235556fa397700fe742232231a61ca7c9af2cda6de",
+      "sourceWords": 209,
+      "blocks": 17,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1
+      ],
+      "tables": []
+    },
+    {
+      "id": "mudras-atmanjali-mudra",
+      "source": "https://templeofzeus.org/mudras-atmanjali-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "1d1d640420b204165444fdb295b3c77fbac8c0a4f4117d96650af8c6ee7a22d6",
+      "sourceWords": 423,
+      "blocks": 50,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-dhyana-mudra",
+      "source": "https://templeofzeus.org/mudras-dhyana-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "9960ac31c080b7c797f584351d7fced8e91d5608032465ce83dedcc62e0c7708",
+      "sourceWords": 498,
+      "blocks": 51,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-chin-mudra",
+      "source": "https://templeofzeus.org/mudras-chin-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "36264a5c396c3a764754989918224ebf4bfd6b1b81e43a5029f84994fa66f16a",
+      "sourceWords": 433,
+      "blocks": 50,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-jnana-mudra",
+      "source": "https://templeofzeus.org/mudras-jnana-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "e22677d999633ca7b9529171387dbdb74b97c70d70afb5fce67be2b53f58af53",
+      "sourceWords": 537,
+      "blocks": 53,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-prana-mudra",
+      "source": "https://templeofzeus.org/mudras-prana-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "382e1dd5a85954c202a73805455aa5220bb2b60b897903845cd6f792f8280499",
+      "sourceWords": 409,
+      "blocks": 51,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-prithvi-mudra",
+      "source": "https://templeofzeus.org/mudras-prithvi-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "dce62ef2e9532e423a7910ae845ee40ce8db5c555485328b1ff3867e0f51777d",
+      "sourceWords": 362,
+      "blocks": 49,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-akasha-mudra",
+      "source": "https://templeofzeus.org/mudras-akasha-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "b6cbc849e2d1ee44c21199b4e36ea34ec98bb189a53b51fea396bdd99d1b8fe9",
+      "sourceWords": 351,
+      "blocks": 51,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-varada-mudra",
+      "source": "https://templeofzeus.org/mudras-varada-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "abbac3d1d5a4bd67ad28dd12b6b1f7e1dd5e122fe14e8a7855c35ea69535fab6",
+      "sourceWords": 347,
+      "blocks": 49,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-abhaya-mudra",
+      "source": "https://templeofzeus.org/mudras-abhaya-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "6992c1b5e8cae55b29a4f63a1118f3d53f6108ff5c8c923fae4cd2a26e611020",
+      "sourceWords": 434,
+      "blocks": 52,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-ganesha-mudra",
+      "source": "https://templeofzeus.org/mudras-ganesha-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "ae13c9c9c30bd9d9a2572619f44c6185067a53972260b3288b8aa193732691f7",
+      "sourceWords": 417,
+      "blocks": 49,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        2
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-kubera-mudra",
+      "source": "https://templeofzeus.org/mudras-kubera-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "495fdbe2a2d759242b014162cb4a5c84ee8534be9a6104506cc0eb5196c0ad2d",
+      "sourceWords": 346,
+      "blocks": 47,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        2
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 18
+        }
+      ]
+    },
+    {
+      "id": "mudras-hakini-mudra",
+      "source": "https://templeofzeus.org/mudras-hakini-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "136fb034e043f870d6203e758caa53d385f35b340533e7ba9ae0164ce6064ed6",
+      "sourceWords": 477,
+      "blocks": 49,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        2
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-padma-mudra",
+      "source": "https://templeofzeus.org/mudras-padma-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "10b3df72273248756808528ce69708b897534bbd55ad55cc7505810b6a1754c8",
+      "sourceWords": 383,
+      "blocks": 49,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-pushpaputa-mudra",
+      "source": "https://templeofzeus.org/mudras-pushpaputa-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "61f671252effaee9ada9c68972f4e4c33aecdd0555c885cc9be8a9a2e9d409cf",
+      "sourceWords": 415,
+      "blocks": 48,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        2
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-vajrapradama-mudra",
+      "source": "https://templeofzeus.org/mudras-vajrapradama-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "39614d71189b14bd4e6ecf8f4653f061533691e12fe19934191bac775fccb425",
+      "sourceWords": 361,
+      "blocks": 48,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        2
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "mudras-bhumisparsha-mudra",
+      "source": "https://templeofzeus.org/mudras-bhumisparsha-mudra",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "cfbcaa255f766dc084bef2fb1224a8ed91604eb8e858270fb3986aa6e6af2722",
+      "sourceWords": 426,
+      "blocks": 50,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        1,
+        3
+      ],
+      "tables": [
+        {
+          "rows": 6,
+          "cells": 24
+        }
+      ]
+    },
+    {
+      "id": "study-beginner",
+      "source": "https://templeofzeus.org/study-beginner",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "b54029a15a67c2ecda9174adb399cf6e16442438f077c2b3aabb0a19af1f984b",
+      "sourceWords": 757,
+      "blocks": 56,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        15,
+        38
+      ],
+      "tables": []
+    },
+    {
+      "id": "study-intermediate",
+      "source": "https://templeofzeus.org/study-intermediate",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "92ea15ac58bf82eb9a0f0ebfa1d3f7942b6df87d161d2bb07d444537c73253d9",
+      "sourceWords": 992,
+      "blocks": 73,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        15,
+        24,
+        63
+      ],
+      "tables": [
+        {
+          "rows": 5,
+          "cells": 15
+        }
+      ]
+    },
+    {
+      "id": "emotional-control-level-1",
+      "source": "https://templeofzeus.org/emotional-control-level-1",
+      "consultedAt": "2026-10-27",
+      "sourceHTMLSha256": "ed1591e5e9eb40edfc37bf451d7ce7fedbf14def8415433b7172a0822da4fd6c",
+      "sourceWords": 1118,
+      "blocks": 53,
+      "complete": true,
+      "textExtractionMatched": true,
+      "originalLanguageBlocks": [
+        15
+      ],
+      "tables": [
+        {
+          "rows": 4,
+          "cells": 16
+        },
+        {
+          "rows": 11,
+          "cells": 33
+        },
+        {
+          "rows": 6,
+          "cells": 12
+        },
+        {
+          "rows": 4,
+          "cells": 12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "generator": "Built-in image_gen",
+  "transparent_background": true,
+  "createdAt": "2026-10-27",
+  "status": "complete",
+  "notes": "Unofficial Sanrio character fan art. Decorative NOCTIS artwork, never source illustrations. Original PNGs saved under outputs/kitty-expansion. Project WebP versions preserve alpha.",
+  "assets": [
+    {
+      "id": "temple",
+      "role": "temple",
+      "filename": "hello-kitty-gothic-temple.webp",
+      "alt": "Hello Kitty ținând o cheie ornamentată, cu o fundă mov și o rochie gotică.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She stands welcoming the reader, holding one ornate antique silver key with a tiny plum ribbon; two small dusty-rose sparkles float beside the key. Her other paw rests lightly against her lace dress. No door or architecture.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-temple.png",
+      "originalWidth": 1207,
+      "originalHeight": 1303,
+      "originalBytes": 2193120,
+      "width": 593,
+      "height": 640,
+      "bytes": 124272,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-temple-thumb.webp",
+        "width": 178,
+        "height": 192,
+        "bytes": 16364
+      }
+    },
+    {
+      "id": "gods",
+      "role": "gods",
+      "filename": "hello-kitty-gothic-gods.webp",
+      "alt": "Hello Kitty lângă un mic templu grecesc și o ramură de laur.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She sits beside a small elegant ivory model of an ancient Greek temple, holding a simple laurel branch. The temple has three plain columns and a pediment, without inscriptions. The model and kitty are balanced in one compact illustration.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-gods.png",
+      "originalWidth": 1374,
+      "originalHeight": 1145,
+      "originalBytes": 2195437,
+      "width": 640,
+      "height": 533,
+      "bytes": 115672,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-gods-thumb.webp",
+        "width": 192,
+        "height": 160,
+        "bytes": 15124
+      }
+    },
+    {
+      "id": "magick",
+      "role": "magick",
+      "filename": "hello-kitty-gothic-magick.webp",
+      "alt": "Hello Kitty cu un grimoar negru deschis și o baghetă cu semilună.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She studies an open black antique grimoire with blank cream pages and dusty-pink ribbon bookmarks, holding a short silver wand tipped with a tiny crescent. Two tiny lavender sparks hover above the blank book. No written or invented occult symbols.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-magick.png",
+      "originalWidth": 1166,
+      "originalHeight": 1349,
+      "originalBytes": 2542928,
+      "width": 553,
+      "height": 640,
+      "bytes": 134980,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-magick-thumb.webp",
+        "width": 166,
+        "height": 192,
+        "bytes": 17374
+      }
+    },
+    {
+      "id": "astrology",
+      "role": "astrology",
+      "filename": "hello-kitty-gothic-astrology.webp",
+      "alt": "Hello Kitty cu un instrument astronomic argintiu, înconjurată de câteva stele mov.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She sits thoughtfully holding a delicate silver astrolabe with concentric rings and no markings. Three tiny plum and dusty-rose stars float around its upper edge. The rings and character form a clean compact silhouette.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-astrology.png",
+      "originalWidth": 1210,
+      "originalHeight": 1300,
+      "originalBytes": 2444340,
+      "width": 596,
+      "height": 640,
+      "bytes": 142640,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-astrology-thumb.webp",
+        "width": 179,
+        "height": 192,
+        "bytes": 18984
+      }
+    },
+    {
+      "id": "teachings",
+      "role": "teachings",
+      "filename": "hello-kitty-gothic-teachings.webp",
+      "alt": "Hello Kitty citind un pergament, cu o pană și o călimară lângă ea.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She sits reading an unfurled cream parchment scroll with blank pages and plum ribbon ties; a small silver quill and black inkwell sit neatly beside her. Gentle thoughtful pose, scholarly and quiet.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-teachings.png",
+      "originalWidth": 1240,
+      "originalHeight": 1268,
+      "originalBytes": 2467960,
+      "width": 626,
+      "height": 640,
+      "bytes": 145592,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-teachings-thumb.webp",
+        "width": 188,
+        "height": 192,
+        "bytes": 19530
+      }
+    },
+    {
+      "id": "community",
+      "role": "community",
+      "filename": "hello-kitty-gothic-community.webp",
+      "alt": "Hello Kitty și Mimmy citesc împreună o carte, îmbrăcate în rochii gotice.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: Hello Kitty and her twin sister Mimmy sit close together reading one open antique black book with blank cream pages. Mimmy wears a muted lavender bow on the opposite ear and a complementary black lace dress. Both kittens have the same recognizable no-mouth face, ivory fur and yellow noses. A small dusty-rose heart floats subtly above the shared book.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-community.png",
+      "originalWidth": 1312,
+      "originalHeight": 1199,
+      "originalBytes": 2614984,
+      "width": 640,
+      "height": 585,
+      "bytes": 133404,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-community-thumb.webp",
+        "width": 192,
+        "height": 176,
+        "bytes": 17894
+      }
+    },
+    {
+      "id": "symbols",
+      "role": "reference",
+      "filename": "hello-kitty-gothic-symbols.webp",
+      "alt": "Hello Kitty cu un compas de geometrie și un cerc simplu pe o foaie goală.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She sits with a small silver geometry compass beside a cream sheet showing one plain fine circle. The compass is a drawing tool, not a navigational compass. She holds it gently above the paper. Two tiny silver dots float nearby; no sacred or historical diagrams, no text or labels.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-symbols.png",
+      "originalWidth": 1254,
+      "originalHeight": 1254,
+      "originalBytes": 2105756,
+      "width": 640,
+      "height": 640,
+      "bytes": 110180,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-symbols-thumb.webp",
+        "width": 192,
+        "height": 192,
+        "bytes": 15010
+      }
+    },
+    {
+      "id": "achievement",
+      "role": "achievement",
+      "filename": "hello-kitty-gothic-achievement.webp",
+      "alt": "Hello Kitty ține o panglică de semn de carte mov, lângă o carte închisă.",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent decorative frontispiece sticker for NOCTIS, a gothic Hello Kitty reading website. Subject: recognizable Hello Kitty, warm ivory white kitten, no mouth, small black oval eyes, yellow oval nose, three fine whiskers per cheek, elaborate deep-plum bow on her left ear, black Victorian lace dress with muted mauve velvet trim and a tiny silver crescent pendant. Style: refined flat hand-painted illustration, fine charcoal ink lines, delicate antique watercolor shading, intricate lace and velvet details, calm and sweet scholarly dark kawaii. Palette: warm ivory fur, charcoal black, deep plum, muted dusty rose and silver. Composition: a single coherent compact illustration, full character with all ears, paws, bow and props contained, clear generous margins, designed to read at 180px tall. Truly transparent alpha background. No backdrop, no floor, no opaque shadow, no fake checkerboard. No text, letters, numbers, logos, watermarks or border. Decorative imagined NOCTIS artwork, not a historical source illustration. Specific scene: She stands proudly but gently holding a long plum satin bookmark ribbon with a small silver heart medallion and lace edging. One closed antique black book with matching plum ties sits beside her. Two little dusty-rose sparkles suggest a quiet reading achievement, without lettering or numbers.",
+      "status": "complete",
+      "originalFilename": "hello-kitty-gothic-achievement.png",
+      "originalWidth": 1222,
+      "originalHeight": 1287,
+      "originalBytes": 2226862,
+      "width": 608,
+      "height": 640,
+      "bytes": 129276,
+      "transparent": true,
+      "thumbnail": {
+        "filename": "hello-kitty-gothic-achievement-thumb.webp",
+        "width": 182,
+        "height": 192,
+        "bytes": 17560
+      }
+    }
+  ]
+}

@@ -1,50 +1,52 @@
 # NOCTIS · Gothic Reading Room
 
-Bibliotecă de lectură în română, cu tematică Hello Kitty gothic, publicată la **https://ramses13th.github.io/noctis-library/**.
+Bibliotecă românească cu tematică Hello Kitty gothic, fără backend. [GitHub Pages](https://ramses13th.github.io/noctis-library/) și un build static pentru Render, din același cod.
 
-O pagină de citit pe rând, cuprins liniar pe volume, recomandarea zilei, mod Focus, text reglabil, comparație RO/EN, legături către original și jurnalul traducerilor. Ilustrațiile transparente au fost generate special pentru proiect; pictogramele principale sunt desene vectoriale proprii.
+## Ediția de 300 de pagini
 
-Pagina **Biblioteca mea** pune traseele de învățare în prim-plan, oferă acces la cele opt volume, lecturi de descoperit, raftul personal și instrumentele de practică. Traseele au acces evidențiat și în navigarea laterală și mobilă.
+**300 de pagini integrale**, **161.062 de cuvinte-sursă**, opt volume și 23 de trasee de lectură. Textele provin exclusiv de pe [templeofzeus.org](https://templeofzeus.org/), din edițiile consultate la 26–28 octombrie 2026. Articolele nu sunt rezumate. Titlurile și creditele sunt separate de corpul textului; navigarea repetată este exclusă. Citatele grecești, latine, sanscrite și transliterările sunt păstrate, iar versiunile engleze oferite de autor sunt traduse în română.
 
-## Conținut
+Cele 267 de pagini adăugate după ediția de 33 includ numerologia1–10, toate cele **72 de peceți ale mâinii**, toate cele **36 de principii ale matricei etice**, meditații, chakre, respirație, magie, orientare și etica vieții. Colecția Etica vieții are încă articole netraduse. Seriile urmează numerotarea sau ordinea autorului; volumele și traseele sunt organizarea editorială NOCTIS.
 
-33 pagini traduse integral din [templeofzeus.org](https://templeofzeus.org/), pentru edițiile consultate la 26–27 octombrie 2026. Articolele sunt păstrate integral, fără rezumare; navigarea repetată și filtrele site-ului sursă nu fac parte din text. Un index tradus nu înseamnă că toate paginile către care trimite sunt traduse. Inventarul conține 1.407 adrese, inclusiv adrese tehnice; procentul afișat se referă la adrese, nu la cuvintele întregului site.
+Fiecare articol oferă sursa, mod română/engleză/paralel, progres prin derulare, semn de carte și însemnări. Traducerile sunt asistate de AI, confruntate cu sursa, fără revizie umană independentă. Un index tradus nu implică traducerea articolelor către care trimite.
 
-Lotul din 27 octombrie adaugă 9 pagini integrale: **Instrucțiuni pentru începători**, **Zeus: Adevărul Etern și identitățile Sale**, **3 · Triada**, **4 · Tetrada**, **Meditația autoobservării**, **Meditația conștientizării sunetului**, **Meditația asupra sunetelor chakrelor**, **Informații pentru atei și alți sceptici** și **Tabelul general al sintezei**. Datele și textele sunt în `lib/chapters.json`; inventarul în `lib/catalog.json`, iar volumele și coada propusă în `lib/book.ts`. Traducerile sunt asistate de AI, confruntate cu engleza și nu au revizie umană independentă. Autorii și legăturile sunt afișate pe fiecare pagină. Nu există publicare automată a loturilor viitoare.
+Datele complete sunt în `lib/chapters.json`; rapoartele în `lib/translation-audit-*.json`. Lotul final de 200 are raportul `translation-audit-2026-10-28.json`. `source-format-audit.json` documentează citatele, atribuirile, listele, legendele și legăturile recuperate din sursă.
 
-Al doilea lot din 27 octombrie adaugă **7 pagini integrale**, însumând **10.507 cuvinte sursă**: Prietenii Zevismului: pentru cei doar interesați; AUM; Despre Kundalini Yoga; Zeița noastră: Bastet; 5 · Pentada; 6 · Hexada; Sinteza moștenirii. Biblioteca cuprinde acum 37.805 cuvinte sursă. Citatele grecești și latine sunt păstrate în original, iar versiunile engleze oferite de autor sunt traduse în română. Raportul acestui lot este în `lib/translation-audit-2026-10-27b.json`.
+Inventarul păstrează 1.407 adrese, inclusiv adrese tehnice. Procentul global se referă la adrese, nu la toate cuvintele site-ului. Coada viitoarelor traduceri are surse și nu promite termene; nu există traducere ori publicare automată.
 
-## Trasee și instrumente
+## Performanță și mobil
 
-13 trasee tematice ordonează capitolele disponibile. Traseul ales este păstrat separat în fiecare profil și în exporturi; capitolele citite contează în toate traseele în care apar. Secțiunea pentru atei și sceptici prezintă critica și argumentele autorului. Căutarea surselor pentru acest lot s-a limitat la templeofzeus.org. Traseele sunt organizare editorială NOCTIS, nu programe oficiale.
+- Articolele sunt fișiere JSON independente, cu hash. Deschiderea bibliotecii încarcă metadatele; textul se descarcă la cerere, se păstrează în memorie, iar cererile simultane se reunesc. Următorul articol este pregătit după deschidere.
+- Textul este memorat la randare: progresul de lectură nu reconstruiește articolul. Listele, căutarea și traseele lungi sunt afișate progresiv.
+- Cele13 ilustrații Hello Kitty au versiuni WebP transparente și miniaturi. Imaginile din articole se încarcă întârziat. Fonturile latine și pentru diacritice sunt locale, cu `font-display: swap` și licențe în `public/fonts`.
+- Cele16 apariții audio nu se descarcă automat și nu pornesc singure. Media originală și proveniența sunt în `public/source` și `lib/source-assets.json`. O imagine din Aphrodite9 a răspuns HTTP403: este indicată ca indisponibilă, cu legătură la original, fără înlocuitor inventat.
 
-Opt articole au instrumente opționale de practică: ținte nemișcate și mod extins pentru punct/cerc/pătrat/triunghi/sigiliu ales local; temporizatoare pentru vid, concentrare și autoobservare; contoare pentru exercițiul de bază și AUM; repere pentru sunetele chakrelor; player de fișiere locale pentru ascultare. Duratele fixe provin din sursă. Cele alese de utilizator sunt marcate explicit. Trecerea la alt nivel este manuală, iar un timer încheiat nu marchează lectura sau stăpânirea practicii.
+Prima pagină evidențiază traseele, următorul capitol, recomandarea zilei și volumele. Modul Focus, textul reglabil și navigarea mobilă păstrează lectura simplă. Animațiile respectă preferința pentru mișcare redusă; animația decorativă continuă este oprită pe ecrane mici.
 
-Observațiile se adaugă numai la cerere în însemnările profilului. Fișierele audio și imaginile deschise de utilizator rămân locale, fără upload și fără includere în export. Cele 47 de fișiere ilustrative originale preluate pentru paginile despre Zeus, Bastet, AUM și Prietenii Zevismului sunt păstrate local, cu proveniența în `lib/source-assets.json`; diagramele numerice originale sunt păstrate ca SVG. Nu s-au găsit înregistrări audio în cele două loturi din 27 octombrie. Nu sunt fabricate înregistrări ale autorului.
+## Unelte și progres local
 
-Tabelul principal păstrează 13 domenii și 11 coloane, plus tabelul original de scoruri și întregul comentariu. Modul pentru mobil afișează două coloane alese; toate coloanele sunt disponibile în modul integral. Etichetele și scorurile îi aparțin autorului. Raportul de integritate este în `lib/translation-audit-2026-10-27.json`.
+18articole au instrumente opționale pentru concentrare, simțuri, memorie, autoobservare, energie și chakre: ținte nemișcate, temporizatoare, contoare și fișiere locale. Duratele prescrise, aproximative și alese de cititor sunt distincte. Nivelurile sunt alese manual; temporizatorul nu certifică stăpânirea practicii și nu marchează lectura drept încheiată. Instrucțiunile complete ale autorului rămân în articol.
 
-## Progres local
-
-Această ediție GitHub Pages funcționează fără backend. Profilurile sunt locale pe browser, cu progres după derulare, capitole încheiate, semne de carte, însemnări și setări de text separate pentru fiecare profil. Numele profilului nu este autentificare și nu protejează datele de altă persoană care folosește același browser.
-
-Folosește **Profiluri → Exportă progresul / Importă progresul** pentru transfer pe alt dispozitiv sau pentru backup. Importul acceptă și exporturi din vechea ediție NOCTIS. Datele nu se transferă automat între domenii; ștergerea datelor browserului le elimină de pe acel dispozitiv. Progresul personal nu este inclus în acest repository și nu este trimis către GitHub.
+Profilurile, progresul, însemnările și setările sunt locale în browser. Numele profilului nu este autentificare. Exportul/importul din Profiluri transferă datele între dispozitive și domenii, inclusiv din vechea ediție. Datele nu migrează automat de la GitHub Pages la Render. Progresul personal nu este trimis pe server și nu este inclus în repository.
 
 ## Dezvoltare și publicare
 
-Necesită Node.js 22.13 sau mai nou.
+Necesită Node.js22.13 sau mai nou.
 
 ```sh
 npm ci
 npm run dev
 npm test
 npm run build
+npm run build:render
 ```
 
-Vite compilează aplicația în `docs/`, cu baza `/noctis-library/`. Pasul final adaugă `.nojekyll` și `404.html`. GitHub Pages este configurat să publice din **main / docs**. După modificări, rulează build-ul și comite și directorul `docs/` înainte de push. Dacă numele repository-ului se schimbă, actualizează `base` în `vite.config.ts`.
+Build-ul implicit produce `docs/`, cu baza `/noctis-library/`, pentru Pages main/docs. Build-ul Render produce `dist/`, cu baza `/`; configurare Static Site: build `npm ci && npm run build:render`, director publicat `dist`. Nu necesită un proces Node permanent ori o bază de date.
 
-`npm test` verifică și referințele tuturor traseelor, pașii următori, temporizarea după ceas și dimensiunile tuturor tabelelor bilingve. De asemenea, verifică izolarea profilurilor, persistența progresului, poziția cea mai înaintată, setările, exportul/importul și respingerea fișierelor invalide. `npm run build` include verificarea TypeScript.
+`prepare-content.mjs` generează metadatele și articolele înainte de dezvoltare, verificări și teste. Fișierele cu hash anterioare sunt păstrate pentru edițiile încă deschise de cititori.
+
+Testele verifică profilurile, export/import, progresul, traseele, timpii, acoperirea celor300pagini, tabelele bilingve, limbile originale, ordinea peceților, legăturile inline, citatele și încărcarea/cache-ul articolelor. Ambele build-uri includ verificarea TypeScript.
 
 ## Atribuire
 
-Proiect personal, neoficial. Republicarea și traducerea au fost solicitate de proprietarul proiectului, care a declarat că deține drepturile necesare. Conținutul original rămâne atribuit autorilor săi. Hello Kitty este un personaj Sanrio; ilustrațiile sunt fan art neoficial. Prompturile și informațiile despre imaginile generate sunt în [ASSETS.md](ASSETS.md). Ilustrațiile NOCTIS sunt marcate separat și nu sunt prezentate ca imagini din sursa originală.
+Proiect personal, neoficial. Proprietarul a declarat că deține drepturile de republicare și traducere. Autorii sunt creditați pe fiecare pagină. Hello Kitty este un personaj Sanrio; ilustrațiile sunt fan art neoficial generate pentru proiect. Prompturile și fișierele sunt în [ASSETS.md](ASSETS.md). Pictogramele proprii și ornamentația NOCTIS sunt distincte de sursa originală.
